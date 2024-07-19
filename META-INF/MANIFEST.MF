@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Content-Package-Id: destinationpet:dpet-site:1.0
+Content-Package-Roots: /content/experience-fragments/dpet,/conf/dpet,/co
+ ntent/dpet,/content/dam/dpet
+Content-Package-Type: content
+

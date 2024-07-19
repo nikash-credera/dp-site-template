@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="cq:Page">
+    <destpet jcr:primaryType="nt:unstructured">
+        <components jcr:primaryType="nt:unstructured">
+            <structure jcr:primaryType="nt:unstructured">
+                <page jcr:primaryType="nt:unstructured">
+                    <policy_1721250957428
+                        jcr:description="Page policy for destination pet pages."
+                        jcr:lastModified="{Date}2024-07-18T03:16:39.728+05:30"
+                        jcr:lastModifiedBy="admin"
+                        jcr:primaryType="nt:unstructured"
+                        jcr:title="Destination Pet Page Policy"
+                        sling:resourceType="wcm/core/components/policy/policy"
+                        clientlibs="[destpet.base,destpet.site,destpet.global,destpet.dependencies]"
+                        clientlibsAsync="false"
+                        clientlibsJsHead="destpet.dependencies">
+                        <jcr:content jcr:primaryType="nt:unstructured"/>
+                    </policy_1721250957428>
+                </page>
+            </structure>
+            <content jcr:primaryType="nt:unstructured">
+                <container jcr:primaryType="nt:unstructured">
+                    <policy_1721251285983
+                        jcr:description="Policy for the contents of the page."
+                        jcr:lastModified="{Date}2024-07-18T05:33:18.430+05:30"
+                        jcr:lastModifiedBy="admin"
+                        jcr:primaryType="nt:unstructured"
+                        jcr:title="Destination Pet Content Policy"
+                        sling:resourceType="wcm/core/components/policy/policy"
+                        components="group:Destination Pet - Content"
+                        layoutDisabled="false">
+                        <jcr:content jcr:primaryType="nt:unstructured"/>
+                    </policy_1721251285983>
+                </container>
+            </content>
+        </components>
+    </destpet>
+</jcr:root>
