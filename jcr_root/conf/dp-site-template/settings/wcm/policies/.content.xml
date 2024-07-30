@@ -34,6 +34,53 @@
                         <jcr:content jcr:primaryType="nt:unstructured"/>
                     </policy_1721251285983>
                 </container>
+				<image jcr:primaryType="nt:unstructured">
+                    <policy_1722243119805
+                        jcr:primaryType="nt:unstructured"
+                        jcr:title="Image Policy"
+                        sling:resourceType="wcm/core/components/policy/policy"
+                        disableLazyLoading="false"
+                        displayPopupTitle="true"
+                        enableAssetDelivery="false"
+                        enableDmFeatures="true"
+                        isDecorative="false"
+                        titleValueFromDAM="true">
+                        <jcr:content jcr:primaryType="nt:unstructured"/>
+                        <cq:styleGroups jcr:primaryType="nt:unstructured">
+                            <item0
+                                cq:styleGroupLabel="Align"
+                                jcr:primaryType="nt:unstructured">
+                                <cq:styles jcr:primaryType="nt:unstructured">
+                                    <item0
+                                        cq:styleId="1722249733245"
+                                        cq:styleLabel="Left"
+                                        jcr:primaryType="nt:unstructured"/>
+                                    <item1
+                                        cq:styleClasses="image__right"
+                                        cq:styleId="1722249737201"
+                                        cq:styleLabel="Right"
+                                        jcr:primaryType="nt:unstructured"/>
+                                    <item2
+                                        cq:styleClasses="image__center"
+                                        cq:styleId="1722249749494"
+                                        cq:styleLabel="Center"
+                                        jcr:primaryType="nt:unstructured"/>
+                                </cq:styles>
+                            </item0>
+                            <item1
+                                cq:styleGroupLabel="Types"
+                                jcr:primaryType="nt:unstructured">
+                                <cq:styles jcr:primaryType="nt:unstructured">
+                                    <item0
+                                        cq:styleClasses="image__circular"
+                                        cq:styleId="1722249782759"
+                                        cq:styleLabel="Circular"
+                                        jcr:primaryType="nt:unstructured"/>
+                                </cq:styles>
+                            </item1>
+                        </cq:styleGroups>
+                    </policy_1722243119805>
+                </image>
             </content>
         </components>
     </destpet>
