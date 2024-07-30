@@ -74,7 +74,7 @@
                         jcr:title="Book Now"
                         sling:resourceType="destpet/components/content/button"
                         id="Welcome-to-Brown-Dog-Lodge"
-                        link="/content/bdl/us/en/daycare/dog-daycare"
+                        link="/content/dp-site-template/us/en/services/daycare"
                         linkTarget="_blank"/>
                     <dmcontainer
                         jcr:primaryType="nt:unstructured"
@@ -238,7 +238,7 @@
                     id="bestlife"
                     imageFromPageImage="false"
                     imageModifiers="wid=2000"
-                    linkURL="/content/nikash/us/en/bestlife/overview"
+                    linkURL="/content/dp-site-template/us/en/bestlife/overview"
                     titleValueFromDAM="true"/>
                 <mediainfo1
                     cq:styleIds="[1660737948429,1654083381783]"
@@ -358,7 +358,7 @@
                                         jcr:primaryType="nt:unstructured"
                                         icon="icon-right-arrow-green"
                                         linkText="Learn More"
-                                        linkUrl="/content/bdl/us/en/pet-boarding/dog-boarding.html"
+                                        linkUrl="/content/dp-site-template/us/en/boarding/dog-boarding.html"
                                         newTab="_blank"/>
                                 </links>
                             </links>
@@ -384,7 +384,7 @@
                                             jcr:primaryType="nt:unstructured"
                                             icon="icon-right-arrow-black"
                                             linkText="Learn More"
-                                            linkUrl="/content/bdl/us/en/veterinary-care"/>
+                                            linkUrl="/content/dp-site-template/us/en/services/veterinary/pet-preventive"/>
                                     </links>
                                 </linkslist>
                                 <richtext_copy
@@ -403,7 +403,7 @@
                                     icon="icon-right-arrow-black"
                                     id="Vet Services"
                                     linkText="Learn More"
-                                    linkUrl="/content/nikash/us/en/services/veterinary-services/flea-and-tick"/>
+                                    linkUrl="/content/dp-site-template/us/en/services/veterinary/flea-and-tick"/>
                             </container>
                             <image
                                 jcr:lastModified="{Date}2024-05-21T21:26:31.467Z"
@@ -418,7 +418,7 @@
                                 fileReference="/content/dam/destpet/destination-pet-wood-stock/us/en/general/dog-check-up.jpg"
                                 id="Vet Services"
                                 imageFromPageImage="false"
-                                linkURL="/content/nikash/us/en/services/veterinary-services/flea-and-tick"
+                                linkURL="/content/dp-site-template/us/en/services/veterinary/flea-and-tick"
                                 titleValueFromDAM="true"/>
                         </infocards_copy_copy_>
                     </_x0031_>
@@ -459,7 +459,7 @@
                                         jcr:primaryType="nt:unstructured"
                                         icon="icon-right-arrow-green"
                                         linkText="Learn More"
-                                        linkUrl="/content/bdl/us/en/pet-boarding/dog-boarding.html"
+                                        linkUrl="/content/dp-site-template/us/en/boarding/dog-boarding"
                                         newTab="_blank"/>
                                 </links>
                             </links>
@@ -485,7 +485,7 @@
                                             jcr:primaryType="nt:unstructured"
                                             icon="icon-right-arrow-black"
                                             linkText="Learn More"
-                                            linkUrl="/content/bdl/us/en/veterinary-care"/>
+                                            linkUrl="/content/dp-site-template/us/en/services/veterinary/pet-preventive"/>
                                     </links>
                                 </linkslist>
                                 <richtext_copy_copy
@@ -504,7 +504,7 @@
                                     icon="icon-right-arrow-black"
                                     id="dog-grooming"
                                     linkText="Learn More"
-                                    linkUrl="/content/nikash/us/en/services/dog-grooming"/>
+                                    linkUrl="/content/dp-site-template/us/en/services/grooming"/>
                             </container>
                             <image
                                 jcr:lastModified="{Date}2024-05-21T21:27:28.987Z"
@@ -519,7 +519,7 @@
                                 fileReference="/content/dam/destpet/destination-pet-wood-stock/us/en/corgi-bath-happy.jpg"
                                 id="dog-groomings"
                                 imageFromPageImage="false"
-                                linkURL="/content/nikash/us/en/services/dog-grooming"
+                                linkURL="/content/dp-site-template/us/en/services/grooming"
                                 titleValueFromDAM="true"/>
                         </infocards_copy_copy_>
                     </_x0033_>
@@ -560,7 +560,7 @@
                                         jcr:primaryType="nt:unstructured"
                                         icon="icon-right-arrow-green"
                                         linkText="Learn More"
-                                        linkUrl="/content/bdl/us/en/pet-boarding/dog-boarding.html"
+                                        linkUrl="/content/dp-site-template/us/en/services/grooming"
                                         newTab="_blank"/>
                                 </links>
                             </links>
@@ -586,7 +586,7 @@
                                             jcr:primaryType="nt:unstructured"
                                             icon="icon-right-arrow-black"
                                             linkText="Learn More"
-                                            linkUrl="/content/bdl/us/en/veterinary-care"/>
+                                            linkUrl="/content/dp-site-template/us/en/services/veterinary/pet-preventive"/>
                                     </links>
                                 </linkslist>
                                 <richtext
@@ -604,7 +604,7 @@
                                     icon="icon-right-arrow-black"
                                     id="dog-daycare"
                                     linkText="Learn More"
-                                    linkUrl="/content/nikash/us/en/services/dog-daycare"/>
+                                    linkUrl="/content/dp-site-template/us/en/services/daycare"/>
                             </container>
                             <image
                                 jcr:lastModified="{Date}2024-05-21T21:27:01.776Z"
@@ -619,7 +619,7 @@
                                 fileReference="/content/dam/destpet/destination-pet-wood-stock/us/en/dog-grass-chew-toy.jpg"
                                 id="dog-daycares"
                                 imageFromPageImage="false"
-                                linkURL="/content/nikash/us/en/services/dog-daycare"
+                                linkURL="/content/dp-site-template/us/en/services/daycare"
                                 titleValueFromDAM="true"/>
                         </infocards_copy_copy_>
                     </_x0032_>
@@ -651,7 +651,7 @@
                                 fileReference="/content/dam/destpet/destination-pet-wood-stock/us/en/dog-laying-bed.jpg"
                                 id="Dog boarding"
                                 isDecorative="false"
-                                linkURL="/content/jpr/us/en/dog-boarding"
+                                linkURL="/content/dp-site-template/us/en/services/boarding/dog-boarding"
                                 titleValueFromDAM="false"/>
                             <richtext
                                 jcr:lastModified="{Date}2022-08-10T13:21:51.501Z"
@@ -678,7 +678,7 @@
                                         jcr:primaryType="nt:unstructured"
                                         icon="icon-right-arrow-green"
                                         linkText="Learn More"
-                                        linkUrl="/content/bdl/us/en/pet-boarding/dog-boarding.html"
+                                        linkUrl="/content/dp-site-template/us/en/services/boarding/dog-boarding"
                                         newTab="_blank"/>
                                 </links>
                             </links>
@@ -696,7 +696,7 @@
                                             jcr:primaryType="nt:unstructured"
                                             icon="icon-right-arrow-black"
                                             linkText="Learn More"
-                                            linkUrl="/content/bdl/us/en/veterinary-care"/>
+                                            linkUrl="/content/dp-site-template/us/en/services/veterinary/pet-preventive"/>
                                     </links>
                                 </linkslist>
                             </container>
@@ -746,7 +746,7 @@
                                         jcr:primaryType="nt:unstructured"
                                         icon="icon-right-arrow-green"
                                         linkText="Learn More"
-                                        linkUrl="/content/bdl/us/en/pet-boarding/dog-boarding.html"
+                                        linkUrl="/content/dp-site-template/us/en/services/boarding/dog-boarding"
                                         newTab="_blank"/>
                                 </links>
                             </links>
@@ -772,7 +772,7 @@
                                             jcr:primaryType="nt:unstructured"
                                             icon="icon-right-arrow-black"
                                             linkText="Learn More"
-                                            linkUrl="/content/bdl/us/en/veterinary-care"/>
+                                            linkUrl="/content/dp-site-template/us/en/services/veterinary/pet-preventive"/>
                                     </links>
                                 </linkslist>
                                 <richtext_copy
@@ -791,7 +791,7 @@
                                     icon="icon-right-arrow-black"
                                     id="dog-boarding"
                                     linkText="Learn More"
-                                    linkUrl="/content/nikash/us/en/services/pet-boarding/dog-boarding"/>
+                                    linkUrl="/content/dp-site-template/us/en/services/boarding/dog-boarding"/>
                             </container>
                             <image
                                 jcr:lastModified="{Date}2024-05-21T21:27:53.242Z"
@@ -806,7 +806,7 @@
                                 fileReference="/content/dam/destpet/destination-pet-wood-stock/us/en/dog-laying-bed.jpg"
                                 id="dog-boardings"
                                 imageFromPageImage="false"
-                                linkURL="/content/nikash/us/en/services/pet-boarding/dog-boarding"
+                                linkURL="/content/dp-site-template/us/en/services/boarding/dog-boarding"
                                 titleValueFromDAM="true"/>
                         </infocards_copy_copy_>
                     </_x0031_>
@@ -847,7 +847,7 @@
                                         jcr:primaryType="nt:unstructured"
                                         icon="icon-right-arrow-green"
                                         linkText="Learn More"
-                                        linkUrl="/content/bdl/us/en/pet-boarding/dog-boarding.html"
+                                        linkUrl="/content/dp-site-template/us/en/boarding/dog-boarding"
                                         newTab="_blank"/>
                                 </links>
                             </links>
@@ -873,7 +873,7 @@
                                             jcr:primaryType="nt:unstructured"
                                             icon="icon-right-arrow-black"
                                             linkText="Learn More"
-                                            linkUrl="/content/bdl/us/en/veterinary-care"/>
+                                            linkUrl="/content/dp-site-template/us/en/services/veterinary/pet-preventive"/>
                                     </links>
                                 </linkslist>
                                 <richtext_copy_copy
@@ -892,7 +892,7 @@
                                     icon="icon-right-arrow-black"
                                     id="dog-trainings"
                                     linkText="Learn More"
-                                    linkUrl="/content/aem-site-template-standard/us/en/services/dog-training"/>
+                                    linkUrl="/content/dp-site-template/us/en/services/training"/>
                             </container>
                             <image
                                 jcr:lastModified="{Date}2024-05-21T21:29:57.704Z"
@@ -907,7 +907,7 @@
                                 fileReference="/content/dam/destpet/destination-pet-wood-stock/us/en/dog-sitting-trainer-hand.jpg"
                                 id="dog-training"
                                 imageFromPageImage="false"
-                                linkURL="/content/aem-site-template-standard/us/en/services/dog-training"
+                                linkURL="/content/dp-site-template/us/en/services/training"
                                 titleValueFromDAM="true"/>
                         </infocards_copy_copy_>
                     </_x0033_>
@@ -948,7 +948,7 @@
                                         jcr:primaryType="nt:unstructured"
                                         icon="icon-right-arrow-green"
                                         linkText="Learn More"
-                                        linkUrl="/content/bdl/us/en/pet-boarding/dog-boarding.html"
+                                        linkUrl="/content/dp-site-template/us/en/boarding/dog-boarding"
                                         newTab="_blank"/>
                                 </links>
                             </links>
@@ -974,7 +974,7 @@
                                             jcr:primaryType="nt:unstructured"
                                             icon="icon-right-arrow-black"
                                             linkText="Learn More"
-                                            linkUrl="/content/bdl/us/en/veterinary-care"/>
+                                            linkUrl="/content/dp-site-template/us/en/services/veterinary/pet-preventive"/>
                                     </links>
                                 </linkslist>
                                 <richtext
@@ -992,7 +992,7 @@
                                     icon="icon-right-arrow-black"
                                     id="cat-boarding"
                                     linkText="Learn More"
-                                    linkUrl="/content/aem-site-template-standard/us/en/services/pet-boarding/cat-boarding"/>
+                                    linkUrl="/content/dp-site-template/us/en/services/boarding/cat-boarding"/>
                             </container>
                             <image
                                 jcr:lastModified="{Date}2024-05-21T21:29:17.598Z"
@@ -1007,7 +1007,7 @@
                                 fileReference="/content/dam/destpet/destination-pet-wood-stock/us/en/cat-laying-bed.jpg"
                                 id="cat-boarding"
                                 imageFromPageImage="false"
-                                linkURL="/content/aem-site-template-standard/us/en/services/pet-boarding/cat-boarding"
+                                linkURL="/content/dp-site-template/us/en/services/boarding/cat-boarding"
                                 titleValueFromDAM="true"/>
                         </infocards_copy_copy_>
                     </_x0032_>
@@ -1039,7 +1039,7 @@
                                 fileReference="/content/dam/destpet/destination-pet-wood-stock/us/en/dog-laying-bed.jpg"
                                 id="Dog boarding"
                                 isDecorative="false"
-                                linkURL="/content/jpr/us/en/dog-boarding"
+                                linkURL="/content/dp-site-template/us/en/services/boarding/dog-boarding"
                                 titleValueFromDAM="false"/>
                             <richtext
                                 jcr:lastModified="{Date}2022-08-10T13:21:51.501Z"
@@ -1066,7 +1066,7 @@
                                         jcr:primaryType="nt:unstructured"
                                         icon="icon-right-arrow-green"
                                         linkText="Learn More"
-                                        linkUrl="/content/bdl/us/en/pet-boarding/dog-boarding.html"
+                                        linkUrl="/content/dp-site-template/us/en/services/boarding/dog-boarding"
                                         newTab="_blank"/>
                                 </links>
                             </links>
@@ -1084,7 +1084,7 @@
                                             jcr:primaryType="nt:unstructured"
                                             icon="icon-right-arrow-black"
                                             linkText="Learn More"
-                                            linkUrl="/content/bdl/us/en/veterinary-care"/>
+                                            linkUrl="/content/dp-site-template/us/en/services/veterinary/pet-preventive"/>
                                     </links>
                                 </linkslist>
                             </container>
@@ -1106,7 +1106,7 @@
                     id="meet-our-new-app"
                     imageFromPageImage="false"
                     imageModifiers="wid=2000"
-                    linkURL="/content/aem-site-template-standard/us/en/about/our-yourgi-app"
+                    linkURL="/content/dp-site-template/us/en/about-us/our-yourgi-app"
                     titleValueFromDAM="true"/>
                 <mediainfo2
                     cq:styleIds="[1654083381783,1660737948429,1660737909560]"
@@ -1330,7 +1330,7 @@
                             jcr:title="Connected Care"
                             sling:resourceType="destpet/components/content/button"
                             id="connected-care"
-                            link="/content/aem-site-template-standard/us/en/services/veterinary-services/additional-services/connected-care"
+                            link="/content/dp-site-template/us/en/services/veterinary/additional-services/connected-care"
                             linkTarget="_self"/>
                     </container1>
                     <container2
@@ -1402,7 +1402,7 @@
                             jcr:title="Contact Us"
                             sling:resourceType="destpet/components/content/button"
                             id="contact"
-                            link="/content/aem-site-template-standard/us/en/about/contact"
+                            link="/content/dp-site-template/us/en/about-us/contact-us"
                             linkTarget="_self"/>
                     </container2>
                 </mediainfo4>
