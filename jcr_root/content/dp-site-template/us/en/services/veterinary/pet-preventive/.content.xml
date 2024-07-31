@@ -49,7 +49,7 @@
                         jcr:title="Book Now"
                         sling:resourceType="destpet/components/content/button"
                         id="Welcome-to-Brown-Dog-Lodge"
-                        link="/content/bdl/us/en/daycare/dog-daycare"
+                        link="/content/dp-site-template/us/en/services/daycare/dog-daycare"
                         linkTarget="_blank"/>
                     <dmcontainer
                         jcr:primaryType="nt:unstructured"
@@ -114,7 +114,7 @@
                         jcr:primaryType="nt:unstructured"
                         jcr:title="Learn More"
                         sling:resourceType="destpet/components/content/button"
-                        link="/content/bdl/us/en/about"
+                        link="/content/dp-site-template/us/en/about-us"
                         linkTarget="_blank"/>
                     <image
                         cq:styleIds="[1654083114742]"
@@ -156,7 +156,7 @@
                             jcr:primaryType="nt:unstructured"
                             jcr:title="Learn More"
                             sling:resourceType="destpet/components/content/button"
-                            link="/content/bdl/us/en/about"
+                            link="/content/dp-site-template/us/en/about-us"
                             linkTarget="_self"/>
                     </container>
                     <container1
@@ -232,7 +232,7 @@
                         jcr:primaryType="nt:unstructured"
                         jcr:title="Learn More"
                         sling:resourceType="destpet/components/content/button"
-                        link="/content/bdl/us/en/about"
+                        link="/content/dp-site-template/us/en/about-us"
                         linkTarget="_blank"/>
                     <image
                         cq:styleIds="[1654083114742]"
@@ -274,7 +274,7 @@
                             jcr:primaryType="nt:unstructured"
                             jcr:title="Learn More"
                             sling:resourceType="destpet/components/content/button"
-                            link="/content/bdl/us/en/about"
+                            link="/content/dp-site-template/us/en/about-us"
                             linkTarget="_self"/>
                     </container>
                     <container1
@@ -332,7 +332,7 @@
                         jcr:primaryType="nt:unstructured"
                         jcr:title="Learn More"
                         sling:resourceType="destpet/components/content/button"
-                        link="/content/bdl/us/en/about"
+                        link="/content/dp-site-template/us/en/about-us"
                         linkTarget="_blank"/>
                     <image
                         cq:styleIds="[1654083114742]"
@@ -374,7 +374,7 @@
                             jcr:primaryType="nt:unstructured"
                             jcr:title="Learn More"
                             sling:resourceType="destpet/components/content/button"
-                            link="/content/bdl/us/en/about"
+                            link="/content/dp-site-template/us/en/about-us"
                             linkTarget="_self"/>
                     </container>
                     <container_1
@@ -432,7 +432,7 @@
                         jcr:primaryType="nt:unstructured"
                         jcr:title="Learn More"
                         sling:resourceType="destpet/components/content/button"
-                        link="/content/bdl/us/en/about"
+                        link="/content/dp-site-template/us/en/about-us"
                         linkTarget="_blank"/>
                     <image
                         cq:styleIds="[1654083114742]"
@@ -474,7 +474,7 @@
                             jcr:primaryType="nt:unstructured"
                             jcr:title="Learn More"
                             sling:resourceType="destpet/components/content/button"
-                            link="/content/bdl/us/en/about"
+                            link="/content/dp-site-template/us/en/about-us"
                             linkTarget="_self"/>
                     </container>
                     <container1

@@ -85,7 +85,7 @@
                         jcr:primaryType="nt:unstructured"
                         jcr:title="Learn More"
                         sling:resourceType="destpet/components/content/button"
-                        link="/content/bdl/us/en/about"
+                        link="/content/dp-site-template/us/en/about-us"
                         linkTarget="_blank"/>
                     <image
                         cq:styleIds="[1654083114742]"
@@ -127,7 +127,7 @@
                             jcr:primaryType="nt:unstructured"
                             jcr:title="Learn More"
                             sling:resourceType="destpet/components/content/button"
-                            link="/content/bdl/us/en/about"
+                            link="/content/dp-site-template/us/en/about-us"
                             linkTarget="_self"/>
                     </container>
                     <container1
@@ -184,7 +184,7 @@
                     id=" bestlife"
                     imageFromPageImage="false"
                     imageModifiers="wid=2000"
-                    linkURL="/content/aem-site-template-standard/us/en/bestlife/overview"
+                    linkURL="/content/dp-site-template/us/en/bestlife/overview"
                     titleValueFromDAM="true"/>
                 <mediainfo1
                     cq:styleIds="[1660737948429,1654083381783]"
@@ -307,7 +307,7 @@
                         jcr:primaryType="nt:unstructured"
                         jcr:title="Learn More"
                         sling:resourceType="destpet/components/content/button"
-                        link="/content/bdl/us/en/about"
+                        link="/content/dp-site-template/us/en/about-us"
                         linkTarget="_blank"/>
                     <image
                         cq:styleIds="[1654083114742]"
@@ -349,7 +349,7 @@
                             jcr:primaryType="nt:unstructured"
                             jcr:title="Learn More"
                             sling:resourceType="destpet/components/content/button"
-                            link="/content/bdl/us/en/about"
+                            link="/content/dp-site-template/us/en/about-us"
                             linkTarget="_self"/>
                     </container>
                     <container1

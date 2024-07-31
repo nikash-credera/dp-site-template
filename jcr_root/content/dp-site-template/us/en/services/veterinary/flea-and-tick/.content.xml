@@ -153,7 +153,7 @@
                         jcr:primaryType="nt:unstructured"
                         jcr:title="Learn More"
                         sling:resourceType="destpet/components/content/button"
-                        link="/content/bdl/us/en/about"
+                        link="/content/dp-site-template/us/en/about-us"
                         linkTarget="_blank"/>
                     <image
                         cq:styleIds="[1654083114742]"
@@ -195,7 +195,7 @@
                             jcr:primaryType="nt:unstructured"
                             jcr:title="Learn More"
                             sling:resourceType="destpet/components/content/button"
-                            link="/content/bdl/us/en/about"
+                            link="/content/dp-site-template/us/en/about-us"
                             linkTarget="_self"/>
                     </container>
                     <container_1

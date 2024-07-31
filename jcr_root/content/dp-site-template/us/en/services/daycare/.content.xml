@@ -133,7 +133,7 @@
                                             jcr:primaryType="nt:unstructured"
                                             jcr:title="Book your dog's Meet &amp; Greet today for a FREE trial day of Daycare!"
                                             sling:resourceType="destpet/components/content/button"
-                                            link="/content/aem-site-template-standard/us/en/about/contact"
+                                            link="/content/dp-site-template/us/en/about-us/contact-us"
                                             linkTarget="_self"/>
                                     </_x0031_>
                                 </columncontainer_1593525367>
@@ -157,7 +157,7 @@
                     imageFromPageImage="false"
                     imageModifiers="[wid=2000]"
                     linkTarget="_self"
-                    linkURL="/content/aem-site-template-standard/us/en/bestlife/overview"
+                    linkURL="/content/dp-site-template/us/en/bestlife/overview"
                     titleValueFromDAM="true"/>
                 <mediainfo
                     cq:styleIds="[1660737909560,1660737948429]"
@@ -175,7 +175,7 @@
                         jcr:primaryType="nt:unstructured"
                         jcr:title="Learn More"
                         sling:resourceType="destpet/components/content/button"
-                        link="/content/bdl/us/en/about"
+                        link="/content/dp-site-template/us/en/about-us"
                         linkTarget="_blank"/>
                     <image
                         cq:styleIds="[1654083114742]"
@@ -217,7 +217,7 @@
                             jcr:primaryType="nt:unstructured"
                             jcr:title="Learn More"
                             sling:resourceType="destpet/components/content/button"
-                            link="/content/bdl/us/en/about"
+                            link="/content/dp-site-template/us/en/about-us"
                             linkTarget="_self"/>
                     </container>
                     <container1
@@ -275,7 +275,7 @@
                         jcr:primaryType="nt:unstructured"
                         jcr:title="Learn More"
                         sling:resourceType="destpet/components/content/button"
-                        link="/content/bdl/us/en/about"
+                        link="/content/dp-site-template/us/en/about-us"
                         linkTarget="_blank"/>
                     <image
                         cq:styleIds="[1654083114742]"
@@ -317,7 +317,7 @@
                             jcr:primaryType="nt:unstructured"
                             jcr:title="Learn More"
                             sling:resourceType="destpet/components/content/button"
-                            link="/content/bdl/us/en/about"
+                            link="/content/dp-site-template/us/en/about-us"
                             linkTarget="_self"/>
                     </container>
                     <container1
@@ -420,7 +420,7 @@
                         jcr:primaryType="nt:unstructured"
                         jcr:title="Learn More"
                         sling:resourceType="destpet/components/content/button"
-                        link="/content/bdl/us/en/about"
+                        link="/content/dp-site-template/us/en/about-us"
                         linkTarget="_blank"/>
                     <image
                         cq:styleIds="[1654083114742]"
@@ -462,7 +462,7 @@
                             jcr:primaryType="nt:unstructured"
                             jcr:title="Learn More"
                             sling:resourceType="destpet/components/content/button"
-                            link="/content/bdl/us/en/about"
+                            link="/content/dp-site-template/us/en/about-us"
                             linkTarget="_self"/>
                     </container>
                     <container1
