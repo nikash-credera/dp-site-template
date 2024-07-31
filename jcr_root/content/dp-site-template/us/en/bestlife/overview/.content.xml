@@ -54,7 +54,7 @@
                             fileReference="/content/dam/destpet/destination-pet-wood-stock/us/en/BestlifeLandingPage_Header.jpg"
                             id="bestlife dog with partner"
                             imageFromPageImage="false"
-                            linkURL="/content/aem-site-template-standard/us/en/bestlife/plan-details"
+                            linkURL="/content/dp-site-template/us/en/bestlife/plan-details"
                             titleValueFromDAM="true"/>
                     </_x0031_>
                 </columncontainer>
@@ -144,7 +144,7 @@
                             fileReference="/content/dam/destpet/destination-pet-wood-stock/us/en/BestlifeLandingPage_ExplorePlans.jpg"
                             id="Annual plans"
                             imageFromPageImage="false"
-                            linkURL="/content/aem-site-template-standard/us/en/bestlife/plan-details"
+                            linkURL="/content/dp-site-template/us/en/bestlife/plan-details"
                             titleValueFromDAM="true"/>
                     </_x0031_>
                 </columncontainer3>
@@ -199,7 +199,7 @@
                             fileReference="/content/dam/destpet/destination-pet-wood-stock/us/en/BestlifeLandingPage_BenefitsIcons.jpg"
                             id="Annual benefits"
                             imageFromPageImage="false"
-                            linkURL="/content/aem-site-template-standard/us/en/bestlife/plan-details"
+                            linkURL="/content/dp-site-template/us/en/bestlife/plan-details"
                             titleValueFromDAM="true"/>
                     </_x0031_>
                 </columncontainer5>
