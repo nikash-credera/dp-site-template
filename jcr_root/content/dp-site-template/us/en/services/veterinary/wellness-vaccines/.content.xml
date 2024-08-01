@@ -17,7 +17,7 @@
         sling:resourceType="destpet/components/structure/page"
         clientlibsTheme="theme-brown-dog-lodge"
         disablePopup="false"
-        favIconClientLibPath="/etc.clientlibs/platform/clientlibs/clientlib-favicon/aem-site-template-standard/resources"
+        favIconClientLibPath="/etc.clientlibs/clientlib-favicon/dp-site-template/resources"
         hidePopupMobile="true"
         megamenuView="false"
         ogTags="false"
@@ -772,7 +772,7 @@
                             jcr:primaryType="nt:unstructured"
                             jcr:title="Contact"
                             sling:resourceType="destpet/components/content/button"
-                            link="/content/aem-site-template-standard/us/en/about/contact"
+                            link="/content/dp-site-template/us/en/about/contact"
                             linkTarget="_self"/>
                     </_x0031_>
                 </columncontainer3>

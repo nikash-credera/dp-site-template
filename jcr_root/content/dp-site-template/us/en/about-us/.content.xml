@@ -13,7 +13,7 @@
         sling:resourceType="destpet/components/structure/page"
         clientlibsTheme="theme-dp-site-template"
         disablePopup="false"
-        favIconClientLibPath="/etc.clientlibs/platform/clientlibs/clientlib-favicon/dp-site-template/resources"
+        favIconClientLibPath="/etc.clientlibs/clientlib-favicon/dp-site-template/resources"
         hidePopupMobile="true"
         megamenuView="false"
         ogTags="false"

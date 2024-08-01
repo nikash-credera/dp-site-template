@@ -15,7 +15,7 @@
         sling:resourceType="destpet/components/structure/page"
         clientlibsTheme="theme-brown-dog-lodge"
         disablePopup="false"
-        favIconClientLibPath="/etc.clientlibs/platform/clientlibs/clientlib-favicon/aem-site-template-standard/resources"
+        favIconClientLibPath="/etc.clientlibs/clientlib-favicon/dp-site-template/resources"
         hidePopupMobile="true"
         megamenuView="false"
         ogTags="false"
@@ -195,7 +195,7 @@
                             jcr:title="Book Your Pet's Stay"
                             sling:resourceType="destpet/components/content/button"
                             id="Book Your Pet's Stay"
-                            link="https://aem-site-template-standardus.gingrapp.com/front_end/login/email"
+                            link="https://dp-site-templateus.gingrapp.com/front_end/login/email"
                             linkTarget="_blank"/>
                     </container2>
                 </mediainfo>
