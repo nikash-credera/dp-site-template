@@ -15,7 +15,7 @@
         cq:lastReplicationAction_publish="Activate"
         cq:lastReplicationAction_scene7="Activate"
         cq:tags="[experience-fragments:variation/web]"
-        cq:template="/conf/brands/settings/wcm/templates/xf-web-variation"
+        cq:template="/conf/destpet/settings/wcm/templates/xf-web"
         cq:xfMasterVariation="{Boolean}true"
         cq:xfVariantType="web"
         jcr:isCheckedOut="{Boolean}true"
@@ -23,10 +23,10 @@
         jcr:primaryType="cq:PageContent"
         jcr:title="Popup"
         jcr:uuid="349c6667-0c3d-4342-8083-6caf7cb363a7"
-        sling:resourceType="brands/components/structure/xfpage">
+        sling:resourceType="destpet/components/structure/xfpage">
         <root
             jcr:primaryType="nt:unstructured"
-            sling:resourceType="brands/components/container/container"
+            sling:resourceType="destpet/components/content/container"
             layout="responsiveGrid">
             <popupform
                 jcr:created="{Date}2024-05-22T14:50:17.252Z"
@@ -34,7 +34,7 @@
                 jcr:lastModified="{Date}2024-06-05T03:54:53.838Z"
                 jcr:lastModifiedBy="deepika.kawatra@destpet.com"
                 jcr:primaryType="nt:unstructured"
-                sling:resourceType="platform/components/content/popupform/v1/popupform"
+                sling:resourceType="destpet/components/content/popupform"
                 centerId="501"
                 formId="100501"
                 id="promotions"
@@ -44,14 +44,14 @@
                     jcr:lastModified="{Date}2024-05-22T14:51:14.604Z"
                     jcr:lastModifiedBy="deepika.kawatra@destpet.com"
                     jcr:primaryType="nt:unstructured"
-                    sling:resourceType="platform/components/content/richtext/v1/richtext"
+                    sling:resourceType="destpet/components/content/richtext"
                     text="&lt;p>HAVE QUESTIONS ABOUT?&lt;/p>&#xd;&#xa;"
                     textIsRich="true"/>
                 <richtext2
                     jcr:lastModified="{Date}2024-05-22T14:51:54.400Z"
                     jcr:lastModifiedBy="deepika.kawatra@destpet.com"
                     jcr:primaryType="nt:unstructured"
-                    sling:resourceType="platform/components/content/richtext/v1/richtext"
+                    sling:resourceType="destpet/components/content/richtext"
                     text="&lt;p>Click to contact us, or enter your&lt;/p>&#xd;&#xa;&lt;p>info and we will get back to you!&lt;/p>&#xd;&#xa;"
                     textIsRich="true"/>
                 <button
@@ -59,7 +59,7 @@
                     jcr:lastModifiedBy="deepika.kawatra@destpet.com"
                     jcr:primaryType="nt:unstructured"
                     jcr:title="Contact Us"
-                    sling:resourceType="platform/components/content/button/v1/button"
+                    sling:resourceType="destpet/components/content/button"
                     id="Contact Us"
                     link="https://qrco.de/bcwYBB"
                     linkTarget="_blank"/>
@@ -68,7 +68,7 @@
                     jcr:lastModifiedBy="deepika.kawatra@destpet.com"
                     jcr:primaryType="nt:unstructured"
                     jcr:title="Book an Appointment"
-                    sling:resourceType="platform/components/content/button/v1/button"
+                    sling:resourceType="destpet/components/content/button"
                     id="Book an Appointment"
                     link="https://portal.yourgipet.com/"
                     linkTarget="_blank"/>

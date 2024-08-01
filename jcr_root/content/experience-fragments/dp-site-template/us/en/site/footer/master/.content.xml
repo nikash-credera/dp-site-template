@@ -34,7 +34,7 @@
                     alt="Sample"
                     altValueFromDAM="false"
                     displayPopupTitle="true"
-                    fileReference="/content/dam/brands/brown-dog-lodge/us/en/general/browndog-lodge-logo.png"
+                    fileReference="/content/dam/destpet/brown-dog-lodge/us/en/general/browndog-lodge-logo.png"
                     isDecorative="false"
                     titleValueFromDAM="true">
                     <image
@@ -49,7 +49,7 @@
                         altValueFromDAM="false"
                         displayPopupTitle="true"
                         dmPresetType="imagePreset"
-                        fileReference="/content/dam/brands/brown-dog-lodge/us/en/general/browndog-lodge-logo.png"
+                        fileReference="/content/dam/destpet/brown-dog-lodge/us/en/general/browndog-lodge-logo.png"
                         imageModifiers="fmt=png-alpha"
                         isDecorative="false"
                         titleValueFromDAM="true"/>
@@ -210,7 +210,7 @@
                     jcr:lastModifiedBy="admin"
                     jcr:primaryType="nt:unstructured"
                     jcr:title="Grooming"
-                    sling:resourceType="platform/components/content/title/v1/title"
+                    sling:resourceType="destpet/components/content/title"
                     linkTarget="_self"
                     type="h1"/>
                 <logocontainer
@@ -235,13 +235,13 @@
                         jcr:lastModified="{Date}2022-12-07T20:26:07.304Z"
                         jcr:lastModifiedBy="Angela.Branca@destpet.com"
                         jcr:primaryType="nt:unstructured"
-                        sling:resourceType="brands/components/content/image"
+                        sling:resourceType="destpet/components/content/image"
                         actionLinkURL="_self"
                         alt="Sample"
                         altValueFromDAM="false"
                         displayPopupTitle="true"
                         dmPresetType="imagePreset"
-                        fileReference="/content/dam/brands/brown-dog-lodge/us/en/general/BDL_vetandpetV3.png"
+                        fileReference="/content/dam/destpet/brown-dog-lodge/us/en/general/BDL_vetandpetV3.png"
                         imageModifiers="fmt=png-alpha"
                         imagePreset="Logo"
                         isDecorative="false"
@@ -485,7 +485,7 @@
                         sling:resourceType="destpet/components/content/contentfragment"
                         displayMode="multi"
                         elementNames="[title,phoneNumber,emailId]"
-                        fragmentPath="/content/dam/brands/brown-dog-lodge/us/en/content-fragments/locations-contact-info/east-memphis-lodge"
+                        fragmentPath="/content/dam/destpet/brown-dog-lodge/us/en/content-fragments/locations-contact-info/east-memphis-lodge"
                         paragraphScope="all"
                         text="Title East Memphis Lodge Phone Number (901) 437-8547 Email ID info@browndoglodge.com"
                         variationName="master"/>
@@ -498,7 +498,7 @@
                         sling:resourceType="destpet/components/content/contentfragment"
                         displayMode="multi"
                         elementNames="[title,phoneNumber,emailId]"
-                        fragmentPath="/content/dam/brands/brown-dog-lodge/us/en/content-fragments/locations-contact-info/german-town"
+                        fragmentPath="/content/dam/destpet/brown-dog-lodge/us/en/content-fragments/locations-contact-info/german-town"
                         paragraphScope="all"
                         text="Title Germantown Lodge Phone Number (901) 441-9431 Email ID germantown@browndoglodge.com"
                         variationName="master"/>
@@ -511,7 +511,7 @@
                         sling:resourceType="destpet/components/content/contentfragment"
                         displayMode="multi"
                         elementNames="timings"
-                        fragmentPath="/content/dam/brands/brown-dog-lodge/us/en/content-fragments/locations-contact-info/german-town"
+                        fragmentPath="/content/dam/destpet/brown-dog-lodge/us/en/content-fragments/locations-contact-info/german-town"
                         paragraphScope="all"
                         text="Timings Monday – Friday: 7am – 6pm Saturday: 9am – 1pm Sunday: 4pm-5pm"
                         variationName="master"/>
@@ -524,7 +524,7 @@
                         sling:resourceType="destpet/components/content/contentfragment"
                         displayMode="multi"
                         elementNames="[title,phoneNumber,emailId,timings]"
-                        fragmentPath="/content/dam/brands/brown-dog-lodge/us/en/content-fragments/locations-contact-info/bdl-vet"
+                        fragmentPath="/content/dam/destpet/brown-dog-lodge/us/en/content-fragments/locations-contact-info/bdl-vet"
                         paragraphScope="all"
                         text="Title BrownDog Lodge Vet Clinic Phone Number (901) 460-2600 Email ID info@browndogvet.com Timings Monday – Friday: 7am – 6pm Saturday: 7am – 12pm"
                         variationName="master"/>
@@ -637,7 +637,7 @@
                                 jcr:lastModified="{Date}2024-07-01T02:46:54.561Z"
                                 jcr:lastModifiedBy="deepika.kawatra@destpet.com"
                                 jcr:primaryType="nt:unstructured"
-                                sling:resourceType="platform/components/content/link/v1/link"
+                                sling:resourceType="destpet/components/content/link"
                                 linkText="Terms and condition"
                                 linkUrl="/content/bdl/us/en/pricing-browndog-lodge"
                                 newTab="_blank"/>
@@ -647,7 +647,7 @@
                                 jcr:lastModified="{Date}2024-07-01T02:46:54.561Z"
                                 jcr:lastModifiedBy="deepika.kawatra@destpet.com"
                                 jcr:primaryType="nt:unstructured"
-                                sling:resourceType="platform/components/content/link/v1/link"
+                                sling:resourceType="destpet/components/content/link"
                                 linkText="Terms and condition"
                                 linkUrl="/content/bdl/us/en/pricing-browndog-lodge"
                                 newTab="_blank"/>

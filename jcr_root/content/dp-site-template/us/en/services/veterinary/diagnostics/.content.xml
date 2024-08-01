@@ -127,7 +127,7 @@
                             altValueFromDAM="true"
                             displayPopupTitle="false"
                             dmPresetType="imagePreset"
-                            fileReference="/content/dam/brands/destination-pet-wood-stock/us/en/general/woman-running-diagnostics.png"
+                            fileReference="/content/dam/destpet/destination-pet-wood-stock/us/en/general/woman-running-diagnostics.png"
                             imageFromPageImage="false"
                             linkTarget="_self"
                             titleValueFromDAM="false"/>
@@ -265,7 +265,7 @@
                             altValueFromDAM="true"
                             displayPopupTitle="false"
                             dmPresetType="imagePreset"
-                            fileReference="/content/dam/brands/destination-pet-wood-stock/us/en/general/woman-looking-microscope.jpg"
+                            fileReference="/content/dam/destpet/destination-pet-wood-stock/us/en/general/woman-looking-microscope.jpg"
                             imageFromPageImage="false"
                             linkTarget="_self"
                             titleValueFromDAM="false"/>
