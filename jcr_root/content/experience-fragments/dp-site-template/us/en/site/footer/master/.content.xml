@@ -25,207 +25,6 @@
                 jcr:lastModifiedBy="admin"
                 jcr:primaryType="nt:unstructured"
                 sling:resourceType="destpet/components/content/footer">
-                <logo
-                    jcr:lastModified="{Date}2022-08-02T13:04:46.855+05:30"
-                    jcr:lastModifiedBy="admin"
-                    jcr:primaryType="nt:unstructured"
-                    sling:resourceType="destpet/components/content/image"
-                    actionLinkURL="_self"
-                    alt="Sample"
-                    altValueFromDAM="false"
-                    displayPopupTitle="true"
-                    fileReference="/content/dam/destpet/brown-dog-lodge/us/en/general/browndog-lodge-logo.png"
-                    isDecorative="false"
-                    titleValueFromDAM="true">
-                    <image
-                        jcr:created="{Date}2022-08-02T14:33:08.155+05:30"
-                        jcr:createdBy="admin"
-                        jcr:lastModified="{Date}2022-08-02T14:34:40.972+05:30"
-                        jcr:lastModifiedBy="admin"
-                        jcr:primaryType="nt:unstructured"
-                        sling:resourceType="destpet/components/content/image"
-                        actionLinkURL="_self"
-                        alt="Sample"
-                        altValueFromDAM="false"
-                        displayPopupTitle="true"
-                        dmPresetType="imagePreset"
-                        fileReference="/content/dam/destpet/brown-dog-lodge/us/en/general/browndog-lodge-logo.png"
-                        imageModifiers="fmt=png-alpha"
-                        isDecorative="false"
-                        titleValueFromDAM="true"/>
-                </logo>
-                <links1
-                    jcr:lastModified="{Date}2022-08-03T14:37:43.840+05:30"
-                    jcr:lastModifiedBy="admin"
-                    jcr:primaryType="nt:unstructured"
-                    sling:resourceType="destpet/components/content/linkslist"
-                    alignment=" link__align-vertical"
-                    icon="icon-dropdown"
-                    subHeading="General">
-                    <links jcr:primaryType="nt:unstructured">
-                        <item0
-                            jcr:primaryType="nt:unstructured"
-                            icon="icon-dropdown"
-                            linkText="Grooming"/>
-                        <item1
-                            jcr:primaryType="nt:unstructured"
-                            linkText="Daycare"/>
-                        <item2
-                            jcr:primaryType="nt:unstructured"
-                            linkText="Boarding"/>
-                        <item3
-                            jcr:primaryType="nt:unstructured"
-                            linkText="Veterniary"/>
-                    </links>
-                </links1>
-                <links3
-                    jcr:lastModified="{Date}2022-08-03T14:37:55.361+05:30"
-                    jcr:lastModifiedBy="admin"
-                    jcr:primaryType="nt:unstructured"
-                    sling:resourceType="destpet/components/content/linkslist"
-                    alignment=" link__align-vertical"
-                    icon="icon-dropdown"
-                    subHeading="Contact Info">
-                    <links jcr:primaryType="nt:unstructured">
-                        <item0
-                            jcr:primaryType="nt:unstructured"
-                            icon="icon-dropdown"
-                            linkText="Germantown Lodge (901) 441-9431"/>
-                        <item1
-                            jcr:primaryType="nt:unstructured"
-                            linkText="East Memphis Lodge"/>
-                        <item2
-                            jcr:primaryType="nt:unstructured"
-                            linkText="Monday – Friday:  7am – 6pm Saturday: 9am – 1pm Sunday: 4pm – 5pm"/>
-                    </links>
-                </links3>
-                <links5
-                    jcr:lastModified="{Date}2022-08-02T13:05:34.656+05:30"
-                    jcr:lastModifiedBy="admin"
-                    jcr:primaryType="nt:unstructured"
-                    sling:resourceType="destpet/components/content/linkslist"
-                    alignment="link__align-horizontal">
-                    <links jcr:primaryType="nt:unstructured">
-                        <item0
-                            jcr:primaryType="nt:unstructured"
-                            icon="icon-dropdown"
-                            linkText="Contact Info"/>
-                    </links>
-                </links5>
-                <links7
-                    jcr:lastModified="{Date}2022-08-02T13:06:25.198+05:30"
-                    jcr:lastModifiedBy="admin"
-                    jcr:primaryType="nt:unstructured"
-                    sling:resourceType="destpet/components/content/linkslist"
-                    alignment="link__align-horizontal">
-                    <links jcr:primaryType="nt:unstructured">
-                        <item0
-                            jcr:primaryType="nt:unstructured"
-                            icon="icon-facebook"/>
-                        <item1
-                            jcr:primaryType="nt:unstructured"
-                            icon="icon-flower"/>
-                    </links>
-                </links7>
-                <rte
-                    jcr:lastModified="{Date}2022-08-02T14:19:13.129+05:30"
-                    jcr:lastModifiedBy="admin"
-                    jcr:primaryType="nt:unstructured"
-                    sling:resourceType="destpet/components/content/richtext"
-                    text="&lt;p>Made with love \ud83d\udc36 \ud83d\udc31&lt;/p>&#xd;&#xa;&lt;p>Trademark Destination Pet 2022&lt;/p>&#xd;&#xa;&lt;p>Check us out on www.myolli.com&lt;/p>&#xd;&#xa;"
-                    textIsRich="true"/>
-                <links2
-                    jcr:lastModified="{Date}2022-08-03T14:37:49.888+05:30"
-                    jcr:lastModifiedBy="admin"
-                    jcr:primaryType="nt:unstructured"
-                    sling:resourceType="destpet/components/content/linkslist"
-                    alignment=" link__align-vertical"
-                    icon="icon-dropdown"
-                    subHeading="Company">
-                    <links jcr:primaryType="nt:unstructured">
-                        <item0
-                            jcr:primaryType="nt:unstructured"
-                            linkText="Privacy Policy"/>
-                        <item1
-                            jcr:primaryType="nt:unstructured"
-                            linkText="Terms &amp; Condition"/>
-                        <item2
-                            jcr:primaryType="nt:unstructured"
-                            linkText="Careers"/>
-                        <item3
-                            jcr:primaryType="nt:unstructured"
-                            linkText="Blog"/>
-                        <item4
-                            jcr:primaryType="nt:unstructured"
-                            linkText="Corporate"/>
-                    </links>
-                </links2>
-                <links4
-                    jcr:lastModified="{Date}2022-08-02T13:10:40.248+05:30"
-                    jcr:lastModifiedBy="admin"
-                    jcr:primaryType="nt:unstructured"
-                    sling:resourceType="destpet/components/content/linkslist"
-                    alignment=" link__align-vertical">
-                    <links jcr:primaryType="nt:unstructured">
-                        <item0
-                            jcr:primaryType="nt:unstructured"
-                            linkText="Privacy Policy"/>
-                        <item1
-                            jcr:primaryType="nt:unstructured"
-                            linkText="Terms &amp; Condition"/>
-                        <item2
-                            jcr:primaryType="nt:unstructured"
-                            linkText="Careers"/>
-                        <item3
-                            jcr:primaryType="nt:unstructured"
-                            linkText="Blog"/>
-                    </links>
-                </links4>
-                <links6
-                    jcr:lastModified="{Date}2022-08-02T13:10:33.535+05:30"
-                    jcr:lastModifiedBy="admin"
-                    jcr:primaryType="nt:unstructured"
-                    sling:resourceType="destpet/components/content/linkslist"
-                    alignment=" link__align-vertical">
-                    <links jcr:primaryType="nt:unstructured">
-                        <item0
-                            jcr:primaryType="nt:unstructured"
-                            linkText="Germantown Lodge (901) 441-9431"/>
-                        <item1
-                            jcr:primaryType="nt:unstructured"
-                            linkText="East Memphis Lodge"/>
-                        <item2
-                            jcr:primaryType="nt:unstructured"
-                            linkText="Monday – Friday:  7am – 6pm Saturday: 9am – 1pm Sunday: 4pm – 5pm"/>
-                    </links>
-                </links6>
-                <icon
-                    jcr:lastModified="{Date}2022-08-02T13:31:45.041+05:30"
-                    jcr:lastModifiedBy="admin"
-                    jcr:primaryType="nt:unstructured"
-                    sling:resourceType="destpet/components/content/iconpicker"
-                    icon="icon-dropdown"/>
-                <title
-                    jcr:lastModified="{Date}2022-08-02T13:32:04.631+05:30"
-                    jcr:lastModifiedBy="admin"
-                    jcr:primaryType="nt:unstructured"
-                    jcr:title="Grooming"
-                    sling:resourceType="destpet/components/content/title"
-                    linkTarget="_self"
-                    type="h1"/>
-                <logocontainer
-                    jcr:primaryType="nt:unstructured"
-                    sling:resourceType="destpet/components/content/container">
-                    <richtext
-                        jcr:created="{Date}2022-08-02T16:07:21.671+05:30"
-                        jcr:createdBy="admin"
-                        jcr:lastModified="{Date}2022-08-02T16:07:28.996+05:30"
-                        jcr:lastModifiedBy="admin"
-                        jcr:primaryType="nt:unstructured"
-                        sling:resourceType="destpet/components/content/richtext"
-                        text="&lt;p>fd&lt;/p>&#xd;&#xa;"
-                        textIsRich="true"/>
-                </logocontainer>
                 <container1
                     jcr:primaryType="nt:unstructured"
                     sling:resourceType="destpet/components/content/container">
@@ -241,7 +40,7 @@
                         altValueFromDAM="false"
                         displayPopupTitle="true"
                         dmPresetType="imagePreset"
-                        fileReference="/content/dam/destpet/brown-dog-lodge/us/en/general/BDL_vetandpetV3.png"
+                        fileReference="/content/dam/destpet/destination-pet-wood-stock/us/en/146DGH-logo-white.png"
                         imageModifiers="fmt=png-alpha"
                         imagePreset="Logo"
                         isDecorative="false"
@@ -250,52 +49,13 @@
                 <listcontainer1
                     jcr:primaryType="nt:unstructured"
                     sling:resourceType="destpet/components/content/container">
-                    <linkslist
-                        jcr:created="{Date}2022-08-03T14:48:26.417+05:30"
-                        jcr:createdBy="admin"
-                        jcr:lastModified="{Date}2022-08-29T10:16:08.902Z"
-                        jcr:lastModifiedBy="richa.bhatia@tadigital.com"
-                        jcr:primaryType="nt:unstructured"
-                        sling:resourceType="destpet/components/content/linkslist"
-                        alignment=" link__align-vertical"
-                        icon="icon-dropdown"
-                        separator="true"
-                        subHeading="General">
-                        <links jcr:primaryType="nt:unstructured">
-                            <item0
-                                jcr:primaryType="nt:unstructured"
-                                linkText="Grooming"
-                                linkUrl="/content/dp-site-template/us/en/dog-grooming.html"
-                                newTab="_blank"/>
-                            <item1
-                                jcr:primaryType="nt:unstructured"
-                                linkText="Daycare"
-                                linkUrl="/content/dp-site-template/us/en/daycare/dog-daycare.html"
-                                newTab="_blank"/>
-                            <item2
-                                jcr:primaryType="nt:unstructured"
-                                linkText="Boarding"
-                                linkUrl="/content/dp-site-template/us/en/pet-boarding/dog-boarding.html"
-                                newTab="_blank"/>
-                            <item3
-                                jcr:primaryType="nt:unstructured"
-                                linkText="Veterniary"
-                                linkUrl="/content/dp-site-template/us/en/veterinary-care.html"
-                                newTab="_blank"/>
-                            <item4
-                                jcr:primaryType="nt:unstructured"
-                                linkText="About"
-                                linkUrl="/content/dp-site-template/us/en/about.html"
-                                newTab="_blank"/>
-                        </links>
-                    </linkslist>
                     <ctacontainer
                         jcr:created="{Date}2022-10-18T10:43:57.037Z"
                         jcr:createdBy="sowmya.pinjala@destpet.com"
                         jcr:lastModified="{Date}2022-11-21T17:02:44.916Z"
                         jcr:lastModifiedBy="Angela.Branca@destpet.com"
                         jcr:primaryType="nt:unstructured"
-                        sling:resourceType="destpet/components/container/ctacontainer"
+                        sling:resourceType="destpet/components/content/ctacontainer"
                         alignment=" cta-container--vertical-aligned"
                         heading="Services"
                         icon="icon-dropdown"
@@ -303,7 +63,7 @@
                         <par
                             jcr:primaryType="nt:unstructured"
                             sling:resourceType="wcm/foundation/components/parsys">
-                            <link_1325379609_copy
+                            <link_1325379610
                                 jcr:created="{Date}2022-10-18T10:45:16.942Z"
                                 jcr:createdBy="sowmya.pinjala@destpet.com"
                                 jcr:lastModified="{Date}2024-07-01T02:52:08.447Z"
@@ -312,8 +72,8 @@
                                 sling:resourceType="destpet/components/content/link"
                                 id="General-Footer-4"
                                 linkText="Veterinary"
-                                linkUrl="/content/bdl/us/en/services/veterinary-care/medical-services"/>
-                            <link_1325379609
+                                linkUrl="/content/dp-site-template/us/en/services/veterinary/pet-preventive"/>
+                            <link_1325379611
                                 jcr:created="{Date}2022-10-18T10:45:16.942Z"
                                 jcr:createdBy="sowmya.pinjala@destpet.com"
                                 jcr:lastModified="{Date}2024-07-01T02:52:36.980Z"
@@ -322,8 +82,8 @@
                                 sling:resourceType="destpet/components/content/link"
                                 id="General-Footer-3"
                                 linkText="Boarding"
-                                linkUrl="/content/bdl/us/en/services/pet-boarding/dog-cat-boarding"/>
-                            <link_1325379609_copy_2070330701
+                                linkUrl="/content/dp-site-template/us/en/services/boarding/dog-boarding"/>
+                            <link_1325379612
                                 jcr:created="{Date}2022-10-18T10:45:16.942Z"
                                 jcr:createdBy="sowmya.pinjala@destpet.com"
                                 jcr:lastModified="{Date}2024-07-01T02:53:15.519Z"
@@ -332,7 +92,7 @@
                                 sling:resourceType="destpet/components/content/link"
                                 id="General-Footer-2"
                                 linkText="Daycare"
-                                linkUrl="/content/bdl/us/en/services/daycare"/>
+                                linkUrl="/content/dp-site-template/us/en/services/daycare"/>
                             <link
                                 jcr:created="{Date}2022-10-18T10:44:06.862Z"
                                 jcr:createdBy="sowmya.pinjala@destpet.com"
@@ -342,8 +102,8 @@
                                 sling:resourceType="destpet/components/content/link"
                                 id="General-Footer-1"
                                 linkText="Grooming"
-                                linkUrl="/content/bdl/us/en/services/dog-grooming"/>
-                            <link_1325379609_copy_1116669972
+                                linkUrl="/content/dp-site-template/us/en/services/dog-grooming"/>
+                            <link_1325379609
                                 jcr:created="{Date}2022-10-18T10:45:16.942Z"
                                 jcr:createdBy="sowmya.pinjala@destpet.com"
                                 jcr:lastModified="{Date}2024-07-01T02:53:43.388Z"
@@ -359,51 +119,20 @@
                 <listcontainer2
                     jcr:primaryType="nt:unstructured"
                     sling:resourceType="destpet/components/content/container">
-                    <linkslist
-                        jcr:created="{Date}2022-08-03T14:48:30.616+05:30"
-                        jcr:createdBy="admin"
-                        jcr:lastModified="{Date}2022-09-14T13:14:27.656Z"
-                        jcr:lastModifiedBy="Navatarika.S@destpet.com"
-                        jcr:primaryType="nt:unstructured"
-                        sling:resourceType="destpet/components/content/linkslist"
-                        alignment=" link__align-vertical"
-                        icon="icon-dropdown"
-                        subHeading="Company">
-                        <links jcr:primaryType="nt:unstructured">
-                            <item0
-                                jcr:primaryType="nt:unstructured"
-                                linkText="Privacy Policy"
-                                linkUrl="https://www.destinationpet.com/privacy-policy/"
-                                newTab="_blank"/>
-                            <item1
-                                jcr:primaryType="nt:unstructured"
-                                linkText="Terms &amp; Condition"
-                                linkUrl="https://www.destinationpet.com/terms-and-conditions/"
-                                newTab="_blank"/>
-                            <item2
-                                jcr:primaryType="nt:unstructured"
-                                linkText="Careers"
-                                linkUrl="https://recruiting.paylocity.com/recruiting/jobs/All/46737c42-33fc-4aa1-8e06-e624b9e2ebf0/Destination-Pet-LLC"
-                                newTab="_blank"/>
-                            <item3
-                                jcr:primaryType="nt:unstructured"
-                                linkText="Blog"/>
-                        </links>
-                    </linkslist>
                     <ctacontainer
                         jcr:created="{Date}2022-10-19T06:41:56.735Z"
                         jcr:createdBy="sowmya.pinjala@destpet.com"
                         jcr:lastModified="{Date}2024-07-02T14:34:40.146Z"
                         jcr:lastModifiedBy="rahul.pippiri@destpet.com"
                         jcr:primaryType="nt:unstructured"
-                        sling:resourceType="destpet/components/container/ctacontainer"
+                        sling:resourceType="destpet/components/content/ctacontainer"
                         heading="About"
                         icon="icon-dropdown"
                         id="Company-Footer">
                         <par
                             jcr:primaryType="nt:unstructured"
                             sling:resourceType="wcm/foundation/components/parsys">
-                            <link_copy
+                            <link_18356302
                                 cq:styleIds="[16631499863671]"
                                 jcr:created="{Date}2022-10-18T10:44:06.862Z"
                                 jcr:createdBy="sowmya.pinjala@destpet.com"
@@ -415,7 +144,7 @@
                                 linkText="Privacy Policy"
                                 linkUrl="https://www.destinationpet.com/privacy-policy/"
                                 newTab="_blank"/>
-                            <link_copy_copy
+                            <link_18356301
                                 jcr:created="{Date}2022-10-18T10:44:06.862Z"
                                 jcr:createdBy="sowmya.pinjala@destpet.com"
                                 jcr:lastModified="{Date}2022-11-11T15:33:40.147Z"
@@ -426,7 +155,7 @@
                                 linkText="Terms &amp; Condition"
                                 linkUrl="https://www.destinationpet.com/terms-and-conditions/"
                                 newTab="_blank"/>
-                            <link_copy_copy_18356300
+                            <link_18356300
                                 jcr:created="{Date}2022-10-18T10:44:06.862Z"
                                 jcr:createdBy="sowmya.pinjala@destpet.com"
                                 jcr:lastModified="{Date}2022-11-11T15:33:57.859Z"
@@ -437,7 +166,7 @@
                                 linkText="Careers"
                                 linkUrl="https://www.destinationpet.com/life-at-dp/"
                                 newTab="_blank"/>
-                            <link_copy_copy_18356
+                            <link_18356
                                 jcr:created="{Date}2022-10-18T10:44:06.862Z"
                                 jcr:createdBy="sowmya.pinjala@destpet.com"
                                 jcr:lastModified="{Date}2024-07-01T02:52:48.791Z"
@@ -446,30 +175,20 @@
                                 sling:resourceType="destpet/components/content/link"
                                 id="Company-Footer-4"
                                 linkText="Blog"
-                                linkUrl="/content/bdl/us/en/about/blog"/>
+                                linkUrl="/content/dp-site-template/us/en/about-us/blogs"/>
                         </par>
                     </ctacontainer>
                 </listcontainer2>
                 <listcontainer3
                     jcr:primaryType="nt:unstructured"
                     sling:resourceType="destpet/components/content/container">
-                    <linkslist
-                        jcr:created="{Date}2022-08-03T14:48:35.309+05:30"
-                        jcr:createdBy="admin"
-                        jcr:lastModified="{Date}2022-09-23T12:56:30.371Z"
-                        jcr:lastModifiedBy="Navatarika.S@destpet.com"
-                        jcr:primaryType="nt:unstructured"
-                        sling:resourceType="destpet/components/content/linkslist"
-                        alignment=" link__align-vertical"
-                        icon="icon-dropdown"
-                        subHeading="Contact Info"/>
                     <ctacontainer
                         jcr:created="{Date}2022-10-19T06:45:51.852Z"
                         jcr:createdBy="sowmya.pinjala@destpet.com"
                         jcr:lastModified="{Date}2023-03-03T13:25:29.911Z"
                         jcr:lastModifiedBy="deepika.kawatra@destpet.com"
                         jcr:primaryType="nt:unstructured"
-                        sling:resourceType="destpet/components/container/ctacontainer"
+                        sling:resourceType="destpet/components/content/ctacontainer"
                         heading="Contact Info"
                         icon="icon-dropdown">
                         <par
@@ -532,27 +251,6 @@
                 <container3
                     jcr:primaryType="nt:unstructured"
                     sling:resourceType="destpet/components/content/container">
-                    <linkslist
-                        jcr:created="{Date}2022-08-03T14:48:40.040+05:30"
-                        jcr:createdBy="admin"
-                        jcr:lastModified="{Date}2022-09-27T14:54:32.481Z"
-                        jcr:lastModifiedBy="Navatarika.S@destpet.com"
-                        jcr:primaryType="nt:unstructured"
-                        sling:resourceType="destpet/components/content/linkslist"
-                        alignment="link__align-horizontal">
-                        <links jcr:primaryType="nt:unstructured">
-                            <item0
-                                jcr:primaryType="nt:unstructured"
-                                icon="icon-facebook"
-                                linkText="fb"
-                                linkUrl="#"/>
-                            <item1 jcr:primaryType="nt:unstructured"/>
-                            <item2
-                                jcr:primaryType="nt:unstructured"
-                                icon="icon-twiter"
-                                linkUrl="#"/>
-                        </links>
-                    </linkslist>
                     <ctacontainer
                         jcr:created="{Date}2022-10-19T07:31:51.964Z"
                         jcr:createdBy="sowmya.pinjala@destpet.com"
