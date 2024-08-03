@@ -102,7 +102,7 @@
                                 sling:resourceType="destpet/components/content/link"
                                 id="General-Footer-1"
                                 linkText="Grooming"
-                                linkUrl="/content/dp-site-template/us/en/services/dog-grooming"/>
+                                linkUrl="/content/dp-site-template/us/en/services/grooming"/>
                             <link_1325379609
                                 jcr:created="{Date}2022-10-18T10:45:16.942Z"
                                 jcr:createdBy="sowmya.pinjala@destpet.com"
@@ -112,7 +112,7 @@
                                 sling:resourceType="destpet/components/content/link"
                                 id="General-Footer-5"
                                 linkText="Our App, Yourgi"
-                                linkUrl="/content/dp-site-template/us/en/about/yourgi"/>
+                                linkUrl="/content/dp-site-template/us/en/about-us/blogs"/>
                         </par>
                     </ctacontainer>
                 </listcontainer1>
@@ -319,36 +319,6 @@
                                 sling:resourceType="destpet/components/content/richtext"
                                 text="&lt;p>Trademark Destination Pet 2022&lt;/p>&#xd;&#xa;"
                                 textIsRich="true"/>
-                            <link_copy_copy
-                                jcr:created="{Date}2024-07-01T02:46:13.985Z"
-                                jcr:createdBy="deepika.kawatra@destpet.com"
-                                jcr:lastModified="{Date}2024-07-01T02:47:23.517Z"
-                                jcr:lastModifiedBy="deepika.kawatra@destpet.com"
-                                jcr:primaryType="nt:unstructured"
-                                sling:resourceType="destpet/components/content/link"
-                                linkText="Privacy policy"
-                                linkUrl="/content/bdl/us/en/pricing-browndog-lodge"
-                                newTab="_blank"/>
-                            <link_copy
-                                jcr:created="{Date}2024-07-01T02:46:13.985Z"
-                                jcr:createdBy="deepika.kawatra@destpet.com"
-                                jcr:lastModified="{Date}2024-07-01T02:46:54.561Z"
-                                jcr:lastModifiedBy="deepika.kawatra@destpet.com"
-                                jcr:primaryType="nt:unstructured"
-                                sling:resourceType="destpet/components/content/link"
-                                linkText="Terms and condition"
-                                linkUrl="/content/bdl/us/en/pricing-browndog-lodge"
-                                newTab="_blank"/>
-                            <link_copy_copy_79460645
-                                jcr:created="{Date}2024-07-01T02:46:13.985Z"
-                                jcr:createdBy="deepika.kawatra@destpet.com"
-                                jcr:lastModified="{Date}2024-07-01T02:46:54.561Z"
-                                jcr:lastModifiedBy="deepika.kawatra@destpet.com"
-                                jcr:primaryType="nt:unstructured"
-                                sling:resourceType="destpet/components/content/link"
-                                linkText="Terms and condition"
-                                linkUrl="/content/bdl/us/en/pricing-browndog-lodge"
-                                newTab="_blank"/>
                         </par>
                     </ctacontainer>
                 </container2>
