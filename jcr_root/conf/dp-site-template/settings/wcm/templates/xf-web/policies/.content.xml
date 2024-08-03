@@ -5,7 +5,7 @@
         jcr:primaryType="nt:unstructured"
         sling:resourceType="wcm/core/components/policies/mappings">
         <root
-            cq:policy="destpet/components/content/container/policy_1721251285983"
+            cq:policy="destpet/components/container/container/policy_1657009641687"
             jcr:primaryType="nt:unstructured"
             sling:resourceType="wcm/core/components/policies/mapping">
             <destpet jcr:primaryType="nt:unstructured">
