@@ -13,7 +13,7 @@
         jcr:primaryType="cq:PageContent"
         jcr:title="Pricing"
         sling:resourceType="destpet/components/structure/page"
-        clientlibsTheme="theme-dp-site-template"
+        clientlibsTheme="theme-brown-dog-lodge"
         disablePopup="false"
         favIconClientLibPath="/etc.clientlibs/clientlib-favicon/dp-site-template/resources"
         hidePopupMobile="true"
