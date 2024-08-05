@@ -13,6 +13,7 @@
         favIconClientLibPath="/etc.clientlibs/destpet/clientlibs/clientlib-favicon/actionpackcenter/resources"
         hidePopupMobile="false"
         megamenuView="false"
+        isProfile="true"
         secondaryLink="false">
         <root
             jcr:primaryType="nt:unstructured"
