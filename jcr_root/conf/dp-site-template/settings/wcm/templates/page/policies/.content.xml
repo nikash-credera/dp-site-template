@@ -16,19 +16,19 @@
           <components jcr:primaryType="nt:unstructured">
             <container jcr:primaryType="nt:unstructured">
               <container
-                cq:policy="destpet/components/container/container/policy_147009667771000"
+                cq:policy="destpet/components/content/container/policy_147009667771000"
                 jcr:primaryType="nt:unstructured"
                 sling:resourceType="wcm/core/components/policies/mapping"/>
               <columncontainer
-                cq:policy="destpet/components/container/columncontainer/policy_1657790815708"
+                cq:policy="destpet/components/content/columncontainer/policy_1657790815708"
                 jcr:primaryType="nt:unstructured"
                 sling:resourceType="wcm/core/components/policies/mapping"/>
               <ctacontainer
-                cq:policy="destpet/components/container/ctacontainer/policy_1657790815709"
+                cq:policy="destpet/components/content/ctacontainer/policy_1657790815709"
                 jcr:primaryType="nt:unstructured"
                 sling:resourceType="wcm/core/components/policies/mapping"/>
               <carousel
-                cq:policy="destpet/components/container/carousel/policy_1659610970842"
+                cq:policy="destpet/components/content/carousel/policy_1659610970842"
                 jcr:primaryType="nt:unstructured"
                 sling:resourceType="wcm/core/components/policies/mapping"/>
             </container>
