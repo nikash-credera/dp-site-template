@@ -40,11 +40,12 @@
             sling:resourceType="core/wcm/components/image/v3/image"
             altValueFromDAM="false"/>
     </jcr:content>
-    <pet-preventive/>
+    <preventive-care/>
     <flea-and-tick/>
     <diagnostics/>
-    <pet-laser-surgery/>
+    <surgery/>
     <dental-care/>
-    <wellness-vaccines/>
+    <exotic-pets-medicine/>
+    <large-animals-medicine/>
     <additional-services/>
 </jcr:root>

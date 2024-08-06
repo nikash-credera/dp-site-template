@@ -40,6 +40,10 @@
             sling:resourceType="core/wcm/components/image/v3/image"
             altValueFromDAM="false"/>
     </jcr:content>
+    <laser-therapy/>
+    <acupuncture/>
+    <rehabilitation-services/>
+    <herbal-supplementation/>
     <aaha-accredited/>
     <connected-care/>
     <pet-insurance/>
