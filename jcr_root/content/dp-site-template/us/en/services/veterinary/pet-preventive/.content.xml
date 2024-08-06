@@ -14,7 +14,7 @@
         sling:resourceType="destpet/components/structure/page"
         clientlibsTheme="theme-brown-dog-lodge"
         disablePopup="false"
-        favIconClientLibPath="/etc.clientlibs/clientlib-favicon/dp-site-template/resources"
+        favIconClientLibPath="/etc.clientlibs/destpet/clientlibs/clientlib-favicon/browndoglodge/resources"
         hidePopupMobile="true"
         megamenuView="false"
         ogTags="false"
