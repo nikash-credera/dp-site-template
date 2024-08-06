@@ -6,6 +6,7 @@
         cq:lastModified="{Date}2024-07-18T06:16:18.787+05:30"
         cq:lastModifiedBy="admin"
         cq:lastReplicationAction_scene7="Activate"
+        cq:tags="[destpet:services/pet-boarding/cat-boarding]"
         cq:template="/conf/dp-site-template/settings/wcm/templates/services"
         jcr:description="Centre provides safe and comfortable cat boarding in City."
         jcr:lastModified="{Date}2024-07-18T05:45:35.583+05:30"

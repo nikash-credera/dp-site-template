@@ -6,6 +6,7 @@
         cq:lastModified="{Date}2024-07-18T06:16:31.952+05:30"
         cq:lastModifiedBy="admin"
         cq:lastReplicationAction_scene7="Activate"
+        cq:tags="[destpet:services/pet-boarding/exotic-pet-boarding]"
         cq:template="/conf/dp-site-template/settings/wcm/templates/services"
         jcr:description="Centre, city's exotic pet boarding experts, welcomes your pet for a safe and happy stay!"
         jcr:lastModified="{Date}2024-07-18T05:45:35.583+05:30"

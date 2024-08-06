@@ -8,6 +8,7 @@
         cq:lastReplicated_scene7="{Date}2024-05-21T21:15:00.490Z"
         cq:lastReplicatedBy_scene7="Shyamlal.Saroj@destpet.com"
         cq:lastReplicationAction_scene7="Activate"
+        cq:tags="[destpet:services/daycare]"
         cq:template="/conf/dp-site-template/settings/wcm/templates/services"
         jcr:description="Centre offers safe and comfortable doggie daycare in city."
         jcr:lastModified="{Date}2024-07-18T05:45:35.583+05:30"

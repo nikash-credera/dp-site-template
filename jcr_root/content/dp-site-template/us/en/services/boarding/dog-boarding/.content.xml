@@ -8,6 +8,7 @@
         cq:lastReplicated_scene7="{Date}2024-05-21T21:02:01.111Z"
         cq:lastReplicatedBy_scene7="Shyamlal.Saroj@destpet.com"
         cq:lastReplicationAction_scene7="Activate"
+        cq:tags="[destpet:services/pet-boarding/dog-boarding]"
         cq:template="/conf/dp-site-template/settings/wcm/templates/services"
         jcr:description="Centre provides safe and comfortable dog boarding in cities, and the surrounding areas."
         jcr:lastModified="{Date}2024-07-18T05:45:35.583+05:30"

@@ -8,6 +8,7 @@
         cq:lastReplicated_scene7="{Date}2024-05-29T19:42:25.122Z"
         cq:lastReplicatedBy_scene7="Shyamlal.Saroj@destpet.com"
         cq:lastReplicationAction_scene7="Activate"
+        cq:tags="[destpet:services/veterinary/additional-services/aaha-accredited]"
         cq:template="/conf/dp-site-template/settings/wcm/templates/services"
         jcr:description="Centre is AAHA accredited! We are dedicated to providing the best possible care for your pet. Learn more!"
         jcr:lastModified="{Date}2024-07-18T05:45:35.583+05:30"
