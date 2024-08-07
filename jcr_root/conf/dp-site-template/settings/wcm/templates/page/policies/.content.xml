@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
-        jcr:primaryType="cq:Page">
+          jcr:primaryType="cq:Page">
     <jcr:content
             jcr:primaryType="nt:unstructured"
             sling:resourceType="wcm/core/components/policies/mappings">
@@ -14,7 +14,7 @@
                     sling:resourceType="wcm/core/components/policies/mapping">
                 <destpet jcr:primaryType="nt:unstructured">
                     <components jcr:primaryType="nt:unstructured">
-                        <content jcr:primaryType="nt:unstructured">
+                        <container jcr:primaryType="nt:unstructured">
                             <container
                                     cq:policy="destpet/components/content/container/policy_147009667771000"
                                     jcr:primaryType="nt:unstructured"
@@ -31,6 +31,8 @@
                                     cq:policy="destpet/components/content/carousel/policy_1659610970842"
                                     jcr:primaryType="nt:unstructured"
                                     sling:resourceType="wcm/core/components/policies/mapping"/>
+                        </container>
+                        <content jcr:primaryType="nt:unstructured">
                             <image
                                     cq:policy="destpet/components/content/image/policy_1657192024734"
                                     jcr:primaryType="nt:unstructured"
