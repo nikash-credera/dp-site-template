@@ -16,7 +16,7 @@
         jcr:title="Herbal Supplementation"
         sling:resourceType="destpet/components/structure/page"
         clientlibsTheme="theme-brown-dog-lodge"
-        disablePopup="false"
+        disablePopup="true"
         favIconClientLibPath="/etc.clientlibs/destpet/clientlibs/clientlib-favicon/browndoglodge/resources"
         hidePopupMobile="true"
         megamenuView="false"

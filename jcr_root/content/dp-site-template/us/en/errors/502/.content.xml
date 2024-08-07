@@ -24,7 +24,7 @@
         jcr:title="502"
         jcr:uuid="43a6f426-cfd1-46de-8dac-951f5e4f7047"
         sling:resourceType="destpet/components/structure/page"
-        disablePopup="false"
+        disablePopup="true"
         favIconClientLibPath="/etc.clientlibs/destpet/clientlibs/clientlib-favicon/browndoglodge/resources"
         hidePopupMobile="true"
         megamenuView="false"

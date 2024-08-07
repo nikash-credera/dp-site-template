@@ -13,7 +13,7 @@
         jcr:title="Overview"
         sling:resourceType="destpet/components/structure/page"
         clientlibsTheme="theme-brown-dog-lodge"
-        disablePopup="false"
+        disablePopup="true"
         favIconClientLibPath="/etc.clientlibs/destpet/clientlibs/clientlib-favicon/browndoglodge/resources"
         hidePopupMobile="false"
         megamenuView="false"

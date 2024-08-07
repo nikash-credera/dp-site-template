@@ -9,7 +9,7 @@
         jcr:title="Meet the Team"
         sling:resourceType="destpet/components/structure/page"
         clientlibsTheme="theme-brown-dog-lodge"
-        disablePopup="false"
+        disablePopup="true"
         favIconClientLibPath="/etc.clientlibs/destpet/clientlibs/clientlib-favicon/actionpackcenter/resources"
         hidePopupMobile="false"
         megamenuView="false"

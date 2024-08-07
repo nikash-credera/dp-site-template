@@ -18,7 +18,7 @@
         sling:resourceType="destpet/components/structure/page"
         sling:sitemapRoot="true"
         clientlibsTheme="theme-brown-dog-lodge"
-        disablePopup="false"
+        disablePopup="true"
         fallbackImageReference="/content/dam/dp-site-template/us/en/general/dp-site-template-logo.png"
         favIconClientLibPath="/etc.clientlibs/destpet/clientlibs/clientlib-favicon/actionpackcenter/resources"
         footerXF="/content/experience-fragments/dp-site-template/us/en/footer/master"

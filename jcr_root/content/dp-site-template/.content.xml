@@ -19,7 +19,7 @@
         sling:resourceType="destpet/components/structure/page"
         cfPath="/content/dam/dp-site-template/us/en/content-fragments"
         clientlibsTheme="theme-dp-site-template"
-        disablePopup="false"
+        disablePopup="true"
         favIconClientLibPath="/etc.clientlibs/destpet/clientlibs/clientlib-favicon/dp-site-template/resources"
         hidePopupMobile="true"
         megamenuView="false"

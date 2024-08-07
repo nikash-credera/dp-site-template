@@ -11,7 +11,7 @@
         jcr:title="Best Life"
         sling:resourceType="destpet/components/structure/page"
         clientlibsTheme="theme-dp-site-template"
-        disablePopup="false"
+        disablePopup="true"
         favIconClientLibPath="/etc.clientlibs/destpet/clientlibs/clientlib-favicon/browndoglodge/resources"
         hidePopupMobile="false"
         megamenuView="false"
