@@ -14,8 +14,16 @@
                     sling:resourceType="wcm/core/components/policies/mapping">
                 <destpet jcr:primaryType="nt:unstructured">
                     <components jcr:primaryType="nt:unstructured">
-                        <container jcr:primaryType="nt:unstructured">
-                            <container
+                        <content jcr:primaryType="nt:unstructured">
+                            <image
+                                    cq:policy="destpet/components/content/image/policy_1657192024734"
+                                    jcr:primaryType="nt:unstructured"
+                                    sling:resourceType="wcm/core/components/policies/mapping"/>
+                            <button
+                                    cq:policy="destpet/components/content/button/policy_1657119302722"
+                                    jcr:primaryType="nt:unstructured"
+                                    sling:resourceType="wcm/core/components/policies/mapping"/>
+							 <container
                                     cq:policy="destpet/components/content/container/policy_147009667771000"
                                     jcr:primaryType="nt:unstructured"
                                     sling:resourceType="wcm/core/components/policies/mapping"/>
@@ -29,16 +37,6 @@
                                     sling:resourceType="wcm/core/components/policies/mapping"/>
                             <carousel
                                     cq:policy="destpet/components/content/carousel/policy_1659610970842"
-                                    jcr:primaryType="nt:unstructured"
-                                    sling:resourceType="wcm/core/components/policies/mapping"/>
-                        </container>
-                        <content jcr:primaryType="nt:unstructured">
-                            <image
-                                    cq:policy="destpet/components/content/image/policy_1657192024734"
-                                    jcr:primaryType="nt:unstructured"
-                                    sling:resourceType="wcm/core/components/policies/mapping"/>
-                            <button
-                                    cq:policy="destpet/components/content/button/policy_1657119302722"
                                     jcr:primaryType="nt:unstructured"
                                     sling:resourceType="wcm/core/components/policies/mapping"/>
                             <link
