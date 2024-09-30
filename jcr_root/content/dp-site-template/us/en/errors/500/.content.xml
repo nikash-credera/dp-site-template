@@ -15,7 +15,7 @@
         cq:lastReplicationAction_publish="Activate"
         cq:lastReplicationAction_scene7="Activate"
         cq:robotsTags="noindex"
-        cq:template="/conf/dp-site-template/settings/wcm/templates/page"
+        cq:template="/conf/destpet/settings/wcm/templates/page"
         jcr:isCheckedOut="{Boolean}true"
         jcr:lastModified="{Date}2024-05-23T11:42:15.069Z"
         jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"

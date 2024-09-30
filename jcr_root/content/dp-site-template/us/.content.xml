@@ -6,7 +6,7 @@
         cq:lastModified="{Date}2024-07-18T05:17:48.895+05:30"
         cq:lastModifiedBy="admin"
         cq:robotsTags="noindex"
-        cq:template="/conf/dp-site-template/settings/wcm/templates/page"
+        cq:template="/conf/destpet/settings/wcm/templates/page"
         jcr:primaryType="cq:PageContent"
         jcr:title="US"
         sling:resourceType="destpet/components/structure/page"

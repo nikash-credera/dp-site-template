@@ -8,7 +8,7 @@
         cq:lastReplicated_scene7="{Date}2024-03-05T15:01:28.949Z"
         cq:lastReplicatedBy_scene7="Shyamlal.Saroj@destpet.com"
         cq:lastReplicationAction_scene7="Activate"
-        cq:template="/conf/dp-site-template/settings/wcm/templates/page"
+        cq:template="/conf/destpet/settings/wcm/templates/page"
         jcr:description="The Centre provides luxury dog boarding, cat boarding, dog daycare, and grooming pets in City."
         jcr:primaryType="cq:PageContent"
         jcr:title="Pricing"

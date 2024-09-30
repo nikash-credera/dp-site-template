@@ -5,7 +5,7 @@
         cq:isDelivered="{Boolean}false"
         cq:lastModified="{Date}2024-07-18T06:10:53.162+05:30"
         cq:lastModifiedBy="admin"
-        cq:template="/conf/dp-site-template/settings/wcm/templates/page"
+        cq:template="/conf/destpet/settings/wcm/templates/page"
         jcr:primaryType="cq:PageContent"
         jcr:title="Plan Details"
         sling:resourceType="destpet/components/structure/page"

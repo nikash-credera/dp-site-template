@@ -6,7 +6,7 @@
         cq:lastModified="{Date}2024-05-13T09:59:54.978Z"
         cq:lastModifiedBy="admin"
         cq:tags="[experience-fragments:variation/web]"
-        cq:template="/conf/dp-site-template/settings/wcm/templates/xf-web"
+        cq:template="/conf/destpet/settings/wcm/templates/xf-web"
         cq:xfMasterVariation="{Boolean}true"
         cq:xfVariantType="web"
         jcr:isCheckedOut="{Boolean}true"

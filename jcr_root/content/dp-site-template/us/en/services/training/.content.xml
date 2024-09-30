@@ -7,7 +7,7 @@
         cq:lastModifiedBy="admin"
         cq:lastReplicationAction_scene7="Activate"
         cq:tags="[destpet:services/training]"
-        cq:template="/conf/dp-site-template/settings/wcm/templates/services"
+        cq:template="/conf/destpet/settings/wcm/templates/services"
         jcr:description="Let us help you train the best dog ever! Centre and Spa provides dog training for pets in the city."
         jcr:lastModified="{Date}2024-07-18T05:45:35.583+05:30"
         jcr:lastModifiedBy="admin"

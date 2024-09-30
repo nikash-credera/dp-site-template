@@ -7,7 +7,7 @@
         cq:lastModifiedBy="admin"
         cq:robotsTags="noindex"
         cq:tags="[destpet:services/veterinary]"
-        cq:template="/conf/dp-site-template/settings/wcm/templates/services"
+        cq:template="/conf/destpet/settings/wcm/templates/services"
         jcr:lastModified="{Date}2024-07-18T05:45:35.583+05:30"
         jcr:lastModifiedBy="admin"
         jcr:primaryType="cq:PageContent"
