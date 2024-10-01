@@ -8,7 +8,7 @@
         cq:lastReplicated_scene7="{Date}2024-05-29T19:19:36.268Z"
         cq:lastReplicatedBy_scene7="Shyamlal.Saroj@destpet.com"
         cq:lastReplicationAction_scene7="Activate"
-        cq:template="/conf/dp-site-template/settings/wcm/templates/page"
+        cq:template="/conf/destpet/settings/wcm/templates/page"
         jcr:description="Center offers services of dog boarding, daycare, dog training and veterinary services. Book now to receive promotions for your pet!"
         jcr:primaryType="cq:PageContent"
         jcr:title="Promotions"

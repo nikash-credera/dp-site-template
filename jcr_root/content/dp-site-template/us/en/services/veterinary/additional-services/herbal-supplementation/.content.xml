@@ -9,7 +9,7 @@
         cq:lastReplicatedBy_scene7="Shyamlal.Saroj@destpet.com"
         cq:lastReplicationAction_scene7="Activate"
         cq:tags="[destpet:services/veterinary/additional-services/herbal-supplementation]"
-        cq:template="/conf/dp-site-template/settings/wcm/templates/services"
+        cq:template="/conf/destpet/settings/wcm/templates/services"
         jcr:lastModified="{Date}2024-07-18T05:45:35.583+05:30"
         jcr:lastModifiedBy="admin"
         jcr:primaryType="cq:PageContent"

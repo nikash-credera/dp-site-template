@@ -8,7 +8,7 @@
         cq:lastReplicated_scene7="{Date}2024-05-29T19:45:28.253Z"
         cq:lastReplicatedBy_scene7="Shyamlal.Saroj@destpet.com"
         cq:lastReplicationAction_scene7="Activate"
-        cq:template="/conf/dp-site-template/settings/wcm/templates/page"
+        cq:template="/conf/destpet/settings/wcm/templates/page"
         jcr:primaryType="cq:PageContent"
         jcr:title="Overview"
         sling:resourceType="destpet/components/structure/page"

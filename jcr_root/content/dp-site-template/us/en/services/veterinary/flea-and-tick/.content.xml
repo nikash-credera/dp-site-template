@@ -9,7 +9,7 @@
         cq:lastReplicatedBy_scene7="Shyamlal.Saroj@destpet.com"
         cq:lastReplicationAction_scene7="Activate"
         cq:tags="[destpet:services/veterinary/flea-tick]"
-        cq:template="/conf/dp-site-template/settings/wcm/templates/services"
+        cq:template="/conf/destpet/settings/wcm/templates/services"
         jcr:description="Protect your pup from fleas &amp; ticks! The Peach Tree Pets offers safe &amp; effective flea &amp; tick prevention in Peachtree City, GA. Schedule an appointment now!"
         jcr:lastModified="{Date}2024-07-18T05:45:35.583+05:30"
         jcr:lastModifiedBy="admin"

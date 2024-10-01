@@ -2,7 +2,7 @@
 <jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
     jcr:primaryType="cq:Page">
     <jcr:content
-        cq:allowedTemplates="[/conf/dp-site-template/settings/wcm/templates/page,/conf/dp-site-template/settings/wcm/templates/homepage]"
+        cq:allowedTemplates="[/conf/destpet/settings/wcm/templates/page,/conf/destpet/settings/wcm/templates/homepage]"
         cq:isDelivered="{Boolean}false"
         cq:lastModified="{Date}2024-07-18T09:04:17.191+05:30"
         cq:lastModifiedBy="admin"
@@ -10,7 +10,7 @@
         cq:lastReplicatedBy_scene7="rahul.pippiri@destpet.com"
         cq:lastReplicationAction_scene7="Activate"
         cq:robotsTags="noindex"
-        cq:template="/conf/dp-site-template/settings/wcm/templates/page"
+        cq:template="/conf/destpet/settings/wcm/templates/page"
         jcr:lastModified="{Date}2024-07-18T09:04:17.179+05:30"
         jcr:lastModifiedBy="admin"
         jcr:primaryType="cq:PageContent"

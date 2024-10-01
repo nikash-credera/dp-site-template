@@ -11,7 +11,7 @@
         jcr:primaryType="cq:PageContent"
         jcr:title="Header"
         jcr:uuid="2cf25401-9a14-4301-ba33-706f8267f26b"
-        sling:configRef="/conf/dp-site-template"
+        sling:configRef="/conf/destpet"
         sling:resourceType="cq/experience-fragments/components/experiencefragment"/>
     <master/>
 </jcr:root>

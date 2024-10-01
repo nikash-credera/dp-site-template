@@ -6,7 +6,7 @@
         cq:lastModified="{Date}2024-07-18T06:18:11.527+05:30"
         cq:lastModifiedBy="admin"
         cq:tags="[destpet:services/veterinary/preventive-care]"
-        cq:template="/conf/dp-site-template/settings/wcm/templates/services"
+        cq:template="/conf/destpet/settings/wcm/templates/services"
         jcr:description="Preventative pet care for a long, healthy life! Centre offers exams, vaccinations &amp; parasite control. Schedule today!"
         jcr:lastModified="{Date}2024-07-18T05:45:35.583+05:30"
         jcr:lastModifiedBy="admin"

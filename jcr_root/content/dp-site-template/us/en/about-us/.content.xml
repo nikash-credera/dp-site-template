@@ -7,7 +7,7 @@
         cq:lastModifiedBy="admin"
         cq:redirectPermanent="true"
         cq:robotsTags="noindex"
-        cq:template="/conf/dp-site-template/settings/wcm/templates/page"
+        cq:template="/conf/destpet/settings/wcm/templates/page"
         jcr:primaryType="cq:PageContent"
         jcr:title="About Us"
         sling:resourceType="destpet/components/structure/page"

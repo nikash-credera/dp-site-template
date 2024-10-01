@@ -5,7 +5,7 @@
         cq:isDelivered="{Boolean}false"
         cq:lastModified="{Date}2024-07-18T11:26:55.052+05:30"
         cq:lastModifiedBy="admin"
-        cq:template="/conf/dp-site-template/settings/wcm/templates/homepage"
+        cq:template="/conf/destpet/settings/wcm/templates/homepage"
         jcr:description="Centre offers veterinary services, dog training, pet boarding for dogs and cats, and more services. Book now!"
         jcr:lastModified="{Date}2024-07-18T11:26:55.036+05:30"
         jcr:lastModifiedBy="admin"

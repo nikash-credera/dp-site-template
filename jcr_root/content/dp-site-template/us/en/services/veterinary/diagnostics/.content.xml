@@ -7,7 +7,7 @@
         cq:lastModifiedBy="admin"
         cq:lastReplicationAction_scene7="Activate"
         cq:tags="[destpet:services/veterinary/diagnostics]"
-        cq:template="/conf/dp-site-template/settings/wcm/templates/services"
+        cq:template="/conf/destpet/settings/wcm/templates/services"
         jcr:description="Fast &amp; accurate pet diagnoses at Dugan's Veterinary Hospital! Bloodwork, X-rays, &amp; ultrasound. Get the answers you need for your pet's health."
         jcr:lastModified="{Date}2024-07-18T05:45:35.583+05:30"
         jcr:lastModifiedBy="admin"

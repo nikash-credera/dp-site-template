@@ -4,7 +4,7 @@
     <jcr:content
         cq:lastModified="{Date}2024-07-18T06:12:04.351+05:30"
         cq:lastModifiedBy="admin"
-        cq:template="/conf/dp-site-template/settings/wcm/templates/page"
+        cq:template="/conf/destpet/settings/wcm/templates/page"
         jcr:primaryType="cq:PageContent"
         jcr:title="Our Yourgi App"
         sling:resourceType="destpet/components/structure/page"
