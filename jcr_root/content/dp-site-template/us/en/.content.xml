@@ -21,8 +21,6 @@
         disablePopup="true"
         fallbackImageReference="/content/dam/dp-site-template/us/en/general/dp-site-template-logo.png"
         favIconClientLibPath="/etc.clientlibs/destpet/clientlibs/clientlib-favicon/actionpackcenter/resources"
-        footerXF="/content/experience-fragments/dp-site-template/us/en/footer/master"
-        headerXF="/content/experience-fragments/dp-site-template/us/en/header/master"
         hidePopupMobile="true"
         kontakConfigURL="https://dev-js-management.getkontak.com/api/v2/chat/snippet?param="
         launchURL="https://assets.adobedtm.com/f31c8ae5e1aa/3edb83a81c18/launch-5201975e90f2-development.min.js"
