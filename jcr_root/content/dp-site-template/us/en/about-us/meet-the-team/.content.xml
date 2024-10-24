@@ -4,10 +4,10 @@
     <jcr:content
         cq:lastModified="{Date}2024-07-18T06:11:37.492+05:30"
         cq:lastModifiedBy="admin"
-        cq:template="/conf/destpet/settings/wcm/templates/page"
+        cq:template="/conf/destpet/settings/wcm/templates/dynamicpage"
         jcr:primaryType="cq:PageContent"
         jcr:title="Meet the Team"
-        sling:resourceType="destpet/components/structure/page"
+        sling:resourceType="destpet/components/structure/dynamicpage"
         clientlibsTheme="theme-brown-dog-lodge"
         disablePopup="true"
         favIconClientLibPath="/etc.clientlibs/destpet/clientlibs/clientlib-favicon/actionpackcenter/resources"
@@ -15,14 +15,32 @@
         megamenuView="false"
         isProfile="true"
         secondaryLink="false">
-        <root
+         <root
             jcr:primaryType="nt:unstructured"
             sling:resourceType="destpet/components/content/container"
             layout="responsiveGrid">
             <container
                 jcr:primaryType="nt:unstructured"
                 sling:resourceType="destpet/components/content/container"
-                layout="responsiveGrid"/>
+                layout="responsiveGrid">
+                <columncontainer
+                    cq:styleIds="[1654083376895,1654238023364]"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="destpet/components/content/columncontainer"
+                    columnCount="1">
+                    <_x0033_
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="wcm/foundation/components/parsys">
+                        <title
+                            cq:styleIds="[1660048309992,1663573025868]"
+                            jcr:primaryType="nt:unstructured"
+                            jcr:title="Meet The Team"
+                            sling:resourceType="destpet/components/content/title"
+                            linkTarget="_self"
+                            type="h1"/>
+                    </_x0033_>
+                </columncontainer>
+            </container>
         </root>
     </jcr:content>
 </jcr:root>
