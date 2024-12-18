@@ -1,18 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
     jcr:primaryType="cq:Page">
     <jcr:content
-        cq:lastModified="{Date}2024-07-18T06:12:54.468+05:30"
-        cq:lastModifiedBy="admin"
+        cq:isDelivered="{Boolean}false"
+        cq:lastModified="{Date}2024-12-03T13:16:03.328Z"
+        cq:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+        cq:lastReplicated="{Date}2024-12-03T13:16:12.324Z"
+        cq:lastReplicated_publish="{Date}2024-12-03T13:16:12.324Z"
+        cq:lastReplicated_scene7="{Date}2024-12-03T13:16:12.324Z"
+        cq:lastReplicatedBy="Shyamlal.Saroj@destpet.com"
+        cq:lastReplicatedBy_publish="Shyamlal.Saroj@destpet.com"
+        cq:lastReplicatedBy_scene7="Shyamlal.Saroj@destpet.com"
+        cq:lastReplicationAction="Activate"
+        cq:lastReplicationAction_publish="Activate"
+        cq:lastReplicationAction_scene7="Activate"
         cq:template="/conf/destpet/settings/wcm/templates/page"
+        jcr:description="Frequently asked questions about [Center_name]"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:lastModified="{Date}2024-12-03T07:41:49.743Z"
+        jcr:lastModifiedBy="priya.p@destpet.com"
+        jcr:mixinTypes="[cq:ReplicationStatus2,mix:versionable]"
         jcr:primaryType="cq:PageContent"
-        jcr:title="FAQs"
+        jcr:title="Frequently Asked Questions"
+        jcr:uuid="dc5a1dad-3ddd-47fd-a8c5-ed6c4b247e90"
         sling:resourceType="destpet/components/structure/page"
-        clientlibsTheme="theme-brown-dog-lodge"
+        clientlibsTheme="theme-pooch-palace"
         disablePopup="true"
         favIconClientLibPath="/etc.clientlibs/destpet/clientlibs/clientlib-favicon/actionpackcenter/resources"
         hidePopupMobile="false"
+        isPricing="false"
+        isProfile="false"
         megamenuView="false"
+        ogTags="false"
+        pageTitle="Frequently Asked Questions"
+        pwaCachestrategy="staleWhileRevalidate"
+        pwaDisplay="standalone"
+        pwaOrientation="any"
+        schemaType="noSchema"
         secondaryLink="false">
         <root
             jcr:primaryType="nt:unstructured"
@@ -21,7 +45,96 @@
             <container
                 jcr:primaryType="nt:unstructured"
                 sling:resourceType="destpet/components/content/container"
-                layout="responsiveGrid"/>
+                layout="responsiveGrid">
+                <columncontainer
+                    cq:styleIds="[1654083376895,1654238085069]"
+                    jcr:created="{Date}2024-11-05T12:21:34.477Z"
+                    jcr:createdBy="priya.p@destpet.com"
+                    jcr:lastModified="{Date}2024-11-05T12:21:34.477Z"
+                    jcr:lastModifiedBy="priya.p@destpet.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="destpet/components/content/columncontainer">
+                    <_x0031_
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="wcm/foundation/components/parsys">
+                        <title
+                            cq:styleIds="[1660048309992,1663573025868]"
+                            jcr:created="{Date}2024-11-05T12:21:41.214Z"
+                            jcr:createdBy="priya.p@destpet.com"
+                            jcr:lastModified="{Date}2024-11-05T12:30:05.308Z"
+                            jcr:lastModifiedBy="priya.p@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            jcr:title="Frequently Asked Questions"
+                            sling:resourceType="destpet/components/content/title"
+                            linkTarget="_self"
+                            type="h1"/>
+                        <richtext
+                            cq:styleIds="[1658223888669,1663189883671,16539089333554]"
+                            jcr:created="{Date}2024-11-05T12:21:58.509Z"
+                            jcr:createdBy="priya.p@destpet.com"
+                            jcr:lastModified="{Date}2024-11-05T12:28:37.385Z"
+                            jcr:lastModifiedBy="priya.p@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="destpet/components/content/richtext"
+                            text="&lt;p style=&quot;text-align: center;&quot;>New clients often have questions about our services, policies, and procedures.&amp;nbsp; Here we address the most frequently asked questions that we typically receive.&lt;/p>&#xd;&#xa;"
+                            textIsRich="true"/>
+                    </_x0031_>
+                </columncontainer>
+                <columncontainer_824183019
+                    cq:styleIds="[1654238085069]"
+                    jcr:created="{Date}2024-11-05T12:22:56.200Z"
+                    jcr:createdBy="priya.p@destpet.com"
+                    jcr:lastModified="{Date}2024-11-05T12:22:56.200Z"
+                    jcr:lastModifiedBy="priya.p@destpet.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="destpet/components/content/columncontainer">
+                    <_x0031_
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="wcm/foundation/components/parsys">
+                        <accordion
+                            jcr:created="{Date}2024-11-05T12:23:09.102Z"
+                            jcr:createdBy="priya.p@destpet.com"
+                            jcr:lastModified="{Date}2024-11-08T12:55:44.650Z"
+                            jcr:lastModifiedBy="Navatarika.S@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="destpet/components/content/accordion"
+                            singleExpansion="false">
+                            <richtext
+                                cq:panelTitle="How far in advance should I make my hotel reservation?"
+                                jcr:created="{Date}2024-11-05T12:23:37.080Z"
+                                jcr:createdBy="priya.p@destpet.com"
+                                jcr:lastModified="{Date}2024-11-12T14:27:39.090Z"
+                                jcr:lastModifiedBy="priya.p@destpet.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="destpet/components/content/richtext"
+                                text="&lt;p>Holidays and summer weekends tend to fill up quickly. Try to make reservations as far in advance as possible to ensure your dog's spot.&lt;/p>&#xd;&#xa;"
+                                textIsRich="true"/>
+                            <item_1730809424716
+                                cq:panelTitle="Every time I look at camera, my dog is in the room...when do they get out of their room?"
+                                jcr:lastModified="{Date}2024-11-12T14:28:05.646Z"
+                                jcr:lastModifiedBy="priya.p@destpet.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="destpet/components/content/richtext"
+                                text="&lt;p>If you do not add on Daycare to your Hotel Stay (your dog must first pass our assessment test if you want to add this), yes, your dog will be in the room all day except when they go out for their potty breaks. These breaks are around 6am, 9am, 1pm, 6pm and 9pm (5 per day).&lt;/p>&#xd;&#xa;"
+                                textIsRich="true"/>
+                            <item_1730809426517
+                                cq:panelTitle="I have two dogs and they can sleep together but one will eat the others food if I don't stand over them and watch. Can someone make sure they both eat?"
+                                jcr:lastModified="{Date}2024-11-12T14:28:27.027Z"
+                                jcr:lastModifiedBy="priya.p@destpet.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="destpet/components/content/richtext"
+                                text="&lt;p>Yes. We can feed dogs who stay in the same enclosure separately so they can both eat in peace. Let us know this when you check in and we'll make a note of it on their account.&lt;/p>&#xd;&#xa;"
+                                textIsRich="true"/>
+                        </accordion>
+                    </_x0031_>
+                </columncontainer_824183019>
+            </container>
         </root>
+        <cq:featuredimage
+            jcr:lastModified="{Date}2024-12-03T07:41:49.743Z"
+            jcr:lastModifiedBy="priya.p@destpet.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="core/wcm/components/image/v3/image"
+            altValueFromDAM="false"/>
     </jcr:content>
 </jcr:root>

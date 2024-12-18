@@ -1,24 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
     jcr:primaryType="cq:Page">
     <jcr:content
         cq:isDelivered="{Boolean}false"
-        cq:lastModified="{Date}2024-07-18T06:20:53.677+05:30"
-        cq:lastModifiedBy="admin"
-        cq:lastReplicated_scene7="{Date}2024-05-21T21:17:40.826Z"
+        cq:lastModified="{Date}2024-12-03T09:35:27.633Z"
+        cq:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+        cq:lastReplicated="{Date}2024-12-03T10:22:31.815Z"
+        cq:lastReplicated_publish="{Date}2024-12-03T10:22:31.815Z"
+        cq:lastReplicated_scene7="{Date}2024-11-12T11:52:02.594Z"
+        cq:lastReplicatedBy="Shyamlal.Saroj@destpet.com"
+        cq:lastReplicatedBy_publish="Shyamlal.Saroj@destpet.com"
         cq:lastReplicatedBy_scene7="Shyamlal.Saroj@destpet.com"
+        cq:lastReplicationAction="Activate"
+        cq:lastReplicationAction_publish="Activate"
         cq:lastReplicationAction_scene7="Activate"
         cq:tags="[destpet:services/veterinary/additional-services/acupuncture]"
         cq:template="/conf/destpet/settings/wcm/templates/services"
-        jcr:lastModified="{Date}2024-07-18T05:45:35.583+05:30"
-        jcr:lastModifiedBy="admin"
+        jcr:description="\[Center Name] provides acupuncture for dogs and cats in [City Name]."
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:lastModified="{Date}2024-11-12T11:27:22.354Z"
+        jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+        jcr:mixinTypes="[cq:ReplicationStatus2,mix:versionable]"
         jcr:primaryType="cq:PageContent"
-        jcr:title="Acupuncture"
+        jcr:title="Pet Acupuncture"
+        jcr:uuid="eea140b9-2fe6-4c5d-ab42-501704984d20"
         sling:resourceType="destpet/components/structure/page"
-        clientlibsTheme="theme-brown-dog-lodge"
+        clientlibsTheme="theme-pooch-palace"
         disablePopup="true"
         favIconClientLibPath="/etc.clientlibs/destpet/clientlibs/clientlib-favicon/browndoglodge/resources"
         hidePopupMobile="true"
+        isPricing="false"
+        isProfile="false"
         megamenuView="false"
         ogTags="false"
         pageTitle="Acupuncture"
@@ -53,13 +65,202 @@
                             sling:resourceType="destpet/components/content/title"
                             linkTarget="_self"
                             type="h1"/>
+                        <richtext
+                            cq:styleIds="[1658223888669,16539089333554,1663189883671]"
+                            jcr:created="{Date}2024-11-12T11:24:00.385Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-11-12T11:24:19.231Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="destpet/components/content/richtext"
+                            text="&lt;p style=&quot;text-align: center;&quot;>We’d be thrilled to help your furry friend enjoy a healthy, pain-free life.&lt;/p>&#xd;&#xa;"
+                            textIsRich="true"/>
                     </_x0031_>
                 </columncontainer>
+                <columncontainer_454169799
+                    cq:styleIds="[1654238085069]"
+                    jcr:created="{Date}2024-11-12T11:35:12.624Z"
+                    jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                    jcr:lastModified="{Date}2024-11-12T11:35:12.624Z"
+                    jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="destpet/components/content/columncontainer">
+                    <_x0031_
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="wcm/foundation/components/parsys">
+                        <title
+                            cq:styleIds="[1660048309992]"
+                            jcr:created="{Date}2024-11-12T11:36:01.610Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-11-12T11:36:23.663Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            jcr:title="We Provide Comprehensive Care to Our Patients"
+                            sling:resourceType="destpet/components/content/title"
+                            linkTarget="_self"
+                            type="h2"/>
+                        <richtext
+                            cq:styleIds="[16539089333554]"
+                            jcr:created="{Date}2024-11-12T11:36:05.642Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-11-12T11:37:22.625Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="destpet/components/content/richtext"
+                            text="&lt;p style=&quot;text-align: center;&quot;>No one wants to see their furry friend in pain. Unfortunately, your four-legged friend could suffer from a wide range of painful and uncomfortable problems. Accidental injuries, surgeries, degenerative diseases, and the aging process can all cause pain. In fact, companion animals experience pain for many of the same reasons as humans. Your pet could even be suffering without showing any outward symptoms because animals are so adept at hiding illness. However, in time, untreated discomfort could cause disability or lead to behavior or temperament changes.&lt;/p>&#xd;&#xa;&lt;p style=&quot;text-align: center;&quot;>If you ever have any reason to think your canine companion or feline friend could be in pain, we’re here for you! At [Center Name], we perform pet acupuncture in [City Name] as part of our commitment to providing comprehensive care to our patients.&lt;/p>&#xd;&#xa;"
+                            textIsRich="true"/>
+                    </_x0031_>
+                </columncontainer_454169799>
+                <image_copy_copy_315204437
+                    jcr:created="{Date}2024-11-05T09:58:02.489Z"
+                    jcr:createdBy="priya.p@destpet.com"
+                    jcr:lastModified="{Date}2024-11-05T09:59:39.093Z"
+                    jcr:lastModifiedBy="priya.p@destpet.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="destpet/components/content/image"
+                    actionLinkURL="_self"
+                    alt="[bestlife banner,bestlife banner]"
+                    displayPopupTitle="true"
+                    fileReference="/content/dam/brands/dogaholics/us/en/general/yourgi-bestlife-vet-web-banners-image.png"
+                    imageFromPageImage="false"
+                    linkURL="/content/poochpalace/us/en/bestlife/overview"
+                    titleValueFromDAM="true"/>
+                <mediainfo
+                    cq:styleIds="[1660737948429,1654083381783]"
+                    jcr:created="{Date}2024-11-12T11:38:38.328Z"
+                    jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                    jcr:lastModified="{Date}2024-11-12T11:38:38.328Z"
+                    jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="destpet/components/content/mediainfo">
+                    <container1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="destpet/components/content/container">
+                        <image
+                            jcr:created="{Date}2024-11-12T11:38:53.876Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-11-12T11:46:32.907Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="destpet/components/content/image"
+                            actionLinkURL="_self"
+                            alt="[vet is examining the dog,vet is examining the dog]"
+                            altValueFromDAM="true"
+                            displayPopupTitle="true"
+                            dmPresetType="imagePreset"
+                            fileReference="/content/dam/destpet/destination-pet-wood-stock/us/en/veterinarian-checking-furry-dog.jpg"
+                            imageFromPageImage="false"
+                            titleValueFromDAM="true"/>
+                    </container1>
+                    <container2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="destpet/components/content/container">
+                        <title
+                            jcr:created="{Date}2024-11-12T11:39:07.895Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-11-12T11:39:15.190Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            jcr:title="How It Works"
+                            sling:resourceType="destpet/components/content/title"
+                            linkTarget="_self"
+                            type="h2"/>
+                        <richtext
+                            cq:styleIds="[1653980320261]"
+                            jcr:created="{Date}2024-11-12T11:38:58.218Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-11-12T11:40:47.063Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="destpet/components/content/richtext"
+                            text="&lt;p>Acupuncture has been practiced for thousands of years, but it’s relatively new to the world of modern veterinary medicine. Originally developed in ancient China, it is based on the idea that placing needles in specific areas stimulates the flow of energy, or Qi, throughout the body. And research shows that acupuncture triggers the release of pain-stimulating hormones and stimulates patients’ natural healing processes.&lt;/p>&#xd;&#xa;&lt;p>The needles used during acupuncture are thinner than those used to administer vaccines. They are so small in diameter that many patients don’t even feel them being inserted. No medications are used during treatment, and there’s no need for any downtime following a session. Acupuncture is safe for most cats and dogs, and it’s effective in treating a wide range of problems.&lt;/p>&#xd;&#xa;"
+                            textIsRich="true"/>
+                    </container2>
+                </mediainfo>
+                <image_copy_copy
+                    jcr:created="{Date}2024-11-07T10:58:50.076Z"
+                    jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                    jcr:lastModified="{Date}2024-11-07T11:32:41.083Z"
+                    jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="destpet/components/content/image"
+                    actionLinkURL="_blank"
+                    alt="[Veterinary yourgi banner,Veterinary yourgi banner]"
+                    displayPopupTitle="true"
+                    dmPresetType="imagePreset"
+                    fileReference="/content/dam/brands/destination-pet-wood-stock/us/en/general/yourgi-service-banner-book-veterinary-5000px-1.jpg"
+                    id="Veterinary yourgi banner"
+                    imageFromPageImage="false"
+                    linkURL="https://qrco.de/bcwYBB"
+                    titleValueFromDAM="false"/>
+                <mediainfo_1398538084
+                    cq:styleIds="[1660737948429,1660737911807]"
+                    jcr:created="{Date}2024-11-12T11:38:45.594Z"
+                    jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                    jcr:lastModified="{Date}2024-11-12T11:38:45.594Z"
+                    jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="destpet/components/content/mediainfo">
+                    <container1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="destpet/components/content/container">
+                        <image
+                            jcr:created="{Date}2024-11-12T11:42:52.344Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-11-12T11:48:24.083Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="destpet/components/content/image"
+                            actionLinkURL="_self"
+                            alt="[pitbull smiling,pitbull smiling]"
+                            displayPopupTitle="true"
+                            dmPresetType="imagePreset"
+                            fileReference="/content/dam/brands/jill-pet-resort/united-states/english/general/pitbull-smiling.jpg"
+                            imageFromPageImage="false"
+                            titleValueFromDAM="false"/>
+                    </container1>
+                    <container2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="destpet/components/content/container">
+                        <title
+                            jcr:created="{Date}2024-11-12T11:42:56.492Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-11-12T11:43:26.694Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            jcr:title="Pet Acupuncture in [City Name]"
+                            sling:resourceType="destpet/components/content/title"
+                            linkTarget="_self"
+                            type="h2"/>
+                        <richtext_copy_copy_c
+                            cq:styleIds="[1653980320261,1663159032900]"
+                            jcr:created="{Date}2024-11-07T10:47:44.881Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-11-12T11:44:14.786Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="destpet/components/content/richtext"
+                            text="&lt;p>For pet acupuncture in [City Name] and throughout Miami-Dade County, contact us today! We’d be thrilled to help your furry friend enjoy a healthy, pain-free life.&lt;/p>&#xd;&#xa;&lt;p>Call us&amp;nbsp;&lt;a href=&quot;tel:9014378547&quot;>(901) 437-8547&lt;/a>&lt;/p>&#xd;&#xa;"
+                            textIsRich="true"/>
+                        <button_copy
+                            cq:styleIds="[1657119424322]"
+                            jcr:created="{Date}2024-11-07T11:34:29.753Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-11-12T11:45:50.181Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            jcr:title="Request Service"
+                            sling:resourceType="destpet/components/content/button"
+                            id="Request Service"
+                            link="https://portal.yourgipet.com/index?centerid=278"
+                            linkTarget="_blank"/>
+                    </container2>
+                </mediainfo_1398538084>
             </container>
         </root>
         <cq:featuredimage
-            jcr:lastModified="{Date}2024-07-18T05:45:35.583+05:30"
-            jcr:lastModifiedBy="admin"
+            jcr:lastModified="{Date}2024-11-12T11:27:22.354Z"
+            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
             jcr:primaryType="nt:unstructured"
             sling:resourceType="core/wcm/components/image/v3/image"
             altValueFromDAM="false"/>

@@ -1,23 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
     jcr:primaryType="cq:Page">
     <jcr:content
         cq:isDelivered="{Boolean}false"
-        cq:lastModified="{Date}2024-07-18T06:19:25.836+05:30"
-        cq:lastModifiedBy="admin"
+        cq:lastModified="{Date}2024-12-03T10:01:01.472Z"
+        cq:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+        cq:lastReplicated="{Date}2024-12-03T10:22:04.907Z"
+        cq:lastReplicated_publish="{Date}2024-12-03T10:22:04.907Z"
+        cq:lastReplicated_scene7="{Date}2024-12-03T09:29:27.940Z"
+        cq:lastReplicatedBy="Shyamlal.Saroj@destpet.com"
+        cq:lastReplicatedBy_publish="Shyamlal.Saroj@destpet.com"
+        cq:lastReplicatedBy_scene7="Shyamlal.Saroj@destpet.com"
+        cq:lastReplicationAction="Activate"
+        cq:lastReplicationAction_publish="Activate"
         cq:lastReplicationAction_scene7="Activate"
         cq:tags="[destpet:services/veterinary/dental-care]"
         cq:template="/conf/destpet/settings/wcm/templates/services"
         jcr:description="Healthy smile, happy pet! Centre offers dental cleanings &amp; exams to prevent pet dental disease. Schedule today!"
-        jcr:lastModified="{Date}2024-07-18T05:45:35.583+05:30"
-        jcr:lastModifiedBy="admin"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:lastModified="{Date}2024-12-03T10:01:01.389Z"
+        jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+        jcr:mixinTypes="[cq:ReplicationStatus2,mix:versionable]"
         jcr:primaryType="cq:PageContent"
         jcr:title="Dental Care"
+        jcr:uuid="77fd627e-2aa8-4883-8a2f-83ce38ac16c7"
         sling:resourceType="destpet/components/structure/page"
         clientlibsTheme="theme-brown-dog-lodge"
         disablePopup="true"
         favIconClientLibPath="/etc.clientlibs/destpet/clientlibs/clientlib-favicon/browndoglodge/resources"
         hidePopupMobile="true"
+        isPricing="false"
+        isProfile="false"
         megamenuView="false"
         ogTags="false"
         pageTitle="Dental Care"
@@ -52,6 +65,14 @@
                             sling:resourceType="destpet/components/content/title"
                             linkTarget="_self"
                             type="h1"/>
+                        <richtext_copy
+                            cq:styleIds="[1658223888669,1663189883671,16539089333554]"
+                            jcr:lastModified="{Date}2024-12-03T09:29:12.296Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="destpet/components/content/richtext"
+                            text="&lt;p style=&quot;text-align: center;&quot;>Take Care of Your Pet’s Pearly Whites&lt;/p>&#xd;&#xa;"
+                            textIsRich="true"/>
                     </_x0031_>
                 </columncontainer>
                 <mediainfo
@@ -70,7 +91,7 @@
                         jcr:primaryType="nt:unstructured"
                         jcr:title="Learn More"
                         sling:resourceType="destpet/components/content/button"
-                        link="/content/dp-site-template/us/en/about-us"
+                        link="/content/poochpalace/us/en/about-us"
                         linkTarget="_blank"/>
                     <image
                         cq:styleIds="[1654083114742]"
@@ -112,7 +133,7 @@
                             jcr:primaryType="nt:unstructured"
                             jcr:title="Learn More"
                             sling:resourceType="destpet/components/content/button"
-                            link="/content/dp-site-template/us/en/about-us"
+                            link="/content/poochpalace/us/en/about-us"
                             linkTarget="_self"/>
                     </container>
                     <container1
@@ -170,7 +191,7 @@
                         jcr:primaryType="nt:unstructured"
                         jcr:title="Learn More"
                         sling:resourceType="destpet/components/content/button"
-                        link="/content/dp-site-template/us/en/about-us"
+                        link="/content/poochpalace/us/en/about-us"
                         linkTarget="_blank"/>
                     <image
                         cq:styleIds="[1654083114742]"
@@ -212,7 +233,7 @@
                             jcr:primaryType="nt:unstructured"
                             jcr:title="Learn More"
                             sling:resourceType="destpet/components/content/button"
-                            link="/content/dp-site-template/us/en/about-us"
+                            link="/content/poochpalace/us/en/about-us"
                             linkTarget="_self"/>
                     </container>
                     <container1
@@ -254,85 +275,14 @@
                             titleValueFromDAM="false"/>
                     </container2>
                 </mediainfo1>
-                <mediainfo2
-                    cq:styleIds="[1660737909560,1660737948429]"
-                    jcr:lastModified="{Date}2023-01-25T11:01:52.707Z"
-                    jcr:lastModifiedBy="deepika.kawatra@destpet.com"
+                <mediainfo_1251963057
+                    cq:styleIds="[1660737948429]"
+                    jcr:created="{Date}2024-12-03T09:24:44.040Z"
+                    jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                    jcr:lastModified="{Date}2024-12-03T09:24:44.040Z"
+                    jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
                     jcr:primaryType="nt:unstructured"
-                    sling:resourceType="destpet/components/content/mediainfo"
-                    description="As dog owners ourselves we have always sought the finest accommodations and personal attention for our dogs whether just for daily daycare or overnight stay while we go out of town. We also wanted a relaxing spa experience for our dogs rather than a quick “haircut”. We wanted all of this in a convenient location too!"
-                    title="About"
-                    type="Image">
-                    <button
-                        cq:styleIds="[1657119424322]"
-                        jcr:lastModified="{Date}2022-08-29T17:12:47.342Z"
-                        jcr:lastModifiedBy="Navatarika.S@tadigital.com"
-                        jcr:primaryType="nt:unstructured"
-                        jcr:title="Learn More"
-                        sling:resourceType="destpet/components/content/button"
-                        link="/content/dp-site-template/us/en/about-us"
-                        linkTarget="_blank"/>
-                    <image
-                        cq:styleIds="[1654083114742]"
-                        jcr:lastModified="{Date}2022-10-13T13:17:44.718Z"
-                        jcr:lastModifiedBy="Navatarika.S@destpet.com"
-                        jcr:primaryType="nt:unstructured"
-                        jcr:title="my caption"
-                        sling:resourceType="destpet/components/content/image"
-                        actionLinkURL="_self"
-                        alt="About"
-                        altValueFromDAM="false"
-                        displayPopupTitle="true"
-                        dmPresetType="imagePreset"
-                        fileReference="/content/dam/destpet/destination-pet-wood-stock/us/en/dog_puppy_white_baby_11435_1600x900.jpg"
-                        isDecorative="false"
-                        titleValueFromDAM="true"/>
-                    <container
-                        jcr:primaryType="nt:unstructured"
-                        sling:resourceType="destpet/components/content/container">
-                        <title
-                            jcr:lastModified="{Date}2022-09-22T09:44:46.215Z"
-                            jcr:lastModifiedBy="richa.bhatia@destpet.com"
-                            jcr:primaryType="nt:unstructured"
-                            jcr:title="About"
-                            sling:resourceType="destpet/components/content/title"
-                            type="h1"/>
-                        <richtext
-                            cq:styleIds="[1653980320261,1653900366807]"
-                            jcr:lastModified="{Date}2022-09-22T09:45:01.424Z"
-                            jcr:lastModifiedBy="richa.bhatia@destpet.com"
-                            jcr:primaryType="nt:unstructured"
-                            sling:resourceType="destpet/components/content/richtext"
-                            text="&lt;p>As dog owners ourselves we have always sought the finest accommodations and personal attention for our dogs whether just for daily daycare or overnight stay while we go out of town. We also wanted a relaxing spa experience for our dogs rather than a quick “haircut”. We wanted all of this in a convenient location too!&lt;/p>&#xd;&#xa;"
-                            textIsRich="true"/>
-                        <button
-                            cq:styleIds="[1657119424322]"
-                            jcr:lastModified="{Date}2022-10-13T13:13:13.230Z"
-                            jcr:lastModifiedBy="Navatarika.S@destpet.com"
-                            jcr:primaryType="nt:unstructured"
-                            jcr:title="Learn More"
-                            sling:resourceType="destpet/components/content/button"
-                            link="/content/dp-site-template/us/en/about-us"
-                            linkTarget="_self"/>
-                    </container>
-                    <container1
-                        jcr:primaryType="nt:unstructured"
-                        sling:resourceType="destpet/components/content/container">
-                        <image
-                            jcr:lastModified="{Date}2024-05-21T07:00:43.086Z"
-                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
-                            jcr:primaryType="nt:unstructured"
-                            sling:resourceType="destpet/components/content/image"
-                            actionLinkURL="_self"
-                            alt="[dog teeth,dog teeth]"
-                            altValueFromDAM="true"
-                            displayPopupTitle="false"
-                            dmPresetType="imagePreset"
-                            fileReference="/content/dam/destpet/destination-pet-wood-stock/us/en/general/close-dog-teeth.jpg"
-                            imageFromPageImage="false"
-                            linkTarget="_self"
-                            titleValueFromDAM="false"/>
-                    </container1>
+                    sling:resourceType="destpet/components/content/mediainfo">
                     <container2
                         jcr:primaryType="nt:unstructured"
                         sling:resourceType="destpet/components/content/container">
@@ -353,7 +303,25 @@
                             text="&lt;p>That's why regular dental health evaluations are a necessary component of your pet's wellness program. Current dental exams provide a baseline for reference in case of future dental problems, and professional cleanings help prevent painful dental diseases that can lead to other health issues.&lt;/p>&#xd;&#xa;&lt;p>If your pet is experiencing any of these symptoms, please let us know so we can perform a thorough evaluation of your pet's dental health and provide the necessary treatment. &lt;/p>&#xd;&#xa;&lt;ul>&#xd;&#xa;&lt;li>Halitosis or “Bad Breath” – contrary to widely held belief, this is not normal in animals&lt;/li>&#xd;&#xa;&lt;li>Excessive Drooling — typically of foul-smelling saliva&lt;/li>&#xd;&#xa;&lt;li>Appearance of plaque or tartar, beginning along the gum line and extending down the tooth (depending on the severity)&lt;/li>&#xd;&#xa;&lt;li>Swollen, reddish gums&lt;/li>&#xd;&#xa;&lt;li>Lack of interest in chew toys&lt;/li>&#xd;&#xa;&lt;li>Discolored teeth&lt;/li>&#xd;&#xa;&lt;li>Chronic eye infections or drainage with no exact cause or cure&lt;/li>&#xd;&#xa;&lt;li>Reluctance to eat (dry food in particular) or reduced appetite&lt;/li>&#xd;&#xa;&lt;li>Broken or fractured tooth/teeth&lt;/li>&#xd;&#xa;&lt;li>Frequent, regular sneezing&lt;/li>&#xd;&#xa;&lt;li>Pawing at or rubbing the muzzle/mouth&lt;/li>&#xd;&#xa;&lt;li>Abnormal discharge from nose&lt;/li>&#xd;&#xa;&lt;li>Favoring one side of the mouth when eating&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;"
                             textIsRich="true"/>
                     </container2>
-                </mediainfo2>
+                    <container1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="destpet/components/content/container">
+                        <image
+                            jcr:created="{Date}2024-12-03T09:25:03.084Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-12-03T09:25:28.028Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="destpet/components/content/image"
+                            actionLinkURL="_self"
+                            alt="[dog teeth,dog teeth]"
+                            displayPopupTitle="true"
+                            dmPresetType="imagePreset"
+                            fileReference="/content/dam/brands/destination-pet-wood-stock/us/en/general/close-dog-teeth.jpg"
+                            imageFromPageImage="false"
+                            titleValueFromDAM="true"/>
+                    </container1>
+                </mediainfo_1251963057>
                 <mediainfo3
                     cq:styleIds="[1660737948429,1654083381783]"
                     jcr:lastModified="{Date}2023-01-25T11:01:52.707Z"
@@ -370,7 +338,7 @@
                         jcr:primaryType="nt:unstructured"
                         jcr:title="Learn More"
                         sling:resourceType="destpet/components/content/button"
-                        link="/content/dp-site-template/us/en/about-us"
+                        link="/content/poochpalace/us/en/about-us"
                         linkTarget="_blank"/>
                     <image
                         cq:styleIds="[1654083114742]"
@@ -412,7 +380,7 @@
                             jcr:primaryType="nt:unstructured"
                             jcr:title="Learn More"
                             sling:resourceType="destpet/components/content/button"
-                            link="/content/dp-site-template/us/en/about-us"
+                            link="/content/poochpalace/us/en/about-us"
                             linkTarget="_self"/>
                     </container>
                     <container1
@@ -434,6 +402,18 @@
                             sling:resourceType="destpet/components/content/richtext"
                             text="&lt;p>If your pet is having problems chewing, or even if their bad breath is knocking you over, please call us to schedule an oral exam with our veterinarian at Centre. Our team provides top-notch dental care for a variety of species in City and the surrounding areas.&lt;/p>&#xd;&#xa;"
                             textIsRich="true"/>
+                        <button_copy
+                            cq:styleIds="[1657119424322]"
+                            jcr:created="{Date}2024-11-07T11:34:29.753Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-11-12T11:45:57.184Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            jcr:title="Request Service"
+                            sling:resourceType="destpet/components/content/button"
+                            id="Request Service"
+                            link="https://portal.yourgipet.com/index?centerid=278"
+                            linkTarget="_blank"/>
                     </container1>
                     <container2
                         jcr:primaryType="nt:unstructured"
@@ -457,8 +437,8 @@
             </container>
         </root>
         <cq:featuredimage
-            jcr:lastModified="{Date}2024-07-18T05:45:35.583+05:30"
-            jcr:lastModifiedBy="admin"
+            jcr:lastModified="{Date}2024-12-03T10:01:01.389Z"
+            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
             jcr:primaryType="nt:unstructured"
             sling:resourceType="core/wcm/components/image/v3/image"
             altValueFromDAM="false"/>

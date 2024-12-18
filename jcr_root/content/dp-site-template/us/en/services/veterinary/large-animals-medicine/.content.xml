@@ -1,24 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
     jcr:primaryType="cq:Page">
     <jcr:content
         cq:isDelivered="{Boolean}false"
-        cq:lastModified="{Date}2024-07-18T06:19:42.161+05:30"
-        cq:lastModifiedBy="admin"
-        cq:lastReplicated_scene7="{Date}2024-05-29T19:39:38.455Z"
+        cq:lastModified="{Date}2024-12-03T10:01:08.206Z"
+        cq:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+        cq:lastReplicated="{Date}2024-12-03T10:22:04.907Z"
+        cq:lastReplicated_publish="{Date}2024-12-03T10:22:04.907Z"
+        cq:lastReplicated_scene7="{Date}2024-12-03T09:02:24.225Z"
+        cq:lastReplicatedBy="Shyamlal.Saroj@destpet.com"
+        cq:lastReplicatedBy_publish="Shyamlal.Saroj@destpet.com"
         cq:lastReplicatedBy_scene7="Shyamlal.Saroj@destpet.com"
+        cq:lastReplicationAction="Activate"
+        cq:lastReplicationAction_publish="Activate"
         cq:lastReplicationAction_scene7="Activate"
         cq:tags="[destpet:services/veterinary/large-animals-medicine]"
         cq:template="/conf/destpet/settings/wcm/templates/services"
-        jcr:lastModified="{Date}2024-07-18T05:45:35.583+05:30"
-        jcr:lastModifiedBy="admin"
+        jcr:description="Large Animals Medicine"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:lastModified="{Date}2024-12-03T10:01:08.142Z"
+        jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+        jcr:mixinTypes="[cq:ReplicationStatus2,mix:versionable]"
         jcr:primaryType="cq:PageContent"
         jcr:title="Large Animals Medicine"
+        jcr:uuid="1752025f-cb47-4011-a367-b42aed0935e8"
         sling:resourceType="destpet/components/structure/page"
-        clientlibsTheme="theme-brown-dog-lodge"
+        clientlibsTheme="theme-pooch-palace"
         disablePopup="true"
         favIconClientLibPath="/etc.clientlibs/destpet/clientlibs/clientlib-favicon/browndoglodge/resources"
         hidePopupMobile="true"
+        isPricing="false"
+        isProfile="false"
         megamenuView="false"
         ogTags="false"
         pageTitle="Large Animals Medicine"
@@ -46,20 +58,350 @@
                         sling:resourceType="wcm/foundation/components/parsys">
                         <title
                             cq:styleIds="[1660048309992,1663573025868]"
-                            jcr:lastModified="{Date}2024-05-21T14:04:35.886Z"
+                            jcr:lastModified="{Date}2024-11-12T11:55:01.820Z"
                             jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
                             jcr:primaryType="nt:unstructured"
-                            jcr:title="Large Animals Medicine"
+                            jcr:title="Large Animal Medicine"
                             sling:resourceType="destpet/components/content/title"
                             linkTarget="_self"
                             type="h1"/>
+                        <richtext
+                            cq:styleIds="[1658223888669,1653980320261,1663189883671]"
+                            jcr:created="{Date}2024-11-12T11:55:11.293Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-11-12T11:55:18.083Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="destpet/components/content/richtext"
+                            text="&lt;p style=&quot;text-align: center;&quot;>Healthcare for animals of all sizes!&lt;/p>&#xd;&#xa;"
+                            textIsRich="true"/>
                     </_x0031_>
                 </columncontainer>
+                <columncontainer_889811094
+                    cq:styleIds="[1654238085069]"
+                    jcr:created="{Date}2024-11-12T11:55:36.318Z"
+                    jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                    jcr:lastModified="{Date}2024-11-12T11:55:36.318Z"
+                    jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="destpet/components/content/columncontainer">
+                    <_x0031_
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="wcm/foundation/components/parsys">
+                        <richtext
+                            jcr:created="{Date}2024-11-12T11:55:44.274Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-11-12T11:56:32.502Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="destpet/components/content/richtext"
+                            text="&lt;p style=&quot;text-align: center;&quot;>At [Center Name], we love all animals. We are equipped to provide exceptional care for a variety of pets including large animals such as horses, cattle, sheep, goats, and pigs. Our skilled veterinarians specialize in large animal medicine and surgery and offer a full range of medical services to keep your animals healthy and thriving. From routine wellness exams to emergency care, our dedicated team has the expertise, and our modern facility has the resources to deliver comprehensive care that will meet your specific needs.&lt;/p>&#xd;&#xa;"
+                            textIsRich="true"/>
+                    </_x0031_>
+                </columncontainer_889811094>
+                <image_copy_copy_copy
+                    jcr:created="{Date}2024-11-05T09:58:02.489Z"
+                    jcr:createdBy="priya.p@destpet.com"
+                    jcr:lastModified="{Date}2024-11-05T09:59:39.093Z"
+                    jcr:lastModifiedBy="priya.p@destpet.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="destpet/components/content/image"
+                    actionLinkURL="_self"
+                    alt="[bestlife banner,bestlife banner]"
+                    displayPopupTitle="true"
+                    fileReference="/content/dam/brands/dogaholics/us/en/general/yourgi-bestlife-vet-web-banners-image.png"
+                    imageFromPageImage="false"
+                    linkURL="/content/poochpalace/us/en/bestlife/overview"
+                    titleValueFromDAM="true"/>
+                <mediainfo
+                    cq:styleIds="[1660737948429,1654083381783]"
+                    jcr:created="{Date}2024-11-12T11:56:47.752Z"
+                    jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                    jcr:lastModified="{Date}2024-11-12T11:56:47.752Z"
+                    jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="destpet/components/content/mediainfo">
+                    <container1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="destpet/components/content/container">
+                        <title
+                            jcr:created="{Date}2024-11-12T11:56:57.662Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-11-12T11:57:13.608Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            jcr:title="Services for Large Animals"
+                            sling:resourceType="destpet/components/content/title"
+                            linkTarget="_self"
+                            type="h2"/>
+                        <richtext
+                            cq:styleIds="[1653980320261]"
+                            jcr:created="{Date}2024-11-12T11:56:53.200Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-11-12T11:57:25.309Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="destpet/components/content/richtext"
+                            text="&lt;p>Our expert team follows the latest recommendations for ensuring your animal’s long-term health and wellness. Our annual engagements include a physical examination, a soundness examination, vaccinations, parasite control, blood testing, nutritional guidance, Coggins Test for equine patients, and more.&lt;/p>&#xd;&#xa;"
+                            textIsRich="true"/>
+                    </container1>
+                    <container2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="destpet/components/content/container">
+                        <image
+                            cq:styleIds="[1654083116865]"
+                            jcr:created="{Date}2024-11-12T11:57:02.980Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-11-12T12:12:39.533Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="destpet/components/content/image"
+                            actionLinkURL="_self"
+                            alt="[Dog staring,Dog staring]"
+                            displayPopupTitle="true"
+                            dmPresetType="imagePreset"
+                            fileReference="/content/dam/destinationpet/us/en/news/june-nl/143APS_POTM.png"
+                            imageFromPageImage="false"
+                            titleValueFromDAM="true"/>
+                    </container2>
+                </mediainfo>
+                <dynamicmedia
+                    jcr:created="{Date}2024-11-12T11:57:56.185Z"
+                    jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                    jcr:lastModified="{Date}2024-11-12T11:57:56.185Z"
+                    jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="destpet/components/content/dynamicmedia"/>
+                <mediainfo_1736328142
+                    cq:styleIds="[1660737948429,1660737911807]"
+                    jcr:created="{Date}2024-11-12T11:58:18.237Z"
+                    jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                    jcr:lastModified="{Date}2024-11-12T11:58:18.237Z"
+                    jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="destpet/components/content/mediainfo">
+                    <container2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="destpet/components/content/container">
+                        <image
+                            jcr:created="{Date}2024-11-12T11:58:03.131Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-11-12T12:16:59.505Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="destpet/components/content/image"
+                            actionLinkURL="_self"
+                            alt="[two dogs playing,two dogs playing]"
+                            altValueFromDAM="true"
+                            displayPopupTitle="true"
+                            dmPresetType="imagePreset"
+                            fileReference="/content/dam/destpet/destination-pet-wood-stock/us/en/two-dogs-playing-grass.png"
+                            imageFromPageImage="false"
+                            titleValueFromDAM="true"/>
+                    </container2>
+                    <container1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="destpet/components/content/container">
+                        <richtext
+                            jcr:created="{Date}2024-11-12T11:58:31.277Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-11-12T11:58:50.977Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="destpet/components/content/richtext"
+                            text="&lt;p>We are proud to provide clinical and critical care and diagnostics, including annual wellness and sick exams, bloodwork, and fecal tests. Our facility has been carefully designed to provide a safe environment for your animal. While we are equipped to offer many services at your farm, many conditions are best handled at our facility where we have access to in-house equipment for diagnostics, a full pharmacy, and convenient distance to provide daily examinations and treatment protocols. In addition to our in-house diagnostics, we work with several reputable reference laboratories to ensure we provide the best quality care for our large animal patients.     &lt;/p>&#xd;&#xa;"
+                            textIsRich="true"/>
+                    </container1>
+                </mediainfo_1736328142>
+                <mediainfo_copy
+                    cq:styleIds="[1660737948429,1654083381783]"
+                    jcr:created="{Date}2024-11-12T11:56:47.752Z"
+                    jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                    jcr:lastModified="{Date}2024-11-12T11:56:47.752Z"
+                    jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="destpet/components/content/mediainfo">
+                    <container1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="destpet/components/content/container">
+                        <title
+                            jcr:created="{Date}2024-11-12T11:56:57.662Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-11-12T11:59:15.866Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            jcr:title="Equine Dental Care"
+                            sling:resourceType="destpet/components/content/title"
+                            linkTarget="_self"
+                            type="h2"/>
+                        <richtext
+                            cq:styleIds="[1653980320261]"
+                            jcr:created="{Date}2024-11-12T11:56:53.200Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-11-12T11:59:31.593Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="destpet/components/content/richtext"
+                            text="&lt;p>Horses have unique dental needs, and we provide teeth floating services to meet them. Horses’ teeth continue to erupt from their gums throughout their lives. This provides them with a renewing grinding source. Unfortunately, their teeth are prone to developing sharp points, which can cut the cheek and tongue. Horses may also experience tooth fractures, tooth loss, or abscesses.&lt;/p>&#xd;&#xa;&lt;p>At [center name], we recommend an annual dental examination and float to monitor and promote good oral health. Our team utilizes well-designed restraint methods, sedation, and advanced power equipment to safely work in your horse’s mouth and prevent injury to both your horse and our team.&lt;/p>&#xd;&#xa;"
+                            textIsRich="true"/>
+                    </container1>
+                    <container2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="destpet/components/content/container">
+                        <image
+                            jcr:created="{Date}2024-11-12T11:57:02.980Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-11-12T12:11:38.536Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="destpet/components/content/image"
+                            actionLinkURL="_self"
+                            alt="[black dog smiling,black dog smiling]"
+                            altValueFromDAM="true"
+                            displayPopupTitle="true"
+                            dmPresetType="imagePreset"
+                            fileReference="/content/dam/brands/jill-pet-resort/united-states/english/general/black-dog-smiling-2.jpg"
+                            imageFromPageImage="false"
+                            titleValueFromDAM="false"/>
+                    </container2>
+                </mediainfo_copy>
+                <image_copy_copy
+                    jcr:created="{Date}2024-11-07T10:58:50.076Z"
+                    jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                    jcr:lastModified="{Date}2024-11-07T11:32:41.083Z"
+                    jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="destpet/components/content/image"
+                    actionLinkURL="_blank"
+                    alt="[Veterinary yourgi banner,Veterinary yourgi banner]"
+                    displayPopupTitle="true"
+                    dmPresetType="imagePreset"
+                    fileReference="/content/dam/brands/destination-pet-wood-stock/us/en/general/yourgi-service-banner-book-veterinary-5000px-1.jpg"
+                    id="Veterinary yourgi banner"
+                    imageFromPageImage="false"
+                    linkURL="https://qrco.de/bcwYBB"
+                    titleValueFromDAM="false"/>
+                <mediainfo_copy_copy
+                    cq:styleIds="[1660737948429,1660737911807]"
+                    jcr:created="{Date}2024-11-12T11:56:47.752Z"
+                    jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                    jcr:lastModified="{Date}2024-11-12T11:56:47.752Z"
+                    jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="destpet/components/content/mediainfo">
+                    <container1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="destpet/components/content/container">
+                        <title
+                            jcr:created="{Date}2024-11-12T11:56:57.662Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-11-12T12:00:16.541Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            jcr:title="Additional Services"
+                            sling:resourceType="destpet/components/content/title"
+                            linkTarget="_self"
+                            type="h2"/>
+                        <richtext
+                            cq:styleIds="[1653980320261]"
+                            jcr:created="{Date}2024-11-12T11:56:53.200Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-11-12T12:09:33.939Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="destpet/components/content/richtext"
+                            text="&lt;p>We strive to provide a complete range of services for our equine, bovine, ovine, caprine, or porcine patients. In addition to the services listed above, we offer ophthalmology, lameness exams, joint injections, and more. If your animal requires a service not mentioned, please contact us to see if we can help.&lt;/p>&#xd;&#xa;"
+                            textIsRich="true"/>
+                    </container1>
+                    <container2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="destpet/components/content/container">
+                        <image
+                            jcr:created="{Date}2024-11-12T11:57:02.980Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-11-12T12:17:28.685Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="destpet/components/content/image"
+                            actionLinkURL="_self"
+                            alt="[OT room,OT room]"
+                            altValueFromDAM="true"
+                            displayPopupTitle="true"
+                            dmPresetType="imagePreset"
+                            fileReference="/content/dam/destpet/destination-pet-wood-stock/us/en/midlands-veterinary-practice-laser-surgery-room.jpg"
+                            imageFromPageImage="false"
+                            titleValueFromDAM="true"/>
+                    </container2>
+                </mediainfo_copy_copy>
+                <mediainfo_copy_copy_933632165
+                    cq:styleIds="[1660737948429,1654083381783]"
+                    jcr:created="{Date}2024-11-12T11:56:47.752Z"
+                    jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                    jcr:lastModified="{Date}2024-11-12T11:56:47.752Z"
+                    jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="destpet/components/content/mediainfo">
+                    <container1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="destpet/components/content/container">
+                        <title
+                            jcr:created="{Date}2024-11-12T11:56:57.662Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-11-12T12:01:28.613Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            jcr:title="Large Animal Medicine in [city name]"
+                            sling:resourceType="destpet/components/content/title"
+                            linkTarget="_self"
+                            type="h2"/>
+                        <richtext
+                            cq:styleIds="[1653980320261]"
+                            jcr:created="{Date}2024-11-12T11:56:53.200Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-11-12T12:09:40.200Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="destpet/components/content/richtext"
+                            text="&lt;p>For large animal medicine in [city name] and the surrounding areas, look no further than [center name]. Contact us today to learn more or to schedule an appointment.&lt;/p>&#xd;&#xa;&lt;p>Call us&amp;nbsp;&lt;a href=&quot;tel:9014378547&quot;>(901) 437-8547&lt;/a>&lt;/p>&#xd;&#xa;"
+                            textIsRich="true"/>
+                        <button_copy
+                            cq:styleIds="[1657119424322]"
+                            jcr:created="{Date}2024-11-07T11:34:29.753Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-11-12T11:45:57.184Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            jcr:title="Request Service"
+                            sling:resourceType="destpet/components/content/button"
+                            id="Request Service"
+                            link="https://portal.yourgipet.com/index?centerid=278"
+                            linkTarget="_blank"/>
+                    </container1>
+                    <container2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="destpet/components/content/container">
+                        <image
+                            jcr:created="{Date}2024-11-12T11:57:02.980Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-11-12T12:17:56.973Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="destpet/components/content/image"
+                            actionLinkURL="_self"
+                            alt="[Dog is running,Dog is running]"
+                            altValueFromDAM="true"
+                            displayPopupTitle="true"
+                            dmPresetType="imagePreset"
+                            fileReference="/content/dam/destpet/destination-pet-wood-stock/us/en/adult-dog.jpg"
+                            imageFromPageImage="false"
+                            titleValueFromDAM="true"/>
+                    </container2>
+                </mediainfo_copy_copy_933632165>
             </container>
         </root>
         <cq:featuredimage
-            jcr:lastModified="{Date}2024-07-18T05:45:35.583+05:30"
-            jcr:lastModifiedBy="admin"
+            jcr:lastModified="{Date}2024-12-03T10:01:08.142Z"
+            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
             jcr:primaryType="nt:unstructured"
             sling:resourceType="core/wcm/components/image/v3/image"
             altValueFromDAM="false"/>

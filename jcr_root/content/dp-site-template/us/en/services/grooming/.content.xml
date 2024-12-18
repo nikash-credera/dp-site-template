@@ -82,7 +82,7 @@
                             sling:resourceType="destpet/components/content/title"
                             linkTarget="_self"
                             type="h2"/>
-                            <servicepricingcard
+                        <servicepricingcard
                             jcr:created="{Date}2024-11-27T09:03:32.166Z"
                             jcr:createdBy="deepika.kawatra@destpet.com"
                             jcr:lastModified="{Date}2024-11-27T09:03:32.166Z"
