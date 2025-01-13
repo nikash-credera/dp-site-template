@@ -126,6 +126,7 @@
                         jcr:lastModifiedBy="rahul.pippiri@destpet.com"
                         jcr:primaryType="nt:unstructured"
                         sling:resourceType="destpet/components/content/ctacontainer"
+                        alignment=" cta-container--vertical-aligned"
                         heading="About"
                         icon="icon-dropdown"
                         id="Company-Footer">
