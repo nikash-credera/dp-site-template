@@ -1,24 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
     jcr:primaryType="cq:Page">
     <jcr:content
         cq:isDelivered="{Boolean}false"
-        cq:lastModified="{Date}2024-07-18T06:20:53.677+05:30"
-        cq:lastModifiedBy="admin"
-        cq:lastReplicated_scene7="{Date}2024-05-21T21:17:40.826Z"
+        cq:lastModified="{Date}2024-11-12T13:57:01.441Z"
+        cq:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+        cq:lastReplicated="{Date}2024-12-03T10:22:31.815Z"
+        cq:lastReplicated_publish="{Date}2024-12-03T10:22:31.815Z"
+        cq:lastReplicated_scene7="{Date}2024-11-12T13:57:05.388Z"
+        cq:lastReplicatedBy="Shyamlal.Saroj@destpet.com"
+        cq:lastReplicatedBy_publish="Shyamlal.Saroj@destpet.com"
         cq:lastReplicatedBy_scene7="Shyamlal.Saroj@destpet.com"
+        cq:lastReplicationAction="Activate"
+        cq:lastReplicationAction_publish="Activate"
         cq:lastReplicationAction_scene7="Activate"
         cq:tags="[destpet:services/veterinary/additional-services/herbal-supplementation]"
         cq:template="/conf/destpet/settings/wcm/templates/services"
-        jcr:lastModified="{Date}2024-07-18T05:45:35.583+05:30"
-        jcr:lastModifiedBy="admin"
+        jcr:description="Herbal Supplementation"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:lastModified="{Date}2024-11-12T13:52:46.306Z"
+        jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+        jcr:mixinTypes="[cq:ReplicationStatus2,mix:versionable]"
         jcr:primaryType="cq:PageContent"
         jcr:title="Herbal Supplementation"
+        jcr:uuid="aa816fc1-585c-4f6a-b5d5-58e4fc14d796"
         sling:resourceType="destpet/components/structure/page"
-        clientlibsTheme="theme-brown-dog-lodge"
+        clientlibsTheme="theme-pooch-palace"
         disablePopup="true"
         favIconClientLibPath="/etc.clientlibs/destpet/clientlibs/clientlib-favicon/browndoglodge/resources"
         hidePopupMobile="true"
+        isPricing="false"
+        isProfile="false"
         megamenuView="false"
         ogTags="false"
         pageTitle="Herbal Supplementation"
@@ -55,11 +67,141 @@
                             type="h1"/>
                     </_x0031_>
                 </columncontainer>
+                <mediainfo_copy
+                    cq:styleIds="[1660737911807,1660737948429]"
+                    jcr:created="{Date}2024-11-07T11:13:16.400Z"
+                    jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                    jcr:lastModified="{Date}2024-11-07T11:13:16.400Z"
+                    jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="destpet/components/content/mediainfo">
+                    <container1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="destpet/components/content/container">
+                        <image
+                            jcr:created="{Date}2024-11-07T11:13:34.843Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-11-12T13:56:50.583Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="destpet/components/content/image"
+                            actionLinkURL="_self"
+                            alt="[dog playing,dog playing]"
+                            displayPopupTitle="true"
+                            dmPresetType="imagePreset"
+                            fileReference="/content/dam/destpet/destination-pet-wood-stock/us/en/happy-dog-grass.jpg"
+                            imageFromPageImage="false"
+                            titleValueFromDAM="false"/>
+                    </container1>
+                    <container2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="destpet/components/content/container">
+                        <title
+                            jcr:created="{Date}2024-11-07T11:13:52.175Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-11-12T13:53:39.150Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            jcr:title="Herbal Medicine"
+                            sling:resourceType="destpet/components/content/title"
+                            linkTarget="_self"
+                            type="h2"/>
+                        <richtext_copy_copy
+                            cq:styleIds="[1653980320261,1663159032900]"
+                            jcr:created="{Date}2024-11-07T10:47:44.881Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-11-12T13:54:29.204Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="destpet/components/content/richtext"
+                            text="&lt;p>At [Center Name], we understand that many pet parents prefer a holistic approach to pet health, which is why we offer herbal supplementation as part of our comprehensive care services. These natural alternatives to traditional medications can support various aspects of your pet's well-being, including immune function, digestive health, and joint mobility, and can be tailored to your pet's specific needs. Whether your furry family member is dealing with a chronic condition, experiencing age-related issues, or simply seeking overall wellness support, herbal supplementation can be a valuable addition to their treatment plan. Trust our knowledgeable team at [Center Name] to provide expert guidance and personalized recommendations to optimize your pet's health and vitality through the power of herbal medicine. &lt;/p>&#xd;&#xa;"
+                            textIsRich="true"/>
+                    </container2>
+                </mediainfo_copy>
+                <image_copy_copy
+                    jcr:created="{Date}2024-11-07T10:58:50.076Z"
+                    jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                    jcr:lastModified="{Date}2024-11-07T11:32:41.083Z"
+                    jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="destpet/components/content/image"
+                    actionLinkURL="_blank"
+                    alt="[Veterinary yourgi banner,Veterinary yourgi banner]"
+                    displayPopupTitle="true"
+                    dmPresetType="imagePreset"
+                    fileReference="/content/dam/brands/destination-pet-wood-stock/us/en/general/yourgi-service-banner-book-veterinary-5000px-1.jpg"
+                    id="Veterinary yourgi banner"
+                    imageFromPageImage="false"
+                    linkURL="https://qrco.de/bcwYBB"
+                    titleValueFromDAM="false"/>
+                <mediainfo_copy_copy_
+                    cq:styleIds="[1660737948429]"
+                    jcr:created="{Date}2024-11-07T11:13:16.400Z"
+                    jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                    jcr:lastModified="{Date}2024-11-07T11:13:16.400Z"
+                    jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="destpet/components/content/mediainfo">
+                    <container1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="destpet/components/content/container">
+                        <image
+                            jcr:created="{Date}2024-11-07T11:13:34.843Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-11-12T13:56:28.149Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="destpet/components/content/image"
+                            actionLinkURL="_self"
+                            alt="[Dog smiling,Dog smiling]"
+                            displayPopupTitle="true"
+                            dmPresetType="imagePreset"
+                            fileReference="/content/dam/destpet/destination-pet-wood-stock/us/en/smiling-small-dog-after-grooming.jpg"
+                            imageFromPageImage="false"
+                            titleValueFromDAM="false"/>
+                    </container1>
+                    <container2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="destpet/components/content/container">
+                        <title
+                            jcr:created="{Date}2024-11-07T11:13:52.175Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-11-12T13:54:57.553Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            jcr:title="Herbal Supplementation in [City Name]"
+                            sling:resourceType="destpet/components/content/title"
+                            linkTarget="_self"
+                            type="h2"/>
+                        <richtext_copy_copy
+                            cq:styleIds="[1653980320261,1663159032900]"
+                            jcr:created="{Date}2024-11-07T10:47:44.881Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-11-12T13:55:35.637Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="destpet/components/content/richtext"
+                            text="&lt;p>[Center Name] + Medical Center offers Herbal Supplementation for pets in [City Name], and the surrounding areas.&lt;/p>&#xd;&#xa;&lt;p>Call us&amp;nbsp;&lt;a href=&quot;tel:9014378547&quot;>(901) 437-8547&lt;/a>&lt;/p>&#xd;&#xa;"
+                            textIsRich="true"/>
+                        <button
+                            cq:styleIds="[1657119424322]"
+                            jcr:created="{Date}2024-11-07T11:34:29.753Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-11-12T11:45:57.184Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            jcr:title="Request Service"
+                            sling:resourceType="destpet/components/content/button"
+                            id="Request Service"
+                            link="https://portal.yourgipet.com/index?centerid=278"
+                            linkTarget="_blank"/>
+                    </container2>
+                </mediainfo_copy_copy_>
             </container>
         </root>
         <cq:featuredimage
-            jcr:lastModified="{Date}2024-07-18T05:45:35.583+05:30"
-            jcr:lastModifiedBy="admin"
+            jcr:lastModified="{Date}2024-11-12T13:52:46.306Z"
+            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
             jcr:primaryType="nt:unstructured"
             sling:resourceType="core/wcm/components/image/v3/image"
             altValueFromDAM="false"/>

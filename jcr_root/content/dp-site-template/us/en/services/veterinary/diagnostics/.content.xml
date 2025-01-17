@@ -1,23 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
     jcr:primaryType="cq:Page">
     <jcr:content
         cq:isDelivered="{Boolean}false"
-        cq:lastModified="{Date}2024-07-18T06:18:44.508+05:30"
-        cq:lastModifiedBy="admin"
-        cq:lastReplicationAction_scene7="Activate"
+        cq:lastModified="{Date}2024-12-03T10:20:06.906Z"
+        cq:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+        cq:lastReplicated="{Date}2024-12-03T10:22:04.907Z"
+        cq:lastReplicated_publish="{Date}2024-12-03T10:22:04.907Z"
+        cq:lastReplicated_scene7="{Date}2024-11-04T09:47:07.624Z"
+        cq:lastReplicatedBy="Shyamlal.Saroj@destpet.com"
+        cq:lastReplicatedBy_publish="Shyamlal.Saroj@destpet.com"
+        cq:lastReplicatedBy_scene7="content-fragment-service"
+        cq:lastReplicationAction="Activate"
+        cq:lastReplicationAction_publish="Activate"
+        cq:lastReplicationAction_scene7="Deactivate"
         cq:tags="[destpet:services/veterinary/diagnostics]"
         cq:template="/conf/destpet/settings/wcm/templates/services"
         jcr:description="Fast &amp; accurate pet diagnoses at Dugan's Veterinary Hospital! Bloodwork, X-rays, &amp; ultrasound. Get the answers you need for your pet's health."
-        jcr:lastModified="{Date}2024-07-18T05:45:35.583+05:30"
-        jcr:lastModifiedBy="admin"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:lastModified="{Date}2024-12-03T10:00:52.553Z"
+        jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+        jcr:mixinTypes="[cq:ReplicationStatus2,mix:versionable]"
         jcr:primaryType="cq:PageContent"
         jcr:title="Diagnostics"
+        jcr:uuid="b8537f0b-9222-431a-84bb-f9375eefd320"
         sling:resourceType="destpet/components/structure/page"
         clientlibsTheme="theme-brown-dog-lodge"
         disablePopup="true"
         favIconClientLibPath="/etc.clientlibs/destpet/clientlibs/clientlib-favicon/browndoglodge/resources"
         hidePopupMobile="true"
+        isPricing="false"
+        isProfile="false"
         megamenuView="false"
         ogTags="false"
         pageTitle="In House Diagnostics"
@@ -52,87 +65,24 @@
                             sling:resourceType="destpet/components/content/title"
                             linkTarget="_self"
                             type="h1"/>
-                    </_x0031_>
-                </columncontainer>
-                <mediainfo
-                    cq:styleIds="[1660737909560,1660737948429]"
-                    jcr:lastModified="{Date}2023-01-25T11:01:52.707Z"
-                    jcr:lastModifiedBy="deepika.kawatra@destpet.com"
-                    jcr:primaryType="nt:unstructured"
-                    sling:resourceType="destpet/components/content/mediainfo"
-                    description="As dog owners ourselves we have always sought the finest accommodations and personal attention for our dogs whether just for daily daycare or overnight stay while we go out of town. We also wanted a relaxing spa experience for our dogs rather than a quick “haircut”. We wanted all of this in a convenient location too!"
-                    title="About"
-                    type="Image">
-                    <button
-                        cq:styleIds="[1657119424322]"
-                        jcr:lastModified="{Date}2022-08-29T17:12:47.342Z"
-                        jcr:lastModifiedBy="Navatarika.S@tadigital.com"
-                        jcr:primaryType="nt:unstructured"
-                        jcr:title="Learn More"
-                        sling:resourceType="destpet/components/content/button"
-                        link="/content/dp-site-template/us/en/about-us"
-                        linkTarget="_blank"/>
-                    <image
-                        cq:styleIds="[1654083114742]"
-                        jcr:lastModified="{Date}2022-10-13T13:17:44.718Z"
-                        jcr:lastModifiedBy="Navatarika.S@destpet.com"
-                        jcr:primaryType="nt:unstructured"
-                        jcr:title="my caption"
-                        sling:resourceType="destpet/components/content/image"
-                        actionLinkURL="_self"
-                        alt="About"
-                        altValueFromDAM="false"
-                        displayPopupTitle="true"
-                        dmPresetType="imagePreset"
-                        fileReference="/content/dam/destpet/destination-pet-wood-stock/us/en/dog_puppy_white_baby_11435_1600x900.jpg"
-                        isDecorative="false"
-                        titleValueFromDAM="true"/>
-                    <container
-                        jcr:primaryType="nt:unstructured"
-                        sling:resourceType="destpet/components/content/container">
-                        <title
-                            jcr:lastModified="{Date}2022-09-22T09:44:46.215Z"
-                            jcr:lastModifiedBy="richa.bhatia@destpet.com"
-                            jcr:primaryType="nt:unstructured"
-                            jcr:title="About"
-                            sling:resourceType="destpet/components/content/title"
-                            type="h1"/>
-                        <richtext
-                            cq:styleIds="[1653980320261,1653900366807]"
-                            jcr:lastModified="{Date}2022-09-22T09:45:01.424Z"
-                            jcr:lastModifiedBy="richa.bhatia@destpet.com"
-                            jcr:primaryType="nt:unstructured"
-                            sling:resourceType="destpet/components/content/richtext"
-                            text="&lt;p>As dog owners ourselves we have always sought the finest accommodations and personal attention for our dogs whether just for daily daycare or overnight stay while we go out of town. We also wanted a relaxing spa experience for our dogs rather than a quick “haircut”. We wanted all of this in a convenient location too!&lt;/p>&#xd;&#xa;"
-                            textIsRich="true"/>
-                        <button
-                            cq:styleIds="[1657119424322]"
-                            jcr:lastModified="{Date}2022-10-13T13:13:13.230Z"
-                            jcr:lastModifiedBy="Navatarika.S@destpet.com"
-                            jcr:primaryType="nt:unstructured"
-                            jcr:title="Learn More"
-                            sling:resourceType="destpet/components/content/button"
-                            link="/content/dp-site-template/us/en/about-us"
-                            linkTarget="_self"/>
-                    </container>
-                    <container1
-                        jcr:primaryType="nt:unstructured"
-                        sling:resourceType="destpet/components/content/container">
-                        <image
-                            jcr:lastModified="{Date}2024-05-21T07:19:08.840Z"
+                        <richtext_copy
+                            cq:styleIds="[1658223888669,16539089333554,1663189883671]"
+                            jcr:lastModified="{Date}2024-12-03T10:10:58.611Z"
                             jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
                             jcr:primaryType="nt:unstructured"
-                            sling:resourceType="destpet/components/content/image"
-                            actionLinkURL="_self"
-                            alt="[women running diagnostics,women running diagnostics]"
-                            altValueFromDAM="true"
-                            displayPopupTitle="false"
-                            dmPresetType="imagePreset"
-                            fileReference="/content/dam/destpet/destination-pet-wood-stock/us/en/general/woman-running-diagnostics.png"
-                            imageFromPageImage="false"
-                            linkTarget="_self"
-                            titleValueFromDAM="false"/>
-                    </container1>
+                            sling:resourceType="destpet/components/content/richtext"
+                            text="&lt;p style=&quot;text-align: center;&quot;>Detect &amp;amp; Monitor Health Issues&lt;/p>&#xd;&#xa;"
+                            textIsRich="true"/>
+                    </_x0031_>
+                </columncontainer>
+                <mediainfo_1894926285
+                    cq:styleIds="[1660737948429]"
+                    jcr:created="{Date}2024-12-03T10:18:59.221Z"
+                    jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                    jcr:lastModified="{Date}2024-12-03T10:18:59.221Z"
+                    jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="destpet/components/content/mediainfo">
                     <container2
                         jcr:primaryType="nt:unstructured"
                         sling:resourceType="destpet/components/content/container">
@@ -153,7 +103,25 @@
                             text="&lt;p>We have an onsite laboratory for timely analysis of samples that have either been collected by our doctors or brought in by our clients. This can be done for diagnostic purposes, or to establish a baseline for early disease detection in the future.  Our laboratory services include:&lt;/p>&#xd;&#xa;&lt;ul>&#xd;&#xa;&lt;li>Intestinal Parasite Testing&lt;/li>&#xd;&#xa;&lt;li>Urinalysis for signs of disease or infection&lt;/li>&#xd;&#xa;&lt;li>Complete Blood Count (CBC) to check for anemia, dehydration, clotting ability, immune system issues, or signs of infection&lt;/li>&#xd;&#xa;&lt;li>Chemistry Panel for measuring levels of electrolytes, glucose, calcium, enzymes, sodium, potassium, and other substances produced by the internal organs to assess their function&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;&lt;p>For those tests that require advanced testing equipment or more specialized analysis to ensure accuracy, we utilize a reliable outside reference lab.&lt;/p>&#xd;&#xa;"
                             textIsRich="true"/>
                     </container2>
-                </mediainfo>
+                    <container1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="destpet/components/content/container">
+                        <image
+                            jcr:created="{Date}2024-12-03T10:19:18.974Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-12-03T10:19:36.812Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="destpet/components/content/image"
+                            actionLinkURL="_self"
+                            alt="[dog checking up,dog checking up]"
+                            displayPopupTitle="true"
+                            dmPresetType="imagePreset"
+                            fileReference="/content/dam/brands/destination-pet-wood-stock/us/en/general/dog-check-up.jpg"
+                            imageFromPageImage="false"
+                            titleValueFromDAM="true"/>
+                    </container1>
+                </mediainfo_1894926285>
                 <image
                     cq:styleIds="[1654083116865]"
                     jcr:lastModified="{Date}2024-05-21T06:53:02.308Z"
@@ -188,7 +156,7 @@
                         jcr:primaryType="nt:unstructured"
                         jcr:title="Learn More"
                         sling:resourceType="destpet/components/content/button"
-                        link="/content/dp-site-template/us/en/about-us"
+                        link="/content/poochpalace/us/en/about-us"
                         linkTarget="_blank"/>
                     <image
                         cq:styleIds="[1654083114742]"
@@ -230,7 +198,7 @@
                             jcr:primaryType="nt:unstructured"
                             jcr:title="Learn More"
                             sling:resourceType="destpet/components/content/button"
-                            link="/content/dp-site-template/us/en/about-us"
+                            link="/content/poochpalace/us/en/about-us"
                             linkTarget="_self"/>
                     </container>
                     <container1
@@ -271,6 +239,24 @@
                             linkTarget="_self"
                             titleValueFromDAM="false"/>
                     </container_2>
+                    <container2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="destpet/components/content/container">
+                        <image
+                            jcr:created="{Date}2024-12-03T10:19:42.939Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-12-03T10:20:00.812Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="destpet/components/content/image"
+                            actionLinkURL="_self"
+                            alt="[dog check up,dog check up]"
+                            displayPopupTitle="true"
+                            dmPresetType="imagePreset"
+                            fileReference="/content/dam/destpet/destination-pet-wood-stock/us/en/dog-check-up.jpg"
+                            imageFromPageImage="false"
+                            titleValueFromDAM="true"/>
+                    </container2>
                 </mediainfo1>
                 <mediainfo2
                     cq:styleIds="[1660737909560,1660737948429]"
@@ -288,7 +274,7 @@
                         jcr:primaryType="nt:unstructured"
                         jcr:title="Learn More"
                         sling:resourceType="destpet/components/content/button"
-                        link="/content/dp-site-template/us/en/about-us"
+                        link="/content/poochpalace/us/en/about-us"
                         linkTarget="_blank"/>
                     <image
                         cq:styleIds="[1654083114742]"
@@ -330,7 +316,7 @@
                             jcr:primaryType="nt:unstructured"
                             jcr:title="Learn More"
                             sling:resourceType="destpet/components/content/button"
-                            link="/content/dp-site-template/us/en/about-us"
+                            link="/content/poochpalace/us/en/about-us"
                             linkTarget="_self"/>
                     </container>
                     <container1
@@ -370,13 +356,25 @@
                             sling:resourceType="destpet/components/content/richtext"
                             text="&lt;p>If your pet requires diagnostic testing, depend on&amp;nbsp;Centre for in-house diagnostics in City. Whether they need routine lab work to monitor their ongoing health or they are suffering from an illness or injury, our loving staff is here to help. Please reach out to us today to learn more or to schedule your pet’s appointment.&lt;/p>&#xd;&#xa;"
                             textIsRich="true"/>
+                        <button_copy_copy
+                            cq:styleIds="[1657119424322]"
+                            jcr:created="{Date}2024-11-07T11:34:29.753Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-11-12T11:45:57.184Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            jcr:title="Request Service"
+                            sling:resourceType="destpet/components/content/button"
+                            id="Request Service"
+                            link="https://portal.yourgipet.com/index?centerid=278"
+                            linkTarget="_blank"/>
                     </container2>
                 </mediainfo2>
             </container>
         </root>
         <cq:featuredimage
-            jcr:lastModified="{Date}2024-07-18T05:45:35.583+05:30"
-            jcr:lastModifiedBy="admin"
+            jcr:lastModified="{Date}2024-12-03T10:00:52.553Z"
+            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
             jcr:primaryType="nt:unstructured"
             sling:resourceType="core/wcm/components/image/v3/image"
             altValueFromDAM="false"/>

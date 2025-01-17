@@ -56,9 +56,9 @@
                         jcr:lastModified="{Date}2023-05-09T20:12:17.725Z"
                         jcr:lastModifiedBy="Gabriela.Bernal@destpet.com"
                         jcr:primaryType="nt:unstructured"
-                        jcr:title="Sign Up"
+                        jcr:title="Book On Our App"
                         sling:resourceType="destpet/components/content/button"
-                        id="Sign up"
+                        id="Book On Our App"
                         link="https://dp-tennessee.gingrapp.com/front_end/index"
                         linkTarget="_blank"/>
                     <button1
@@ -68,9 +68,9 @@
                         jcr:lastModified="{Date}2022-11-03T13:38:16.635Z"
                         jcr:lastModifiedBy="Navatarika.S@destpet.com"
                         jcr:primaryType="nt:unstructured"
-                        jcr:title="Login"
+                        jcr:title="Book Online"
                         sling:resourceType="destpet/components/content/button"
-                        id="Login"
+                        id="Book Online"
                         link="https://dp-tennessee.gingrapp.com/front_end/login/email"
                         linkTarget="_blank"/>
                 </container2>

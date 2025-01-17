@@ -126,6 +126,7 @@
                         jcr:lastModifiedBy="rahul.pippiri@destpet.com"
                         jcr:primaryType="nt:unstructured"
                         sling:resourceType="destpet/components/content/ctacontainer"
+                        alignment=" cta-container--vertical-aligned"
                         heading="About"
                         icon="icon-dropdown"
                         id="Company-Footer">
@@ -163,10 +164,9 @@
                                 jcr:primaryType="nt:unstructured"
                                 sling:resourceType="destpet/components/content/link"
                                 id="Company-Footer-3"
-                                linkText="Careers"
-                                linkUrl="https://www.destinationpet.com/life-at-dp/"
-                                newTab="_blank"/>
-                            <link_18356
+                                linkText="Contact Us"
+                                linkUrl="/content/dp-site-template/us/en/about-us/contact-us/"/>
+                            <link_18356305
                                 jcr:created="{Date}2022-10-18T10:44:06.862Z"
                                 jcr:createdBy="sowmya.pinjala@destpet.com"
                                 jcr:lastModified="{Date}2024-07-01T02:52:48.791Z"
@@ -182,71 +182,13 @@
                 <listcontainer3
                     jcr:primaryType="nt:unstructured"
                     sling:resourceType="destpet/components/content/container">
-                    <ctacontainer
-                        jcr:created="{Date}2022-10-19T06:45:51.852Z"
-                        jcr:createdBy="sowmya.pinjala@destpet.com"
-                        jcr:lastModified="{Date}2023-03-03T13:25:29.911Z"
+                    <contactuscard
+                        jcr:created="{Date}2024-12-03T07:04:33.064Z"
+                        jcr:createdBy="deepika.kawatra@destpet.com"
+                        jcr:lastModified="{Date}2024-12-03T07:04:33.064Z"
                         jcr:lastModifiedBy="deepika.kawatra@destpet.com"
                         jcr:primaryType="nt:unstructured"
-                        sling:resourceType="destpet/components/content/ctacontainer"
-                        heading="Contact Info"
-                        icon="icon-dropdown">
-                        <par
-                            jcr:primaryType="nt:unstructured"
-                            sling:resourceType="wcm/foundation/components/parsys"/>
-                    </ctacontainer>
-                    <contentfragment_1082
-                        jcr:created="{Date}2022-10-19T06:46:54.694Z"
-                        jcr:createdBy="sowmya.pinjala@destpet.com"
-                        jcr:lastModified="{Date}2022-11-29T18:23:32.459Z"
-                        jcr:lastModifiedBy="Angela.Branca@destpet.com"
-                        jcr:primaryType="nt:unstructured"
-                        sling:resourceType="destpet/components/content/contentfragment"
-                        displayMode="multi"
-                        elementNames="[title,phoneNumber,emailId]"
-                        fragmentPath="/content/dam/destpet/brown-dog-lodge/us/en/content-fragments/locations-contact-info/east-memphis-lodge"
-                        paragraphScope="all"
-                        text="Title East Memphis Lodge Phone Number (901) 437-8547 Email ID info@browndoglodge.com"
-                        variationName="master"/>
-                    <contentfragment_1082151985
-                        jcr:created="{Date}2022-10-19T06:46:54.694Z"
-                        jcr:createdBy="sowmya.pinjala@destpet.com"
-                        jcr:lastModified="{Date}2022-11-29T18:23:23.527Z"
-                        jcr:lastModifiedBy="Angela.Branca@destpet.com"
-                        jcr:primaryType="nt:unstructured"
-                        sling:resourceType="destpet/components/content/contentfragment"
-                        displayMode="multi"
-                        elementNames="[title,phoneNumber,emailId]"
-                        fragmentPath="/content/dam/destpet/brown-dog-lodge/us/en/content-fragments/locations-contact-info/german-town"
-                        paragraphScope="all"
-                        text="Title Germantown Lodge Phone Number (901) 441-9431 Email ID germantown@browndoglodge.com"
-                        variationName="master"/>
-                    <contentfragment
-                        jcr:created="{Date}2022-11-20T16:40:56.915Z"
-                        jcr:createdBy="Angela.Branca@destpet.com"
-                        jcr:lastModified="{Date}2022-11-29T18:23:16.147Z"
-                        jcr:lastModifiedBy="Angela.Branca@destpet.com"
-                        jcr:primaryType="nt:unstructured"
-                        sling:resourceType="destpet/components/content/contentfragment"
-                        displayMode="multi"
-                        elementNames="timings"
-                        fragmentPath="/content/dam/destpet/brown-dog-lodge/us/en/content-fragments/locations-contact-info/german-town"
-                        paragraphScope="all"
-                        text="Timings Monday – Friday: 7am – 6pm Saturday: 9am – 1pm Sunday: 4pm-5pm"
-                        variationName="master"/>
-                    <contentfragment_1082_1529184530
-                        jcr:created="{Date}2022-10-19T06:46:54.694Z"
-                        jcr:createdBy="sowmya.pinjala@destpet.com"
-                        jcr:lastModified="{Date}2022-11-29T18:23:46.658Z"
-                        jcr:lastModifiedBy="Angela.Branca@destpet.com"
-                        jcr:primaryType="nt:unstructured"
-                        sling:resourceType="destpet/components/content/contentfragment"
-                        displayMode="multi"
-                        elementNames="[title,phoneNumber,emailId,timings]"
-                        fragmentPath="/content/dam/destpet/brown-dog-lodge/us/en/content-fragments/locations-contact-info/bdl-vet"
-                        paragraphScope="all"
-                        text="Title BrownDog Lodge Vet Clinic Phone Number (901) 460-2600 Email ID info@browndogvet.com Timings Monday – Friday: 7am – 6pm Saturday: 7am – 12pm"
-                        variationName="master"/>
+                        sling:resourceType="destpet/components/content/contactuscard"/>
                 </listcontainer3>
                 <container3
                     jcr:primaryType="nt:unstructured"
@@ -296,6 +238,14 @@
                                 newTab="_blank"/>
                         </par>
                     </ctacontainer>
+                        <experiencefragment
+                        jcr:created="{Date}2025-01-10T08:45:14.161Z"
+                        jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                        jcr:lastModified="{Date}2025-01-10T08:46:23.438Z"
+                        jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="destpet/components/content/experiencefragment"
+                        fragmentVariationPath="/content/experience-fragments/brands/destination_pet/us/en/care-credit/care-credit/master"/>
                 </container3>
                 <container2
                     jcr:primaryType="nt:unstructured"
@@ -317,7 +267,7 @@
                                 jcr:lastModifiedBy="rahul.pippiri@destpet.com"
                                 jcr:primaryType="nt:unstructured"
                                 sling:resourceType="destpet/components/content/richtext"
-                                text="&lt;p>Trademark Destination Pet 2022&lt;/p>&#xd;&#xa;"
+                                text="©2025 Destination Pet"
                                 textIsRich="true"/>
                         </par>
                     </ctacontainer>

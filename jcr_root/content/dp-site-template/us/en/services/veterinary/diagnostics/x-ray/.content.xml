@@ -1,24 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
     jcr:primaryType="cq:Page">
     <jcr:content
         cq:isDelivered="{Boolean}false"
-        cq:lastModified="{Date}2024-07-18T06:20:53.677+05:30"
-        cq:lastModifiedBy="admin"
-        cq:lastReplicated_scene7="{Date}2024-05-21T21:17:40.826Z"
+        cq:lastModified="{Date}2024-12-03T09:57:20.732Z"
+        cq:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+        cq:lastReplicated="{Date}2024-12-03T10:22:25.899Z"
+        cq:lastReplicated_publish="{Date}2024-12-03T10:22:25.899Z"
+        cq:lastReplicated_scene7="{Date}2024-12-03T09:32:26.172Z"
+        cq:lastReplicatedBy="Shyamlal.Saroj@destpet.com"
+        cq:lastReplicatedBy_publish="Shyamlal.Saroj@destpet.com"
         cq:lastReplicatedBy_scene7="Shyamlal.Saroj@destpet.com"
+        cq:lastReplicationAction="Activate"
+        cq:lastReplicationAction_publish="Activate"
         cq:lastReplicationAction_scene7="Activate"
-        cq:tags="[destpet:services/veterinary/x-ray]"
         cq:template="/conf/destpet/settings/wcm/templates/services"
-        jcr:lastModified="{Date}2024-07-18T05:45:35.583+05:30"
-        jcr:lastModifiedBy="admin"
+        jcr:description="X Ray"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:lastModified="{Date}2024-12-03T09:57:20.666Z"
+        jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+        jcr:mixinTypes="[cq:ReplicationStatus2,mix:versionable]"
         jcr:primaryType="cq:PageContent"
         jcr:title="X Ray"
+        jcr:uuid="9eb3ab2e-fe33-4ffa-b8cd-cc9c41137313"
         sling:resourceType="destpet/components/structure/page"
-        clientlibsTheme="theme-brown-dog-lodge"
+        clientlibsTheme="theme-pooch-palace"
         disablePopup="true"
         favIconClientLibPath="/etc.clientlibs/destpet/clientlibs/clientlib-favicon/browndoglodge/resources"
         hidePopupMobile="true"
+        isPricing="false"
+        isProfile="false"
         megamenuView="false"
         ogTags="false"
         pageTitle="X Ray"
@@ -53,13 +64,181 @@
                             sling:resourceType="destpet/components/content/title"
                             linkTarget="_self"
                             type="h1"/>
+                        <richtext_copy_copy
+                            cq:styleIds="[1658223888669,1663189883671,16539089333554]"
+                            jcr:created="{Date}2024-11-05T09:55:41.717Z"
+                            jcr:createdBy="priya.p@destpet.com"
+                            jcr:lastModified="{Date}2024-11-05T10:18:01.693Z"
+                            jcr:lastModifiedBy="priya.p@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="destpet/components/content/richtext"
+                            text="&lt;p style=&quot;text-align: center;&quot;>Xrays are non-invasive, pain-free, and entirely safe for your furry friend.&lt;/p>&#xd;&#xa;"
+                            textIsRich="true"/>
                     </_x0031_>
                 </columncontainer>
+                <columncontainer_copy
+                    cq:styleIds="[1654238085069]"
+                    jcr:lastModified="{Date}2023-02-14T13:41:53.241Z"
+                    jcr:lastModifiedBy="rahul.pippiri@destpet.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="destpet/components/content/columncontainer">
+                    <_x0031_
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="wcm/foundation/components/parsys">
+                        <title
+                            cq:styleIds="[1660048309992]"
+                            jcr:lastModified="{Date}2024-11-05T10:20:30.199Z"
+                            jcr:lastModifiedBy="priya.p@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            jcr:title="Advanced Diagnostic Imaging Using X-ray Technology"
+                            sling:resourceType="destpet/components/content/title"
+                            linkTarget="_self"
+                            type="h2"/>
+                        <richtext
+                            jcr:created="{Date}2024-11-05T09:55:41.717Z"
+                            jcr:createdBy="priya.p@destpet.com"
+                            jcr:lastModified="{Date}2024-11-07T07:05:47.652Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="destpet/components/content/richtext"
+                            text="&lt;p style=&quot;text-align: center;&quot;>Our veterinarians can tell a lot about your pet’s overall health by performing a physical exam. In many instances, though, they need to look a bit deeper. They commonly rely on our ultrasound equipment to obtain clear pictures of the patient’s internal structures in these cases. X-ray machines use soundwaves rather than the radiation used by x-ray equipment, and they are capable of producing detailed images in seconds. X-ray are non-invasive, pain-free, and entirely safe for your furry friend. If your dog or cat needs an&amp;nbsp;X-ray in [City Name], we can help!&lt;/p>&#xd;&#xa;"
+                            textIsRich="true"/>
+                    </_x0031_>
+                </columncontainer_copy>
+                <image_copy_copy
+                    jcr:created="{Date}2024-11-05T09:58:02.489Z"
+                    jcr:createdBy="priya.p@destpet.com"
+                    jcr:lastModified="{Date}2024-11-05T09:59:39.093Z"
+                    jcr:lastModifiedBy="priya.p@destpet.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="destpet/components/content/image"
+                    actionLinkURL="_self"
+                    alt="[bestlife banner,bestlife banner]"
+                    displayPopupTitle="true"
+                    fileReference="/content/dam/brands/dogaholics/us/en/general/yourgi-bestlife-vet-web-banners-image.png"
+                    imageFromPageImage="false"
+                    linkURL="/content/poochpalace/us/en/bestlife/overview"
+                    titleValueFromDAM="true"/>
+                <mediainfo1_copy_copy
+                    cq:styleIds="[1660737948429]"
+                    jcr:lastModified="{Date}2024-01-12T21:05:53.528Z"
+                    jcr:lastModifiedBy="rahul.pippiri@destpet.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="destpet/components/content/mediainfo">
+                    <container1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="destpet/components/content/container">
+                        <title_2123219503
+                            jcr:lastModified="{Date}2024-11-05T10:11:23.473Z"
+                            jcr:lastModifiedBy="priya.p@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            jcr:title="How It Works"
+                            sling:resourceType="destpet/components/content/title"
+                            linkTarget="_self"
+                            type="h2"/>
+                        <richtext
+                            cq:styleIds="[16539089333554,1656900333555]"
+                            jcr:lastModified="{Date}2024-11-05T10:02:40.386Z"
+                            jcr:lastModifiedBy="priya.p@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="destpet/components/content/richtext"
+                            text="&lt;p>We provide both core and lifestyle vaccines for pets. Core vaccines are the ones that are recommended for all dogs and cats because they provide protection from the diseases pets are most likely to encounter. A few of the most common core vaccines include Rabies, Parvovirus, and Distemper.&lt;br>&#xd;&#xa;&lt;br>&#xd;&#xa;Lifestyle vaccines — also known as non-core vaccines — aren’t necessary for all pets. Instead, they are recommended based on lifestyle factors. For example, a cat who never goes outside doesn’t have the same vaccination requirements as an outdoor cat. And a dog’s vaccination needs vary based on whether they visit boarding facilities, doggy daycare, dog parks, etc. We’ll discuss your pet’s lifestyle with you to determine which vaccines are most suitable. Our goal is to provide the protection your furry friend needs without over-vaccinating them.&lt;/p>&#xd;&#xa;"
+                            textIsRich="true"/>
+                    </container1>
+                    <container2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="destpet/components/content/container">
+                        <image
+                            jcr:lastModified="{Date}2024-11-07T09:25:02.225Z"
+                            jcr:lastModifiedBy="priya.p@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="destpet/components/content/image"
+                            actionLinkURL="_self"
+                            alt="[Woman holding dog,Woman holding dog]"
+                            altValueFromDAM="true"
+                            displayPopupTitle="false"
+                            fileReference="/content/dam/brands/destination-pet-wood-stock/us/en/general/midlands-veterinary-practice-laser-surgery-room.jpg"
+                            imageFromPageImage="false"
+                            imageModifiers="fmt=png-alpha"
+                            linkTarget="_self"
+                            titleValueFromDAM="false"/>
+                    </container2>
+                </mediainfo1_copy_copy>
+                <image_copy_copy_copy
+                    jcr:created="{Date}2024-11-05T09:58:02.489Z"
+                    jcr:createdBy="priya.p@destpet.com"
+                    jcr:lastModified="{Date}2024-11-05T10:13:11.685Z"
+                    jcr:lastModifiedBy="priya.p@destpet.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="destpet/components/content/image"
+                    actionLinkURL="_blank"
+                    alt="[veterinary banner,veterinary banner]"
+                    displayPopupTitle="true"
+                    fileReference="/content/dam/brands/destination-pet-wood-stock/us/en/general/yourgi-service-banner-book-veterinary-5000px-1.jpg"
+                    imageFromPageImage="false"
+                    linkURL="https://qrco.de/bcwYBB"
+                    titleValueFromDAM="true"/>
+                <mediainfo1_copy_copy_1459977643
+                    cq:styleIds="[1660737948429,1660737911807]"
+                    jcr:lastModified="{Date}2024-01-12T21:05:53.528Z"
+                    jcr:lastModifiedBy="rahul.pippiri@destpet.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="destpet/components/content/mediainfo">
+                    <container1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="destpet/components/content/container">
+                        <title_2123219503
+                            jcr:lastModified="{Date}2024-11-07T07:05:22.434Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            jcr:title="Pet Ultrasound in [City Name]"
+                            sling:resourceType="destpet/components/content/title"
+                            linkTarget="_self"
+                            type="h2"/>
+                        <richtext
+                            cq:styleIds="[16539089333554,1656900333555]"
+                            jcr:lastModified="{Date}2024-11-07T07:05:13.398Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="destpet/components/content/richtext"
+                            text="&lt;p>For pet vaccinations in [City Name], trust [Center Name]. We serve all of&amp;nbsp;[City Name] County and would be honored to be entrusted with your precious pet’s care. Keeping your pet up to date on vaccines takes only a few minutes each year, and doing so could help them enjoy more years as your faithful companion. Please&amp;nbsp;&lt;a href=&quot;/content/poochpalace/us/en/about-us/contact-us.html&quot;>contact us today&lt;/a>&amp;nbsp;to learn more or schedule your dog or cat’s appointment.&lt;/p>&#xd;&#xa;"
+                            textIsRich="true"/>
+                        <button
+                            cq:styleIds="[1657119424322]"
+                            jcr:created="{Date}2024-11-05T10:06:05.024Z"
+                            jcr:createdBy="priya.p@destpet.com"
+                            jcr:lastModified="{Date}2024-11-05T10:06:31.988Z"
+                            jcr:lastModifiedBy="priya.p@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            jcr:title="Request service"
+                            sling:resourceType="destpet/components/content/button"
+                            link="https://portal.yourgipet.com/?centerid=163"
+                            linkTarget="_blank"/>
+                    </container1>
+                    <container2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="destpet/components/content/container">
+                        <image
+                            jcr:lastModified="{Date}2024-11-07T09:24:11.164Z"
+                            jcr:lastModifiedBy="priya.p@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="destpet/components/content/image"
+                            actionLinkURL="_self"
+                            alt="[Woman holding dog,Woman holding dog]"
+                            altValueFromDAM="true"
+                            displayPopupTitle="false"
+                            fileReference="/content/dam/destpet/destination-pet-wood-stock/us/en/nurse-performing-digital-x-rays-on-saint-bernard-dog-at-raintree-pet-medical-center.jpg"
+                            imageFromPageImage="false"
+                            imageModifiers="fmt=png-alpha"
+                            linkTarget="_self"
+                            titleValueFromDAM="false"/>
+                    </container2>
+                </mediainfo1_copy_copy_1459977643>
             </container>
         </root>
         <cq:featuredimage
-            jcr:lastModified="{Date}2024-07-18T05:45:35.583+05:30"
-            jcr:lastModifiedBy="admin"
+            jcr:lastModified="{Date}2024-12-03T09:57:20.666Z"
+            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
             jcr:primaryType="nt:unstructured"
             sling:resourceType="core/wcm/components/image/v3/image"
             altValueFromDAM="false"/>

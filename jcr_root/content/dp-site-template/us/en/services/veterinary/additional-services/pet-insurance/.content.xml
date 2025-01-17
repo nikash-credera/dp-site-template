@@ -1,20 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
     jcr:primaryType="cq:Page">
     <jcr:content
         cq:isDelivered="{Boolean}false"
-        cq:lastModified="{Date}2024-07-18T06:20:53.677+05:30"
-        cq:lastModifiedBy="admin"
-        cq:lastReplicated_scene7="{Date}2024-05-21T21:17:40.826Z"
+        cq:lastModified="{Date}2024-12-03T09:37:31.037Z"
+        cq:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+        cq:lastReplicated="{Date}2024-12-03T10:22:31.815Z"
+        cq:lastReplicated_publish="{Date}2024-12-03T10:22:31.815Z"
+        cq:lastReplicated_scene7="{Date}2024-12-03T09:37:43.128Z"
+        cq:lastReplicatedBy="Shyamlal.Saroj@destpet.com"
+        cq:lastReplicatedBy_publish="Shyamlal.Saroj@destpet.com"
         cq:lastReplicatedBy_scene7="Shyamlal.Saroj@destpet.com"
+        cq:lastReplicationAction="Activate"
+        cq:lastReplicationAction_publish="Activate"
         cq:lastReplicationAction_scene7="Activate"
         cq:tags="[destpet:services/veterinary/additional-services/pet-insurance]"
         cq:template="/conf/destpet/settings/wcm/templates/services"
         jcr:description="At Centre your family is our family. We passionately honor and celebrate individuality in every way, every day! Book today!"
+        jcr:isCheckedOut="{Boolean}true"
         jcr:lastModified="{Date}2024-07-18T05:45:35.583+05:30"
         jcr:lastModifiedBy="admin"
+        jcr:mixinTypes="[cq:ReplicationStatus2,mix:versionable]"
         jcr:primaryType="cq:PageContent"
         jcr:title="Pet Insurance"
+        jcr:uuid="a0e5ff5f-814c-4334-b345-1344356cae15"
         sling:resourceType="destpet/components/structure/page"
         clientlibsTheme="theme-brown-dog-lodge"
         disablePopup="true"
@@ -57,7 +66,7 @@
                     </_x0031_>
                 </columncontainer>
                 <columncontainer1
-                    cq:styleIds="[1654238028922,1654238085069]"
+                    cq:styleIds="[1654238085069]"
                     jcr:lastModified="{Date}2024-01-30T15:01:34.513Z"
                     jcr:lastModifiedBy="Srilakshmi.k@destpet.com"
                     jcr:primaryType="nt:unstructured"

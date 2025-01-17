@@ -1,24 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
     jcr:primaryType="cq:Page">
     <jcr:content
         cq:isDelivered="{Boolean}false"
-        cq:lastModified="{Date}2024-07-18T06:20:53.677+05:30"
-        cq:lastModifiedBy="admin"
-        cq:lastReplicated_scene7="{Date}2024-05-21T21:17:40.826Z"
+        cq:lastModified="{Date}2024-12-03T09:35:11.947Z"
+        cq:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+        cq:lastReplicated="{Date}2024-12-03T10:22:31.815Z"
+        cq:lastReplicated_publish="{Date}2024-12-03T10:22:31.815Z"
+        cq:lastReplicated_scene7="{Date}2024-12-03T09:35:18.066Z"
+        cq:lastReplicatedBy="Shyamlal.Saroj@destpet.com"
+        cq:lastReplicatedBy_publish="Shyamlal.Saroj@destpet.com"
         cq:lastReplicatedBy_scene7="Shyamlal.Saroj@destpet.com"
+        cq:lastReplicationAction="Activate"
+        cq:lastReplicationAction_publish="Activate"
         cq:lastReplicationAction_scene7="Activate"
         cq:tags="[destpet:services/veterinary/additional-services/laser-therapy]"
         cq:template="/conf/destpet/settings/wcm/templates/services"
-        jcr:lastModified="{Date}2024-07-18T05:45:35.583+05:30"
-        jcr:lastModifiedBy="admin"
+        jcr:description="At [Center Name], Laser therapy does not involve any invasive procedures and promotes quicker healing while minimizing scarring. Call today!"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:lastModified="{Date}2024-11-07T10:47:21.494Z"
+        jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+        jcr:mixinTypes="[cq:ReplicationStatus2,mix:versionable]"
         jcr:primaryType="cq:PageContent"
         jcr:title="Laser Therapy"
+        jcr:uuid="754de285-6d59-44e8-8141-44c44814f5e3"
         sling:resourceType="destpet/components/structure/page"
-        clientlibsTheme="theme-brown-dog-lodge"
+        clientlibsTheme="theme-pooch-palace"
         disablePopup="true"
         favIconClientLibPath="/etc.clientlibs/destpet/clientlibs/clientlib-favicon/browndoglodge/resources"
         hidePopupMobile="true"
+        isPricing="false"
+        isProfile="false"
         megamenuView="false"
         ogTags="false"
         pageTitle="Laser Therapy"
@@ -53,13 +65,424 @@
                             sling:resourceType="destpet/components/content/title"
                             linkTarget="_self"
                             type="h1"/>
+                        <richtext
+                            cq:styleIds="[16539089333554,1658223888669,1663189883671]"
+                            jcr:created="{Date}2024-11-07T10:47:44.881Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-11-07T10:48:04.808Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="destpet/components/content/richtext"
+                            text="&lt;p style=&quot;text-align: center;&quot;>This procedure is a non-invasive treatment and helps in faster healing and reduces scarring.&lt;/p>&#xd;&#xa;"
+                            textIsRich="true"/>
                     </_x0031_>
                 </columncontainer>
+                <columncontainer_733026477
+                    cq:styleIds="[1654238085069]"
+                    jcr:created="{Date}2024-11-07T10:48:32.944Z"
+                    jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                    jcr:lastModified="{Date}2024-11-07T10:48:32.944Z"
+                    jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="destpet/components/content/columncontainer">
+                    <_x0031_
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="wcm/foundation/components/parsys">
+                        <title_copy
+                            cq:styleIds="[1660048309992,1663573042528]"
+                            jcr:lastModified="{Date}2024-11-07T10:49:42.352Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            jcr:title="A Highly Effective and Safe Tool"
+                            sling:resourceType="destpet/components/content/title"
+                            linkTarget="_self"
+                            type="h2"/>
+                        <richtext_copy
+                            cq:styleIds="[16539089333554,1663159032900]"
+                            jcr:created="{Date}2024-11-07T10:47:44.881Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-11-07T10:50:40.266Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="destpet/components/content/richtext"
+                            text="&lt;p style=&quot;text-align: center;&quot;>Laser therapy is a powerful, safe and effective tool that we can use to help our patients enjoy happier, more comfortable lives. This innovative treatment option has been proven to be highly effective in reducing pain and inflammation, improving mobility and speeding the healing and recovery process following surgery or injury.&amp;nbsp;[Center Name] + Medical Center is proud to offer laser therapy as part of our commitment to providing our clients with the best available options for their animal family members.&lt;/p>&#xd;&#xa;"
+                            textIsRich="true"/>
+                    </_x0031_>
+                </columncontainer_733026477>
+                <image_copy_copy
+                    jcr:created="{Date}2024-11-05T09:58:02.489Z"
+                    jcr:createdBy="priya.p@destpet.com"
+                    jcr:lastModified="{Date}2024-11-05T09:59:39.093Z"
+                    jcr:lastModifiedBy="priya.p@destpet.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="destpet/components/content/image"
+                    actionLinkURL="_self"
+                    alt="[bestlife banner,bestlife banner]"
+                    displayPopupTitle="true"
+                    fileReference="/content/dam/brands/dogaholics/us/en/general/yourgi-bestlife-vet-web-banners-image.png"
+                    imageFromPageImage="false"
+                    linkURL="/content/poochpalace/us/en/bestlife/overview"
+                    titleValueFromDAM="true"/>
+                <mediainfo
+                    cq:styleIds="[1660737948429,1654083381783]"
+                    jcr:created="{Date}2024-11-07T11:13:16.400Z"
+                    jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                    jcr:lastModified="{Date}2024-11-07T11:13:16.400Z"
+                    jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="destpet/components/content/mediainfo">
+                    <container1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="destpet/components/content/container">
+                        <image
+                            jcr:created="{Date}2024-11-07T11:13:34.843Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-11-07T11:41:57.446Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="destpet/components/content/image"
+                            actionLinkURL="_self"
+                            alt="[cat receiving laser therapy,cat receiving laser therapy]"
+                            displayPopupTitle="true"
+                            dmPresetType="imagePreset"
+                            fileReference="/content/dam/destpet/destination-pet-wood-stock/us/en/cat-receiving-laser-therapy-in-his-mouth-at-raintree-pet-medical-center.jpg"
+                            imageFromPageImage="false"
+                            titleValueFromDAM="false"/>
+                    </container1>
+                    <container2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="destpet/components/content/container">
+                        <title
+                            jcr:created="{Date}2024-11-07T11:13:52.175Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-11-07T11:14:13.072Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            jcr:title="What is veterinary laser therapy?"
+                            sling:resourceType="destpet/components/content/title"
+                            linkTarget="_self"
+                            type="h2"/>
+                        <richtext_copy_copy
+                            cq:styleIds="[1653980320261,1663159032900]"
+                            jcr:created="{Date}2024-11-07T10:47:44.881Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-11-07T11:14:35.886Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="destpet/components/content/richtext"
+                            text="&lt;p>The therapeutic laser uses an intense beam of light to penetrate areas of the body that have experienced injury, trauma or chronic pain. When the laser comes into contact with the target area, the body responds by increasing blood flow and releasing natural healing and pain control hormones. Laser therapy is a noninvasive way to improve the healing process by accelerating tissue repair, improving circulation, and reducing inflammation. This promotes faster healing and reduces scarring.&lt;/p>&#xd;&#xa;&lt;p>Laser therapy is a particularly attractive option for animals that may be sensitive to medication, because it is completely drug-free and non-invasive.&lt;/p>&#xd;&#xa;"
+                            textIsRich="true"/>
+                    </container2>
+                </mediainfo>
+                <columncontainer_2120657649
+                    cq:styleIds="[1654238085069]"
+                    jcr:created="{Date}2024-11-07T11:20:02.812Z"
+                    jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                    jcr:lastModified="{Date}2024-11-07T11:20:02.812Z"
+                    jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="destpet/components/content/columncontainer">
+                    <_x0031_
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="wcm/foundation/components/parsys">
+                        <title
+                            cq:styleIds="[1660048309992]"
+                            jcr:created="{Date}2024-11-07T11:20:09.221Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-11-07T11:20:30.268Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            jcr:title="What can laser therapy be used to treat?"
+                            sling:resourceType="destpet/components/content/title"
+                            linkTarget="_self"
+                            type="h2"/>
+                        <richtext
+                            cq:styleIds="[16539089333554]"
+                            jcr:created="{Date}2024-11-07T11:20:14.385Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-11-07T11:20:58.008Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="destpet/components/content/richtext"
+                            text="&lt;p style=&quot;text-align: center;&quot;>This breakthrough technology utilizes non-invasive therapy to which many conditions readily respond, making it an ideal complementary treatment. Successful results have been achieved in a variety of conditions and can be used to help manage any of the following:&lt;/p>&#xd;&#xa;"
+                            textIsRich="true"/>
+                        <columncontainer_1724
+                            jcr:created="{Date}2024-11-07T11:19:45.671Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-11-07T11:19:52.291Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="destpet/components/content/columncontainer"
+                            columnCount="3">
+                            <_x0031_
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="wcm/foundation/components/parsys">
+                                <richtext
+                                    jcr:created="{Date}2024-11-07T11:21:42.522Z"
+                                    jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                                    jcr:lastModified="{Date}2024-11-07T11:21:51.753Z"
+                                    jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                                    jcr:primaryType="nt:unstructured"
+                                    sling:resourceType="destpet/components/content/richtext"
+                                    text="&lt;ul>&#xd;&#xa;&lt;li>Arthritis&lt;/li>&#xd;&#xa;&lt;li>Hip Dysplasia&lt;/li>&#xd;&#xa;&lt;li>Wound Healing&lt;/li>&#xd;&#xa;&lt;li>Dental Procedures&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;"
+                                    textIsRich="true"/>
+                            </_x0031_>
+                            <_x0032_
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="wcm/foundation/components/parsys">
+                                <richtext_copy
+                                    jcr:created="{Date}2024-11-07T11:21:42.522Z"
+                                    jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                                    jcr:lastModified="{Date}2024-11-07T11:22:08.441Z"
+                                    jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                                    jcr:primaryType="nt:unstructured"
+                                    sling:resourceType="destpet/components/content/richtext"
+                                    text="&lt;ul>&#xd;&#xa;&lt;li>Sprains, Strains and Fractures&lt;/li>&#xd;&#xa;&lt;li>Bruising and Swelling&lt;/li>&#xd;&#xa;&lt;li>Post-Surgical Healing and Pain Management&lt;/li>&#xd;&#xa;&lt;li>Ear and Skin Infections&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;"
+                                    textIsRich="true"/>
+                            </_x0032_>
+                            <_x0033_
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="wcm/foundation/components/parsys">
+                                <richtext_copy_copy
+                                    jcr:created="{Date}2024-11-07T11:21:42.522Z"
+                                    jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                                    jcr:lastModified="{Date}2024-11-07T11:22:27.254Z"
+                                    jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                                    jcr:primaryType="nt:unstructured"
+                                    sling:resourceType="destpet/components/content/richtext"
+                                    text="&lt;ul>&#xd;&#xa;&lt;li>Inflammation Caused by Allergies&lt;/li>&#xd;&#xa;&lt;li>Hot Spots and Lick Granulomas&lt;/li>&#xd;&#xa;&lt;li>Much More…&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;"
+                                    textIsRich="true"/>
+                            </_x0033_>
+                        </columncontainer_1724>
+                    </_x0031_>
+                </columncontainer_2120657649>
+                <mediainfo_copy
+                    cq:styleIds="[1660737948429,1654083381783,1660737911807]"
+                    jcr:created="{Date}2024-11-07T11:13:16.400Z"
+                    jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                    jcr:lastModified="{Date}2024-11-07T11:13:16.400Z"
+                    jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="destpet/components/content/mediainfo">
+                    <container1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="destpet/components/content/container">
+                        <image
+                            jcr:created="{Date}2024-11-07T11:13:34.843Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-11-07T11:41:23.620Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="destpet/components/content/image"
+                            actionLinkURL="_self"
+                            alt="[doctor supervising dog,doctor supervising dog]"
+                            displayPopupTitle="true"
+                            dmPresetType="imagePreset"
+                            fileReference="/content/dam/destpet/destination-pet-wood-stock/us/en/doctor-benjamin-savard-supervising-dog-laser-therapy-at-raintree-pet-medical-center.jpg"
+                            imageFromPageImage="false"
+                            titleValueFromDAM="false"/>
+                    </container1>
+                    <container2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="destpet/components/content/container">
+                        <title
+                            jcr:created="{Date}2024-11-07T11:13:52.175Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-11-07T11:29:58.491Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            jcr:title="What can I expect if I bring my pet in for laser therapy?"
+                            sling:resourceType="destpet/components/content/title"
+                            linkTarget="_self"
+                            type="h2"/>
+                        <richtext_copy_copy
+                            cq:styleIds="[1653980320261,1663159032900]"
+                            jcr:created="{Date}2024-11-07T10:47:44.881Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-11-07T11:30:12.736Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="destpet/components/content/richtext"
+                            text="&lt;p>Our laser treatments are delivered in a quiet, comfortable environment where your pet will feel safe and at ease. Laser therapy does not cause any pain, so you needn’t worry about whether your loved one will be uncomfortable during a treatment session. In fact, the process can be quite relaxing – so much so that some animals have been known to take a peaceful nap during a session.&lt;/p>&#xd;&#xa;&lt;p>Treatment programs are tailored to each individual pet’s medical condition. The number and frequency of treatments will be based on your pet’s needs and response. Our professionally trained staff will customize a treatment plan specifically for your companion. Most treatments take only minutes to complete, yet results can often be seen almost immediately.&lt;/p>&#xd;&#xa;"
+                            textIsRich="true"/>
+                    </container2>
+                </mediainfo_copy>
+                <columncontainer_2120
+                    cq:styleIds="[1654238085069]"
+                    jcr:created="{Date}2024-11-07T11:20:02.812Z"
+                    jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                    jcr:lastModified="{Date}2024-11-07T11:20:02.812Z"
+                    jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="destpet/components/content/columncontainer">
+                    <_x0031_
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="wcm/foundation/components/parsys">
+                        <title
+                            cq:styleIds="[1660048309992]"
+                            jcr:created="{Date}2024-11-07T11:20:09.221Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-11-07T11:30:21.752Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            jcr:title="What are some of the signs that my pet can benefit from laser therapy?"
+                            sling:resourceType="destpet/components/content/title"
+                            linkTarget="_self"
+                            type="h2"/>
+                        <richtext
+                            cq:styleIds="[16539089333554]"
+                            jcr:created="{Date}2024-11-07T11:20:14.385Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-11-07T11:30:31.305Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="destpet/components/content/richtext"
+                            text="&lt;p style=&quot;text-align: center;&quot;>Many of our laser therapy patients are older animals with musculoskeletal ailments. Some signs that your senior companion is experiencing pain or discomfort include:&lt;/p>&#xd;&#xa;&lt;ul>&#xd;&#xa;&lt;/ul>&#xd;&#xa;&lt;ul>&#xd;&#xa;&lt;/ul>&#xd;&#xa;&lt;ul>&#xd;&#xa;&lt;/ul>&#xd;&#xa;"
+                            textIsRich="true"/>
+                        <columncontainer_1724
+                            jcr:created="{Date}2024-11-07T11:19:45.671Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-11-07T11:19:52.291Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="destpet/components/content/columncontainer"
+                            columnCount="3">
+                            <_x0031_
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="wcm/foundation/components/parsys">
+                                <richtext
+                                    jcr:created="{Date}2024-11-07T11:21:42.522Z"
+                                    jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                                    jcr:lastModified="{Date}2024-11-07T11:30:41.409Z"
+                                    jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                                    jcr:primaryType="nt:unstructured"
+                                    sling:resourceType="destpet/components/content/richtext"
+                                    text="&lt;ul>&#xd;&#xa;&lt;li>Abnormal sitting or lying posture&lt;/li>&#xd;&#xa;&lt;li>Circling multiple times before lying down&lt;/li>&#xd;&#xa;&lt;li>Restlessness&lt;/li>&#xd;&#xa;&lt;li>Whining, groaning or other vocalizations&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;"
+                                    textIsRich="true"/>
+                            </_x0031_>
+                            <_x0032_
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="wcm/foundation/components/parsys">
+                                <richtext_copy
+                                    jcr:created="{Date}2024-11-07T11:21:42.522Z"
+                                    jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                                    jcr:lastModified="{Date}2024-11-07T11:30:48.392Z"
+                                    jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                                    jcr:primaryType="nt:unstructured"
+                                    sling:resourceType="destpet/components/content/richtext"
+                                    text="&lt;ul>&#xd;&#xa;&lt;li>Limping, unable to get up or lie down&lt;/li>&#xd;&#xa;&lt;li>Difficulty getting into car or down stairs&lt;/li>&#xd;&#xa;&lt;li>Lack of grooming&lt;/li>&#xd;&#xa;&lt;li>Won’t wag tail&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;"
+                                    textIsRich="true"/>
+                            </_x0032_>
+                            <_x0033_
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="wcm/foundation/components/parsys">
+                                <richtext_copy_copy
+                                    jcr:created="{Date}2024-11-07T11:21:42.522Z"
+                                    jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                                    jcr:lastModified="{Date}2024-11-07T11:30:54.466Z"
+                                    jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                                    jcr:primaryType="nt:unstructured"
+                                    sling:resourceType="destpet/components/content/richtext"
+                                    text="&lt;ul>&#xd;&#xa;&lt;li>Licking or biting area&lt;/li>&#xd;&#xa;&lt;li>Lack of appetite&lt;/li>&#xd;&#xa;&lt;li>Trembling&lt;/li>&#xd;&#xa;&lt;/ul>&#xd;&#xa;"
+                                    textIsRich="true"/>
+                            </_x0033_>
+                        </columncontainer_1724>
+                        <richtext_copy
+                            cq:styleIds="[16539089333554]"
+                            jcr:created="{Date}2024-11-07T11:20:14.385Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-11-07T11:31:17.604Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="destpet/components/content/richtext"
+                            text="&lt;p style=&quot;text-align: center;&quot;>Our highly trained staff is certified by the American Institute of Medical Laser Applications (AIMLA) and is ready to help you take full advantage of this new, state of the art therapy option! If your pet is a senior, exhibits any of the above signs or symptoms, or suffers from any of the conditions listed above, we invite you to start a conversation with us today to learn whether laser therapy could help.&lt;/p>&#xd;&#xa;"
+                            textIsRich="true"/>
+                    </_x0031_>
+                </columncontainer_2120>
+                <image_copy
+                    jcr:created="{Date}2024-11-07T10:58:50.076Z"
+                    jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                    jcr:lastModified="{Date}2024-11-07T11:32:41.083Z"
+                    jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="destpet/components/content/image"
+                    actionLinkURL="_blank"
+                    alt="[Veterinary yourgi banner,Veterinary yourgi banner]"
+                    displayPopupTitle="true"
+                    dmPresetType="imagePreset"
+                    fileReference="/content/dam/brands/destination-pet-wood-stock/us/en/general/yourgi-service-banner-book-veterinary-5000px-1.jpg"
+                    id="Veterinary yourgi banner"
+                    imageFromPageImage="false"
+                    linkURL="https://qrco.de/bcwYBB"
+                    titleValueFromDAM="false"/>
+                <mediainfo_copy_copy
+                    cq:styleIds="[1660737948429,1654083381783]"
+                    jcr:created="{Date}2024-11-07T11:13:16.400Z"
+                    jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                    jcr:lastModified="{Date}2024-11-07T11:13:16.400Z"
+                    jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="destpet/components/content/mediainfo">
+                    <container1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="destpet/components/content/container">
+                        <image
+                            jcr:created="{Date}2024-11-07T11:13:34.843Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-11-07T11:15:35.918Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="destpet/components/content/image"
+                            actionLinkURL="_self"
+                            alt="[Laser therapy treatment in the dog,Laser therapy treatment in the dog]"
+                            displayPopupTitle="true"
+                            dmPresetType="imagePreset"
+                            fileReference="/content/dam/destpet/destination-pet-wood-stock/us/en/dog-laser-therapy.jpg"
+                            imageFromPageImage="false"
+                            titleValueFromDAM="false"/>
+                    </container1>
+                    <container2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="destpet/components/content/container">
+                        <title
+                            jcr:created="{Date}2024-11-07T11:13:52.175Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-11-07T11:34:21.747Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            jcr:title="Pet Laser Therapy in [City Name]"
+                            sling:resourceType="destpet/components/content/title"
+                            linkTarget="_self"
+                            type="h2"/>
+                        <richtext_copy_copy
+                            cq:styleIds="[1653980320261,1663159032900]"
+                            jcr:created="{Date}2024-11-07T10:47:44.881Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-11-07T11:34:13.100Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="destpet/components/content/richtext"
+                            text="&lt;p>[Center Name] + Medical Center offers laser therapy for pets in [City Name], and the surrounding areas.&lt;/p>&#xd;&#xa;&lt;p>Call us&amp;nbsp;&lt;a href=&quot;tel:9014378547&quot;>(901) 437-8547&lt;/a>&lt;/p>&#xd;&#xa;"
+                            textIsRich="true"/>
+                        <button
+                            cq:styleIds="[1657119424322]"
+                            jcr:created="{Date}2024-11-07T11:34:29.753Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-11-12T11:45:57.184Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            jcr:title="Request Service"
+                            sling:resourceType="destpet/components/content/button"
+                            id="Request Service"
+                            link="https://portal.yourgipet.com/index?centerid=278"
+                            linkTarget="_blank"/>
+                    </container2>
+                </mediainfo_copy_copy>
             </container>
         </root>
         <cq:featuredimage
-            jcr:lastModified="{Date}2024-07-18T05:45:35.583+05:30"
-            jcr:lastModifiedBy="admin"
+            jcr:lastModified="{Date}2024-11-07T10:47:21.494Z"
+            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
             jcr:primaryType="nt:unstructured"
             sling:resourceType="core/wcm/components/image/v3/image"
             altValueFromDAM="false"/>

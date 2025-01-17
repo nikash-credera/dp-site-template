@@ -1,25 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
     jcr:primaryType="cq:Page">
     <jcr:content
         cq:isDelivered="{Boolean}false"
-        cq:lastModified="{Date}2024-07-18T06:19:14.841+05:30"
-        cq:lastModifiedBy="admin"
-        cq:lastReplicated_scene7="{Date}2024-05-31T08:57:39.831Z"
+        cq:lastModified="{Date}2024-12-03T10:00:58.228Z"
+        cq:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+        cq:lastReplicated="{Date}2024-12-03T10:22:04.907Z"
+        cq:lastReplicated_publish="{Date}2024-12-03T10:22:04.907Z"
+        cq:lastReplicated_scene7="{Date}2024-12-03T09:29:40.637Z"
+        cq:lastReplicatedBy="Shyamlal.Saroj@destpet.com"
+        cq:lastReplicatedBy_publish="Shyamlal.Saroj@destpet.com"
         cq:lastReplicatedBy_scene7="Shyamlal.Saroj@destpet.com"
+        cq:lastReplicationAction="Activate"
+        cq:lastReplicationAction_publish="Activate"
         cq:lastReplicationAction_scene7="Activate"
         cq:tags="[destpet:services/veterinary/surgery]"
         cq:template="/conf/destpet/settings/wcm/templates/services"
         jcr:description="Laser surgery offers pets a less painful, more precise surgery with minimal bleeding and faster healing. Best Surgeons in Centre."
-        jcr:lastModified="{Date}2024-07-18T05:45:35.583+05:30"
-        jcr:lastModifiedBy="admin"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:lastModified="{Date}2024-12-03T10:00:58.174Z"
+        jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+        jcr:mixinTypes="[cq:ReplicationStatus2,mix:versionable]"
         jcr:primaryType="cq:PageContent"
         jcr:title="Surgery"
+        jcr:uuid="020f495b-4e99-419a-aa25-c0996e682b6e"
         sling:resourceType="destpet/components/structure/page"
         clientlibsTheme="theme-brown-dog-lodge"
         disablePopup="true"
         favIconClientLibPath="/etc.clientlibs/destpet/clientlibs/clientlib-favicon/browndoglodge/resources"
         hidePopupMobile="true"
+        isPricing="false"
+        isProfile="false"
         megamenuView="false"
         ogTags="false"
         pageTitle="Laser Surgery"
@@ -55,7 +66,7 @@
                             linkTarget="_self"
                             type="h1"/>
                         <richtext
-                            cq:styleIds="[1658223888669,1663189883671,1653980320261]"
+                            cq:styleIds="[1658223888669,1663189883671,16539089333554]"
                             jcr:lastModified="{Date}2024-05-21T06:43:02.359Z"
                             jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
                             jcr:primaryType="nt:unstructured"
@@ -65,7 +76,7 @@
                     </_x0031_>
                 </columncontainer>
                 <columncontainer1
-                    cq:styleIds="[1654238023364]"
+                    cq:styleIds="[1654238085069]"
                     jcr:lastModified="{Date}2024-01-12T20:56:04.976Z"
                     jcr:lastModifiedBy="rahul.pippiri@destpet.com"
                     jcr:primaryType="nt:unstructured"
@@ -108,7 +119,7 @@
                     imageFromPageImage="false"
                     imageModifiers="[wid=2000]"
                     linkTarget="_self"
-                    linkURL="/content/dp-site-template/us/en/bestlife/overview"
+                    linkURL="/content/poochpalace/us/en/bestlife/overview"
                     titleValueFromDAM="true"/>
                 <mediainfo
                     cq:styleIds="[1660737909560,1660737948429,1654083381783]"
@@ -126,7 +137,7 @@
                         jcr:primaryType="nt:unstructured"
                         jcr:title="Learn More"
                         sling:resourceType="destpet/components/content/button"
-                        link="/content/dp-site-template/us/en/about-us"
+                        link="/content/poochpalace/us/en/about-us"
                         linkTarget="_blank"/>
                     <image
                         cq:styleIds="[1654083114742]"
@@ -168,7 +179,7 @@
                             jcr:primaryType="nt:unstructured"
                             jcr:title="Learn More"
                             sling:resourceType="destpet/components/content/button"
-                            link="/content/dp-site-template/us/en/about-us"
+                            link="/content/poochpalace/us/en/about-us"
                             linkTarget="_self"/>
                     </container>
                     <container1
@@ -244,7 +255,7 @@
                         jcr:primaryType="nt:unstructured"
                         jcr:title="Learn More"
                         sling:resourceType="destpet/components/content/button"
-                        link="/content/dp-site-template/us/en/about-us"
+                        link="/content/poochpalace/us/en/about-us"
                         linkTarget="_blank"/>
                     <image
                         cq:styleIds="[1654083114742]"
@@ -286,7 +297,7 @@
                             jcr:primaryType="nt:unstructured"
                             jcr:title="Learn More"
                             sling:resourceType="destpet/components/content/button"
-                            link="/content/dp-site-template/us/en/about-us"
+                            link="/content/poochpalace/us/en/about-us"
                             linkTarget="_self"/>
                     </container>
                     <container1
@@ -308,6 +319,18 @@
                             sling:resourceType="destpet/components/content/richtext"
                             text="&lt;p>Almost all pets will have surgery at some point in their lives, so make it quicker, easier, and less painful with laser surgery. We offer laser surgery to the pet communities of cities, and the surrounding areas. Give us a call and talk to a Centre team member to discuss how laser surgery can benefit your pet. Don’t forget to schedule your furry pal’s surgery!&lt;/p>&#xd;&#xa;"
                             textIsRich="true"/>
+                        <button_copy
+                            cq:styleIds="[1657119424322]"
+                            jcr:created="{Date}2024-11-07T11:34:29.753Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-11-12T11:45:57.184Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            jcr:title="Request Service"
+                            sling:resourceType="destpet/components/content/button"
+                            id="Request Service"
+                            link="https://portal.yourgipet.com/index?centerid=278"
+                            linkTarget="_blank"/>
                     </container1>
                     <container2
                         jcr:primaryType="nt:unstructured"
@@ -331,8 +354,8 @@
             </container>
         </root>
         <cq:featuredimage
-            jcr:lastModified="{Date}2024-07-18T05:45:35.583+05:30"
-            jcr:lastModifiedBy="admin"
+            jcr:lastModified="{Date}2024-12-03T10:00:58.174Z"
+            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
             jcr:primaryType="nt:unstructured"
             sling:resourceType="core/wcm/components/image/v3/image"
             altValueFromDAM="false"/>

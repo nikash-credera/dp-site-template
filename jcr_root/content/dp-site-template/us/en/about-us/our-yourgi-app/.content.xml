@@ -1,18 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
     jcr:primaryType="cq:Page">
     <jcr:content
-        cq:lastModified="{Date}2024-07-18T06:12:04.351+05:30"
-        cq:lastModifiedBy="admin"
+        cq:isDelivered="{Boolean}false"
+        cq:lastModified="{Date}2024-12-03T13:15:11.586Z"
+        cq:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+        cq:lastReplicated="{Date}2024-12-03T13:15:19.462Z"
+        cq:lastReplicated_publish="{Date}2024-12-03T13:15:19.462Z"
+        cq:lastReplicated_scene7="{Date}2024-12-03T13:15:19.462Z"
+        cq:lastReplicatedBy="Shyamlal.Saroj@destpet.com"
+        cq:lastReplicatedBy_publish="Shyamlal.Saroj@destpet.com"
+        cq:lastReplicatedBy_scene7="Shyamlal.Saroj@destpet.com"
+        cq:lastReplicationAction="Activate"
+        cq:lastReplicationAction_publish="Activate"
+        cq:lastReplicationAction_scene7="Activate"
         cq:template="/conf/destpet/settings/wcm/templates/page"
+        jcr:description="\[Center_name] new app, Yourgi, is your guide to your pet’s best life and includes all the resources you need to care for them in one place."
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:lastModified="{Date}2024-12-03T07:39:56.749Z"
+        jcr:lastModifiedBy="priya.p@destpet.com"
+        jcr:mixinTypes="[cq:ReplicationStatus2,mix:versionable]"
         jcr:primaryType="cq:PageContent"
-        jcr:title="Our Yourgi App"
+        jcr:title="Yourgi App - Your Pet's Guide to Their Best Life"
+        jcr:uuid="2540b547-f427-418c-ad6c-522be86fcd08"
         sling:resourceType="destpet/components/structure/page"
-        clientlibsTheme="theme-brown-dog-lodge"
+        clientlibsTheme="theme-pooch-palace"
         disablePopup="true"
         favIconClientLibPath="/etc.clientlibs/destpet/clientlibs/clientlib-favicon/actionpackcenter/resources"
         hidePopupMobile="false"
+        isPricing="false"
+        isProfile="false"
         megamenuView="false"
+        ogTags="false"
+        pageTitle="Our App"
+        pwaCachestrategy="staleWhileRevalidate"
+        pwaDisplay="standalone"
+        pwaOrientation="any"
+        schemaType="noSchema"
         secondaryLink="false">
         <root
             jcr:primaryType="nt:unstructured"
@@ -21,7 +45,143 @@
             <container
                 jcr:primaryType="nt:unstructured"
                 sling:resourceType="destpet/components/content/container"
-                layout="responsiveGrid"/>
+                layout="responsiveGrid">
+                <image
+                    cq:styleIds="[1654083116865]"
+                    jcr:created="{Date}2024-11-05T11:52:22.858Z"
+                    jcr:createdBy="priya.p@destpet.com"
+                    jcr:lastModified="{Date}2024-12-03T13:13:05.952Z"
+                    jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="destpet/components/content/image"
+                    actionLinkURL="_blank"
+                    alt="[Yourgi header,Yourgi header]"
+                    altValueFromDAM="true"
+                    displayPopupTitle="true"
+                    dmPresetType="imagePreset"
+                    fileReference="/content/dam/yourgi/us/en/general/pooch-palace-yourgi.png"
+                    id="yourgi-our-app-banner"
+                    imageFromPageImage="false"
+                    imageModifiers="wid=3000"
+                    linkURL="https://qrco.de/bcwYBB"
+                    titleValueFromDAM="true"/>
+                <columncontainer
+                    cq:styleIds="[1654238085069]"
+                    jcr:created="{Date}2024-11-05T11:57:21.200Z"
+                    jcr:createdBy="priya.p@destpet.com"
+                    jcr:lastModified="{Date}2024-11-05T11:57:28.530Z"
+                    jcr:lastModifiedBy="priya.p@destpet.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="destpet/components/content/columncontainer"
+                    columnCount="2">
+                    <_x0031_
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="wcm/foundation/components/parsys">
+                        <image
+                            jcr:created="{Date}2024-11-05T11:57:37.371Z"
+                            jcr:createdBy="priya.p@destpet.com"
+                            jcr:lastModified="{Date}2024-11-05T12:00:17.921Z"
+                            jcr:lastModifiedBy="priya.p@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="destpet/components/content/image"
+                            actionLinkURL="_blank"
+                            alt="[Yourgi cell phones,Yourgi cell phones]"
+                            altValueFromDAM="true"
+                            displayPopupTitle="true"
+                            dmPresetType="imagePreset"
+                            fileReference="/content/dam/destpet/destination-pet-wood-stock/us/en/Yourgi_BDL_LandingPage_PhotosandButton-2.jpg"
+                            id="download-yourgi-app"
+                            imageFromPageImage="false"
+                            linkURL="https://qrco.de/bcwYBB"
+                            titleValueFromDAM="true"/>
+                    </_x0031_>
+                    <_x0032_
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="wcm/foundation/components/parsys">
+                        <image_copy
+                            jcr:created="{Date}2024-11-05T11:57:37.371Z"
+                            jcr:createdBy="priya.p@destpet.com"
+                            jcr:lastModified="{Date}2024-11-05T12:03:48.749Z"
+                            jcr:lastModifiedBy="priya.p@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="destpet/components/content/image"
+                            actionLinkURL="_self"
+                            alt="[Yourgi features,Yourgi features]"
+                            altValueFromDAM="true"
+                            displayPopupTitle="true"
+                            fileReference="/content/dam/yourgi/us/en/general/Yourgi_BDL_LandingPage_Features.png"
+                            id="yourgi-features"
+                            imageFromPageImage="false"
+                            titleValueFromDAM="true"/>
+                    </_x0032_>
+                </columncontainer>
+                <columncontainer_1722462412
+                    cq:styleIds="[1654083381763,1654238028922,1654238085069]"
+                    jcr:created="{Date}2024-11-05T12:04:14.375Z"
+                    jcr:createdBy="priya.p@destpet.com"
+                    jcr:lastModified="{Date}2024-11-05T12:04:14.375Z"
+                    jcr:lastModifiedBy="priya.p@destpet.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="destpet/components/content/columncontainer">
+                    <_x0031_
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="wcm/foundation/components/parsys">
+                        <video
+                            jcr:created="{Date}2024-11-05T12:04:22.775Z"
+                            jcr:createdBy="priya.p@destpet.com"
+                            jcr:lastModified="{Date}2024-12-03T13:15:11.578Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="destpet/components/content/video"
+                            id="Video-app"
+                            path="/content/dam/yourgi/us/en/videos/yourgi-video-desktop.mp4"
+                            thumbnailImage="/content/dam/yourgi/us/en/general/yourgi-video-thumbnail-2.png"/>
+                    </_x0031_>
+                </columncontainer_1722462412>
+                <columncontainer_1106367185
+                    cq:styleIds="[1654238085069]"
+                    jcr:created="{Date}2024-11-05T12:08:57.549Z"
+                    jcr:createdBy="priya.p@destpet.com"
+                    jcr:lastModified="{Date}2024-11-05T12:08:57.549Z"
+                    jcr:lastModifiedBy="priya.p@destpet.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="destpet/components/content/columncontainer">
+                    <_x0031_
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="wcm/foundation/components/parsys">
+                        <title
+                            cq:styleIds="[1660048309992]"
+                            jcr:created="{Date}2024-11-05T12:09:06.644Z"
+                            jcr:createdBy="priya.p@destpet.com"
+                            jcr:lastModified="{Date}2024-11-05T12:09:27.711Z"
+                            jcr:lastModifiedBy="priya.p@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            jcr:title="Have a question about the Yourgi app?"
+                            sling:resourceType="destpet/components/content/title"
+                            linkTarget="_self"
+                            type="h2"/>
+                        <button
+                            cq:styleIds="[1657119357033,1657119424322]"
+                            jcr:created="{Date}2024-11-05T12:09:40.752Z"
+                            jcr:createdBy="priya.p@destpet.com"
+                            jcr:lastModified="{Date}2024-11-05T12:10:29.396Z"
+                            jcr:lastModifiedBy="priya.p@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            jcr:title="Contact Customer Support"
+                            sling:resourceType="destpet/components/content/button"
+                            buttonImageAltText="Yourgi support"
+                            id="contact us"
+                            link="https://support.yourgipet.com/hc/en-us"
+                            linkTarget="_blank"/>
+                    </_x0031_>
+                </columncontainer_1106367185>
+            </container>
         </root>
+        <cq:featuredimage
+            jcr:lastModified="{Date}2024-12-03T07:39:56.749Z"
+            jcr:lastModifiedBy="priya.p@destpet.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="core/wcm/components/image/v3/image"
+            altValueFromDAM="false"/>
     </jcr:content>
 </jcr:root>

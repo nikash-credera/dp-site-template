@@ -1,18 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
     jcr:primaryType="cq:Page">
     <jcr:content
-        cq:lastModified="{Date}2024-07-18T06:11:25.648+05:30"
-        cq:lastModifiedBy="admin"
+        cq:isDelivered="{Boolean}false"
+        cq:lastModified="{Date}2024-12-03T10:33:06.076Z"
+        cq:lastModifiedBy="priya.p@destpet.com"
+        cq:lastReplicated="{Date}2024-12-03T10:33:14.683Z"
+        cq:lastReplicated_publish="{Date}2024-12-03T10:33:14.683Z"
+        cq:lastReplicated_scene7="{Date}2024-11-13T14:20:55.932Z"
+        cq:lastReplicatedBy="priya.p@destpet.com"
+        cq:lastReplicatedBy_publish="priya.p@destpet.com"
+        cq:lastReplicatedBy_scene7="Shyamlal.Saroj@destpet.com"
+        cq:lastReplicationAction="Activate"
+        cq:lastReplicationAction_publish="Activate"
+        cq:lastReplicationAction_scene7="Activate"
         cq:template="/conf/destpet/settings/wcm/templates/page"
+        jcr:description="Contact details of [Center Name] "
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:lastModified="{Date}2024-12-03T10:33:06.021Z"
+        jcr:lastModifiedBy="priya.p@destpet.com"
+        jcr:mixinTypes="[cq:ReplicationStatus2,mix:versionable]"
         jcr:primaryType="cq:PageContent"
         jcr:title="Contact Us"
+        jcr:uuid="909a26a0-a153-4b00-a72b-3fa1e19de1c2"
         sling:resourceType="destpet/components/structure/page"
-        clientlibsTheme="theme-brown-dog-lodge"
+        clientlibsTheme="theme-pooch-palace"
         disablePopup="true"
         favIconClientLibPath="/etc.clientlibs/destpet/clientlibs/clientlib-favicon/actionpackcenter/resources"
         hidePopupMobile="false"
+        isPricing="false"
+        isProfile="false"
         megamenuView="false"
+        ogTags="false"
+        pageTitle="Contact Us"
+        pwaCachestrategy="staleWhileRevalidate"
+        pwaDisplay="standalone"
+        pwaOrientation="any"
+        schemaType="noSchema"
         secondaryLink="false">
         <root
             jcr:primaryType="nt:unstructured"
@@ -21,7 +45,118 @@
             <container
                 jcr:primaryType="nt:unstructured"
                 sling:resourceType="destpet/components/content/container"
-                layout="responsiveGrid"/>
+                layout="responsiveGrid">
+                <columncontainer_copy
+                    cq:styleIds="[1654083376895,1654238085069]"
+                    jcr:created="{Date}2024-11-05T12:21:34.477Z"
+                    jcr:createdBy="priya.p@destpet.com"
+                    jcr:lastModified="{Date}2024-11-05T12:21:34.477Z"
+                    jcr:lastModifiedBy="priya.p@destpet.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="destpet/components/content/columncontainer">
+                    <_x0031_
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="wcm/foundation/components/parsys">
+                        <title
+                            cq:styleIds="[1660048309992,1663573025868]"
+                            jcr:created="{Date}2024-11-05T12:21:41.214Z"
+                            jcr:createdBy="priya.p@destpet.com"
+                            jcr:lastModified="{Date}2024-11-12T14:42:52.740Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            jcr:title="Contact Us"
+                            sling:resourceType="destpet/components/content/title"
+                            linkTarget="_self"
+                            type="h1"/>
+                        <richtext
+                            cq:styleIds="[1658223888669,1663189883671,16539089333554]"
+                            jcr:created="{Date}2024-11-12T14:44:41.113Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-11-12T14:44:55.284Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="destpet/components/content/richtext"
+                            text="&lt;p style=&quot;text-align: center;&quot;>We're here for you.&lt;/p>&#xd;&#xa;"
+                            textIsRich="true"/>
+                    </_x0031_>
+                </columncontainer_copy>
+                <mediainfo
+                    cq:styleIds="[1660737948429]"
+                    jcr:created="{Date}2024-11-12T14:48:43.658Z"
+                    jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                    jcr:lastModified="{Date}2024-11-12T14:48:43.658Z"
+                    jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="destpet/components/content/mediainfo">
+                    <container2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="destpet/components/content/container">
+                        <title
+                            cq:styleIds="[1660048309992]"
+                            jcr:created="{Date}2024-11-12T14:56:57.865Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-11-12T14:57:11.487Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            jcr:title="Get In Touch"
+                            sling:resourceType="destpet/components/content/title"
+                            linkTarget="_self"
+                            type="h2"/>
+                        <richtext
+                            cq:styleIds="[1653980320261]"
+                            jcr:created="{Date}2024-11-12T14:56:44.814Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-11-12T15:06:06.655Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="destpet/components/content/richtext"
+                            text="&lt;p style=&quot;text-align: center;&quot;>If you have questions or comments about the services we provide, do not hesitate to contact us. We're here for you!&lt;/p>&#xd;&#xa;"
+                            textIsRich="true"/>
+                        <contactuscard_copy
+                            jcr:created="{Date}2024-11-26T09:10:36.702Z"
+                            jcr:createdBy="deepika.kawatra@destpet.com"
+                            jcr:lastModified="{Date}2024-11-26T09:10:36.702Z"
+                            jcr:lastModifiedBy="deepika.kawatra@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="destpet/components/content/contactuscard"/>
+                        <richtext_copy
+                            cq:styleIds="[1653980320261]"
+                            jcr:created="{Date}2024-11-12T14:56:44.814Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-11-12T15:05:59.784Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="destpet/components/content/richtext"
+                            text="&lt;p style=&quot;text-align: center;&quot;>&lt;b>Holiday Closures&lt;/b>&lt;/p>&#xd;&#xa;&lt;p style=&quot;text-align: center;&quot;>Our location will be closed for pick up or drop off on the following holidays: New Year’s Day, Memorial Day, Independence Day, Labor Day, Thanksgiving Day, and Christmas Day. Please contact our center to speak with a team member to learn more.&lt;/p>&#xd;&#xa;"
+                            textIsRich="true"/>
+                    </container2>
+                    <container1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="destpet/components/content/container">
+                        <image
+                            jcr:created="{Date}2024-11-12T14:58:23.977Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-11-12T14:58:36.898Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="destpet/components/content/image"
+                            actionLinkURL="_self"
+                            alt="[Destination Pet Logo,Destination Pet Logo]"
+                            altValueFromDAM="true"
+                            displayPopupTitle="true"
+                            dmPresetType="imagePreset"
+                            fileReference="/content/dam/destinationpet/us/en/thumbnails/corgi-sitting-computer.jpg"
+                            imageFromPageImage="false"
+                            titleValueFromDAM="true"/>
+                    </container1>
+                </mediainfo>
+            </container>
         </root>
+        <cq:featuredimage
+            jcr:lastModified="{Date}2024-12-03T10:33:06.021Z"
+            jcr:lastModifiedBy="priya.p@destpet.com"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="core/wcm/components/image/v3/image"
+            altValueFromDAM="false"/>
     </jcr:content>
 </jcr:root>

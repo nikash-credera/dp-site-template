@@ -1,24 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
     jcr:primaryType="cq:Page">
     <jcr:content
         cq:isDelivered="{Boolean}false"
-        cq:lastModified="{Date}2024-07-18T06:20:53.677+05:30"
-        cq:lastModifiedBy="admin"
-        cq:lastReplicated_scene7="{Date}2024-05-21T21:17:40.826Z"
-        cq:lastReplicatedBy_scene7="Shyamlal.Saroj@destpet.com"
+        cq:lastModified="{Date}2024-12-03T10:36:11.387Z"
+        cq:lastModifiedBy="priya.p@destpet.com"
+        cq:lastReplicated="{Date}2024-12-03T10:36:15.493Z"
+        cq:lastReplicated_publish="{Date}2024-12-03T10:36:15.493Z"
+        cq:lastReplicated_scene7="{Date}2024-12-03T10:36:15.493Z"
+        cq:lastReplicatedBy="priya.p@destpet.com"
+        cq:lastReplicatedBy_publish="priya.p@destpet.com"
+        cq:lastReplicatedBy_scene7="priya.p@destpet.com"
+        cq:lastReplicationAction="Activate"
+        cq:lastReplicationAction_publish="Activate"
         cq:lastReplicationAction_scene7="Activate"
         cq:tags="[destpet:services/veterinary/diagnostics/ultrasound]"
         cq:template="/conf/destpet/settings/wcm/templates/services"
-        jcr:lastModified="{Date}2024-07-18T05:45:35.583+05:30"
-        jcr:lastModifiedBy="admin"
+        jcr:description="Ultrasound"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:lastModified="{Date}2024-12-03T09:57:14.208Z"
+        jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+        jcr:mixinTypes="[cq:ReplicationStatus2,mix:versionable]"
         jcr:primaryType="cq:PageContent"
         jcr:title="Ultrasound"
+        jcr:uuid="93c0d903-b12d-4618-a009-aa93ae6b7670"
         sling:resourceType="destpet/components/structure/page"
-        clientlibsTheme="theme-brown-dog-lodge"
+        clientlibsTheme="theme-pooch-palace"
         disablePopup="true"
         favIconClientLibPath="/etc.clientlibs/destpet/clientlibs/clientlib-favicon/browndoglodge/resources"
         hidePopupMobile="true"
+        isPricing="false"
+        isProfile="false"
         megamenuView="false"
         ogTags="false"
         pageTitle="Ultrasound"
@@ -53,13 +65,181 @@
                             sling:resourceType="destpet/components/content/title"
                             linkTarget="_self"
                             type="h1"/>
+                        <richtext_copy
+                            cq:styleIds="[1658223888669,1663189883671,16539089333554]"
+                            jcr:created="{Date}2024-11-05T09:55:41.717Z"
+                            jcr:createdBy="priya.p@destpet.com"
+                            jcr:lastModified="{Date}2024-11-05T10:10:18.662Z"
+                            jcr:lastModifiedBy="priya.p@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="destpet/components/content/richtext"
+                            text="&lt;p style=&quot;text-align: center;&quot;>Ultrasounds are non-invasive, pain-free, and entirely safe for your furry friend.&lt;/p>&#xd;&#xa;"
+                            textIsRich="true"/>
                     </_x0031_>
                 </columncontainer>
+                <columncontainer_copy
+                    cq:styleIds="[1654238085069]"
+                    jcr:lastModified="{Date}2023-02-14T13:41:53.241Z"
+                    jcr:lastModifiedBy="rahul.pippiri@destpet.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="destpet/components/content/columncontainer">
+                    <_x0031_
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="wcm/foundation/components/parsys">
+                        <title
+                            cq:styleIds="[1660048309992]"
+                            jcr:lastModified="{Date}2024-11-05T10:10:39.930Z"
+                            jcr:lastModifiedBy="priya.p@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            jcr:title="Advanced Diagnostic Imaging Using Ultrasound Technology"
+                            sling:resourceType="destpet/components/content/title"
+                            linkTarget="_self"
+                            type="h2"/>
+                        <richtext
+                            jcr:created="{Date}2024-11-05T09:55:41.717Z"
+                            jcr:createdBy="priya.p@destpet.com"
+                            jcr:lastModified="{Date}2024-11-07T07:03:49.188Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="destpet/components/content/richtext"
+                            text="&lt;p style=&quot;text-align: center;&quot;>Our veterinarians can tell a lot about your pet’s overall health by performing a physical exam. In many instances, though, they need to look a bit deeper. They commonly rely on our ultrasound equipment to obtain clear pictures of the patient’s internal structures in these cases. Ultrasound machines use soundwaves rather than the radiation used by x-ray equipment, and they are capable of producing detailed images in seconds. Ultrasounds are non-invasive, pain-free, and entirely safe for your furry friend. If your dog or cat needs an ultrasound in [City Name], we can help!&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;"
+                            textIsRich="true"/>
+                    </_x0031_>
+                </columncontainer_copy>
+                <image_copy
+                    jcr:created="{Date}2024-11-05T09:58:02.489Z"
+                    jcr:createdBy="priya.p@destpet.com"
+                    jcr:lastModified="{Date}2024-11-05T09:59:39.093Z"
+                    jcr:lastModifiedBy="priya.p@destpet.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="destpet/components/content/image"
+                    actionLinkURL="_self"
+                    alt="[bestlife banner,bestlife banner]"
+                    displayPopupTitle="true"
+                    fileReference="/content/dam/brands/dogaholics/us/en/general/yourgi-bestlife-vet-web-banners-image.png"
+                    imageFromPageImage="false"
+                    linkURL="/content/poochpalace/us/en/bestlife/overview"
+                    titleValueFromDAM="true"/>
+                <mediainfo1_copy_copy
+                    cq:styleIds="[1660737948429]"
+                    jcr:lastModified="{Date}2024-01-12T21:05:53.528Z"
+                    jcr:lastModifiedBy="rahul.pippiri@destpet.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="destpet/components/content/mediainfo">
+                    <container1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="destpet/components/content/container">
+                        <title_2123219503
+                            jcr:lastModified="{Date}2024-11-05T12:42:21.544Z"
+                            jcr:lastModifiedBy="priya.p@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            jcr:title="How It Works"
+                            sling:resourceType="destpet/components/content/title"
+                            linkTarget="_self"
+                            type="h2"/>
+                        <richtext
+                            cq:styleIds="[16539089333554,1656900333555]"
+                            jcr:lastModified="{Date}2024-12-03T10:36:11.377Z"
+                            jcr:lastModifiedBy="priya.p@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="destpet/components/content/richtext"
+                            text="&lt;p>No matter what species of pet you bring through our door, our team will handle them with skill and treat them with the utmost love and respect. Just like we do with cats and dogs, we provide wellness exams, diagnostic testing, and surgical care for exotic pets. We also offer beak-trimming services for birds and turtles and can trim teeth on rabbits and rodents. Whatever your exotic pet needs, trust in the team at&amp;nbsp;[Center Name] to provide the gold standard of care when you need avian and exotic pet care in the [City Name] area.&lt;/p>&#xd;&#xa;"
+                            textIsRich="true"/>
+                    </container1>
+                    <container2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="destpet/components/content/container">
+                        <image
+                            jcr:lastModified="{Date}2024-11-07T09:25:20.314Z"
+                            jcr:lastModifiedBy="priya.p@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="destpet/components/content/image"
+                            actionLinkURL="_self"
+                            alt="[Woman holding dog,Woman holding dog]"
+                            altValueFromDAM="true"
+                            displayPopupTitle="false"
+                            fileReference="/content/dam/brands/brown-dog-lodge/us/en/general/dvm-robinson-ultrasound-1000px.jpg"
+                            imageFromPageImage="false"
+                            imageModifiers="fmt=png-alpha"
+                            linkTarget="_self"
+                            titleValueFromDAM="false"/>
+                    </container2>
+                </mediainfo1_copy_copy>
+                <image_copy_copy
+                    jcr:created="{Date}2024-11-05T09:58:02.489Z"
+                    jcr:createdBy="priya.p@destpet.com"
+                    jcr:lastModified="{Date}2024-11-05T10:13:11.685Z"
+                    jcr:lastModifiedBy="priya.p@destpet.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="destpet/components/content/image"
+                    actionLinkURL="_blank"
+                    alt="[veterinary banner,veterinary banner]"
+                    displayPopupTitle="true"
+                    fileReference="/content/dam/brands/destination-pet-wood-stock/us/en/general/yourgi-service-banner-book-veterinary-5000px-1.jpg"
+                    imageFromPageImage="false"
+                    linkURL="https://qrco.de/bcwYBB"
+                    titleValueFromDAM="true"/>
+                <mediainfo1_copy_copy_1074629888
+                    cq:styleIds="[1660737948429,1660737911807]"
+                    jcr:lastModified="{Date}2024-01-12T21:05:53.528Z"
+                    jcr:lastModifiedBy="rahul.pippiri@destpet.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="destpet/components/content/mediainfo">
+                    <container1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="destpet/components/content/container">
+                        <title_2123219503
+                            jcr:lastModified="{Date}2024-11-07T06:56:05.785Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            jcr:title="Pet Ultrasound in [City Name]"
+                            sling:resourceType="destpet/components/content/title"
+                            linkTarget="_self"
+                            type="h2"/>
+                        <richtext
+                            cq:styleIds="[16539089333554,1656900333555]"
+                            jcr:lastModified="{Date}2024-11-07T07:04:25.141Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="destpet/components/content/richtext"
+                            text="&lt;p>For pet vaccinations in [City Name], trust [Center Name]. We serve all of&amp;nbsp;[City Name] County and would be honored to be entrusted with your precious pet’s care. Keeping your pet up to date on vaccines takes only a few minutes each year, and doing so could help them enjoy more years as your faithful companion. Please&amp;nbsp;&lt;a href=&quot;/content/poochpalace/us/en/about-us/contact-us.html&quot;>contact us today&lt;/a>&amp;nbsp;to learn more or schedule your dog or cat’s appointment.&lt;/p>&#xd;&#xa;"
+                            textIsRich="true"/>
+                        <button
+                            cq:styleIds="[1657119424322]"
+                            jcr:created="{Date}2024-11-05T10:06:05.024Z"
+                            jcr:createdBy="priya.p@destpet.com"
+                            jcr:lastModified="{Date}2024-11-05T10:06:31.988Z"
+                            jcr:lastModifiedBy="priya.p@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            jcr:title="Request service"
+                            sling:resourceType="destpet/components/content/button"
+                            link="https://portal.yourgipet.com/?centerid=163"
+                            linkTarget="_blank"/>
+                    </container1>
+                    <container2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="destpet/components/content/container">
+                        <image
+                            jcr:lastModified="{Date}2024-11-07T09:25:26.086Z"
+                            jcr:lastModifiedBy="priya.p@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="destpet/components/content/image"
+                            actionLinkURL="_self"
+                            alt="[Woman holding dog,Woman holding dog]"
+                            altValueFromDAM="true"
+                            displayPopupTitle="false"
+                            fileReference="/content/dam/brands/brown-dog-lodge/us/en/general/browndog-lodge-vet-dvm-dr-robinson-ultrasound-dog-women-staff-2400px.jpg"
+                            imageFromPageImage="false"
+                            imageModifiers="fmt=png-alpha"
+                            linkTarget="_self"
+                            titleValueFromDAM="false"/>
+                    </container2>
+                </mediainfo1_copy_copy_1074629888>
             </container>
         </root>
         <cq:featuredimage
-            jcr:lastModified="{Date}2024-07-18T05:45:35.583+05:30"
-            jcr:lastModifiedBy="admin"
+            jcr:lastModified="{Date}2024-12-03T09:57:14.208Z"
+            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
             jcr:primaryType="nt:unstructured"
             sling:resourceType="core/wcm/components/image/v3/image"
             altValueFromDAM="false"/>

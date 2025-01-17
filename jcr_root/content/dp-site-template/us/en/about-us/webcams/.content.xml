@@ -21,7 +21,15 @@
             <container
                 jcr:primaryType="nt:unstructured"
                 sling:resourceType="destpet/components/content/container"
-                layout="responsiveGrid"/>
+                layout="responsiveGrid">
+                <webcams
+                    jcr:created="{Date}2025-01-07T09:26:31.348+05:30"
+                    jcr:createdBy="admin"
+                    jcr:lastModified="{Date}2025-01-07T09:26:31.348+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="destpet/components/content/webcams"/>  
+            </container> 
         </root>
     </jcr:content>
 </jcr:root>

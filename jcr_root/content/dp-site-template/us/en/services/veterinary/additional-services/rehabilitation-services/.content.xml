@@ -1,24 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
     jcr:primaryType="cq:Page">
     <jcr:content
         cq:isDelivered="{Boolean}false"
-        cq:lastModified="{Date}2024-07-18T06:20:53.677+05:30"
-        cq:lastModifiedBy="admin"
-        cq:lastReplicated_scene7="{Date}2024-05-21T21:17:40.826Z"
+        cq:lastModified="{Date}2024-11-12T13:51:19.934Z"
+        cq:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+        cq:lastReplicated="{Date}2024-12-03T10:22:31.815Z"
+        cq:lastReplicated_publish="{Date}2024-12-03T10:22:31.815Z"
+        cq:lastReplicated_scene7="{Date}2024-11-12T13:51:42.263Z"
+        cq:lastReplicatedBy="Shyamlal.Saroj@destpet.com"
+        cq:lastReplicatedBy_publish="Shyamlal.Saroj@destpet.com"
         cq:lastReplicatedBy_scene7="Shyamlal.Saroj@destpet.com"
+        cq:lastReplicationAction="Activate"
+        cq:lastReplicationAction_publish="Activate"
         cq:lastReplicationAction_scene7="Activate"
         cq:tags="[destpet:services/veterinary/additional-services/rehabilitation-services]"
         cq:template="/conf/destpet/settings/wcm/templates/services"
-        jcr:lastModified="{Date}2024-07-18T05:45:35.583+05:30"
-        jcr:lastModifiedBy="admin"
+        jcr:description="Rehabilitation Services (Including Hydrotherapy)"
+        jcr:isCheckedOut="{Boolean}true"
+        jcr:lastModified="{Date}2024-11-12T12:44:13.722Z"
+        jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+        jcr:mixinTypes="[cq:ReplicationStatus2,mix:versionable]"
         jcr:primaryType="cq:PageContent"
         jcr:title="Rehabilitation Services (Including Hydrotherapy)"
+        jcr:uuid="250a32ae-d266-4af9-b580-ab4fd7033265"
         sling:resourceType="destpet/components/structure/page"
-        clientlibsTheme="theme-brown-dog-lodge"
+        clientlibsTheme="theme-pooch-palace"
         disablePopup="true"
         favIconClientLibPath="/etc.clientlibs/destpet/clientlibs/clientlib-favicon/browndoglodge/resources"
         hidePopupMobile="true"
+        isPricing="false"
+        isProfile="false"
         megamenuView="false"
         ogTags="false"
         pageTitle="Rehabilitation Services (Including Hydrotherapy)"
@@ -55,11 +67,203 @@
                             type="h1"/>
                     </_x0031_>
                 </columncontainer>
+                <mediainfo
+                    cq:styleIds="[1660737948429]"
+                    jcr:created="{Date}2024-11-12T12:44:38.242Z"
+                    jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                    jcr:lastModified="{Date}2024-11-12T12:44:38.242Z"
+                    jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="destpet/components/content/mediainfo">
+                    <container1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="destpet/components/content/container">
+                        <title
+                            jcr:created="{Date}2024-11-12T12:45:09.654Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-11-12T12:45:39.387Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            jcr:title="Rehabilitation "
+                            sling:resourceType="destpet/components/content/title"
+                            linkTarget="_self"
+                            type="h2"/>
+                        <richtext
+                            cq:styleIds="[1653980320261]"
+                            jcr:created="{Date}2024-11-12T12:44:45.472Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-11-12T12:46:10.945Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="destpet/components/content/richtext"
+                            text="&lt;p>Physical rehabilitation can make a difference in the lives of all animals by improving mobility and alleviating pain, especially after an injury or orthopedic procedure. Physical therapy and rehab are highly specialized areas of veterinary medicine and not many general practices offer such unique care. However, [Center Name] has skilled practitioners experienced in these techniques to help build muscle, restore mobility, and reduce pain in your beloved companion. &lt;/p>&#xd;&#xa;&lt;p>Physical therapy and rehab treatment techniques may include modalities such as ice, heat, soft tissue mobilization, therapeutic exercise, massage, and hydrotherapy. &lt;/p>&#xd;&#xa;"
+                            textIsRich="true"/>
+                    </container1>
+                    <container2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="destpet/components/content/container">
+                        <image
+                            jcr:created="{Date}2024-11-12T12:44:49.067Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-11-12T13:51:19.906Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="destpet/components/content/image"
+                            actionLinkURL="_self"
+                            alt="[Dog is being treated,Dog is being treated]"
+                            altValueFromDAM="true"
+                            displayPopupTitle="true"
+                            dmPresetType="imagePreset"
+                            fileReference="/content/dam/destpet/destination-pet-wood-stock/us/en/brown-dog-exam.jpg"
+                            imageFromPageImage="false"
+                            titleValueFromDAM="true"/>
+                    </container2>
+                </mediainfo>
+                <image_copy_copy_copy_227464904
+                    jcr:created="{Date}2024-11-05T09:58:02.489Z"
+                    jcr:createdBy="priya.p@destpet.com"
+                    jcr:lastModified="{Date}2024-11-05T09:59:39.093Z"
+                    jcr:lastModifiedBy="priya.p@destpet.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="destpet/components/content/image"
+                    actionLinkURL="_self"
+                    alt="[bestlife banner,bestlife banner]"
+                    displayPopupTitle="true"
+                    fileReference="/content/dam/brands/dogaholics/us/en/general/yourgi-bestlife-vet-web-banners-image.png"
+                    imageFromPageImage="false"
+                    linkURL="/content/poochpalace/us/en/bestlife/overview"
+                    titleValueFromDAM="true"/>
+                <mediainfo_copy
+                    cq:styleIds="[1660737948429,1660737911807]"
+                    jcr:created="{Date}2024-11-12T12:44:38.242Z"
+                    jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                    jcr:lastModified="{Date}2024-11-12T12:44:38.242Z"
+                    jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="destpet/components/content/mediainfo">
+                    <container1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="destpet/components/content/container">
+                        <title
+                            jcr:created="{Date}2024-11-12T12:45:22.854Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-11-12T12:45:48.619Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            jcr:title="Hydrotherapy "
+                            sling:resourceType="destpet/components/content/title"
+                            linkTarget="_self"
+                            type="h2"/>
+                        <richtext
+                            cq:styleIds="[1653980320261]"
+                            jcr:created="{Date}2024-11-12T12:44:45.472Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-11-12T12:46:38.856Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="destpet/components/content/richtext"
+                            text="&lt;p>At [Center Name], we offer hydrotherapy as part of our comprehensive approach to pet care. Hydrotherapy involves exercising in a controlled aquatic environment, such as a specially designed pool or underwater treadmill. This gentle yet effective form of therapy can benefit pets in numerous ways, including rehabilitation after surgery or injury, management of chronic conditions like arthritis or hip dysplasia, weight management, and overall fitness improvement. Hydrotherapy provides low-impact exercise, which reduces stress on joints while promoting muscle strength and flexibility.  &lt;/p>&#xd;&#xa;&lt;p>Additionally, the buoyancy of water reduces the weight-bearing load on the body, making it easier and less painful for pets to move and exercise. Our experienced team of veterinarians and hydrotherapists at [Center Name] will tailor each session to meet your pet's individual needs, ensuring they receive the highest quality care and support on their journey to improved health and mobility. &lt;/p>&#xd;&#xa;"
+                            textIsRich="true"/>
+                    </container1>
+                    <container2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="destpet/components/content/container">
+                        <image
+                            jcr:created="{Date}2024-11-12T12:44:49.067Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-11-12T12:50:58.765Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="destpet/components/content/image"
+                            actionLinkURL="_self"
+                            alt="[dog in swimming pool,dog in swimming pool]"
+                            altValueFromDAM="true"
+                            displayPopupTitle="true"
+                            dmPresetType="imagePreset"
+                            fileReference="/content/dam/brands/pet-nation-lodge/us/en/general/dog-in-swimming-pool.jpg"
+                            imageFromPageImage="false"
+                            titleValueFromDAM="false"/>
+                    </container2>
+                </mediainfo_copy>
+                <image_copy_copy_copy
+                    jcr:created="{Date}2024-11-05T09:58:02.489Z"
+                    jcr:createdBy="priya.p@destpet.com"
+                    jcr:lastModified="{Date}2024-11-05T10:13:11.685Z"
+                    jcr:lastModifiedBy="priya.p@destpet.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="destpet/components/content/image"
+                    actionLinkURL="_blank"
+                    alt="[veterinary banner,veterinary banner]"
+                    displayPopupTitle="true"
+                    fileReference="/content/dam/brands/destination-pet-wood-stock/us/en/general/yourgi-service-banner-book-veterinary-5000px-1.jpg"
+                    imageFromPageImage="false"
+                    linkURL="https://qrco.de/bcwYBB"
+                    titleValueFromDAM="true"/>
+                <mediainfo1_copy_copy
+                    cq:styleIds="[1660737948429,1654083381783]"
+                    jcr:lastModified="{Date}2024-01-12T21:05:53.528Z"
+                    jcr:lastModifiedBy="rahul.pippiri@destpet.com"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="destpet/components/content/mediainfo">
+                    <container1
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="destpet/components/content/container">
+                        <title_2123219503
+                            jcr:lastModified="{Date}2024-11-12T12:48:15.352Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            jcr:title="Rehabilitation and Hydrotherapy in [City Name]"
+                            sling:resourceType="destpet/components/content/title"
+                            linkTarget="_self"
+                            type="h2"/>
+                        <richtext_copy_copy_c
+                            cq:styleIds="[1653980320261,1663159032900]"
+                            jcr:created="{Date}2024-11-07T10:47:44.881Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-11-12T12:49:20.312Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="destpet/components/content/richtext"
+                            text="&lt;p>[Center Name] + Medical Center offers&amp;nbsp;Rehabilitation and Hydrotherapy for pets in [City Name], and the surrounding areas.&lt;/p>&#xd;&#xa;&lt;p>Call us&amp;nbsp;&lt;a href=&quot;tel:9014378547&quot;>(901) 437-8547&lt;/a>&lt;/p>&#xd;&#xa;"
+                            textIsRich="true"/>
+                        <button_copy_copy
+                            cq:styleIds="[1657119424322]"
+                            jcr:created="{Date}2024-11-07T11:34:29.753Z"
+                            jcr:createdBy="Shyamlal.Saroj@destpet.com"
+                            jcr:lastModified="{Date}2024-11-12T11:45:57.184Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            jcr:title="Request Service"
+                            sling:resourceType="destpet/components/content/button"
+                            id="Request Service"
+                            link="https://portal.yourgipet.com/index?centerid=278"
+                            linkTarget="_blank"/>
+                    </container1>
+                    <container2
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="destpet/components/content/container">
+                        <image
+                            jcr:lastModified="{Date}2024-05-15T21:49:45.328Z"
+                            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="destpet/components/content/image"
+                            actionLinkURL="_self"
+                            alt="[Woman holding dog,Woman holding dog]"
+                            altValueFromDAM="true"
+                            displayPopupTitle="false"
+                            dmPresetType="imagePreset"
+                            fileReference="/content/dam/destpet/destination-pet-wood-stock/us/en/girl-with-dog.jpg"
+                            imageFromPageImage="false"
+                            imageModifiers="fmt=png-alpha"
+                            linkTarget="_self"
+                            titleValueFromDAM="false"/>
+                    </container2>
+                </mediainfo1_copy_copy>
             </container>
         </root>
         <cq:featuredimage
-            jcr:lastModified="{Date}2024-07-18T05:45:35.583+05:30"
-            jcr:lastModifiedBy="admin"
+            jcr:lastModified="{Date}2024-11-12T12:44:13.722Z"
+            jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
             jcr:primaryType="nt:unstructured"
             sling:resourceType="core/wcm/components/image/v3/image"
             altValueFromDAM="false"/>
