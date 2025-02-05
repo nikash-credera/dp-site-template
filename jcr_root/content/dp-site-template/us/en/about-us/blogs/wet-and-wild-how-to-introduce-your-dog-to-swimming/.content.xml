@@ -21,7 +21,7 @@
         jcr:uuid="6a0dd8dd-6622-459f-b77b-554644d38e9a"
         sling:resourceType="destpet/components/structure/page"
         clientlibsTheme="theme-pooch-palace"
-        disablePopup="false"
+        disablePopup="true"
         favIconClientLibPath="/etc.clientlibs/destpet/clientlibs/clientlib-favicon/actionpackcenter/resources"
         hideInNav="true"
         hidePopupMobile="true"

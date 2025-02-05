@@ -12,7 +12,7 @@
         clientlibsTheme="theme-brown-dog-lodge"
         disablePopup="true"
         favIconClientLibPath="/etc.clientlibs/destpet/clientlibs/clientlib-favicon/browndoglodge/resources"
-        hidePopupMobile="false"
+        hidePopupMobile="true"
         megamenuView="false"
         ogTags="false"
         pwaCachestrategy="staleWhileRevalidate"
