@@ -11,7 +11,7 @@
         clientlibsTheme="theme-brown-dog-lodge"
         disablePopup="true"
         favIconClientLibPath="/etc.clientlibs/destpet/clientlibs/clientlib-favicon/actionpackcenter/resources"
-        hidePopupMobile="false"
+        hidePopupMobile="true"
         megamenuView="false"
         secondaryLink="false">
         <root

@@ -12,7 +12,7 @@
         disablePopup="false"
         favIconClientLibPath="/etc.clientlibs/platform/clientlibs/clientlib-favicon/spartapetplazzo/resources"
         hideInNav="true"
-        hidePopupMobile="false"
+        hidePopupMobile="true"
         isPricing="false"
         isProfile="false"
         megamenuView="false"
