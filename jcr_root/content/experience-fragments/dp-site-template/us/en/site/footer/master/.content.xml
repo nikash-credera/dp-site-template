@@ -156,6 +156,17 @@
                                 linkText="Terms &amp; Conditions"
                                 linkUrl="https://www.destinationpet.com/terms-and-conditions/"
                                 newTab="_blank"/>
+                            <link_18356300_copy
+                                jcr:created="{Date}2022-10-18T10:44:06.862Z"
+                                jcr:createdBy="sowmya.pinjala@destpet.com"
+                                jcr:lastModified="{Date}2025-02-17T07:34:51.117Z"
+                                jcr:lastModifiedBy="sridevi.s@tadigital.com"
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="destpet/components/content/link"
+                                id="Company-Footer-3"
+                                linkText="Careers"
+                                linkUrl="https://destinationpet.wd5.myworkdayjobs.com/DPEC"
+                                newTab="_blank"/>
                             <link_18356300
                                 jcr:created="{Date}2022-10-18T10:44:06.862Z"
                                 jcr:createdBy="sowmya.pinjala@destpet.com"
@@ -163,7 +174,7 @@
                                 jcr:lastModifiedBy="mukeshkumar.k@destpet.com"
                                 jcr:primaryType="nt:unstructured"
                                 sling:resourceType="destpet/components/content/link"
-                                id="Company-Footer-3"
+                                id="Company-Footer-4"
                                 linkText="Contact Us"
                                 linkUrl="/content/dp-site-template/us/en/about-us/contact-us/"/>
                             <link_18356305
@@ -173,7 +184,7 @@
                                 jcr:lastModifiedBy="deepika.kawatra@destpet.com"
                                 jcr:primaryType="nt:unstructured"
                                 sling:resourceType="destpet/components/content/link"
-                                id="Company-Footer-4"
+                                id="Company-Footer-5"
                                 linkText="Blog"
                                 linkUrl="/content/dp-site-template/us/en/about-us/blogs"/>
                         </par>
