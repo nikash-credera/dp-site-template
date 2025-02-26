@@ -10,7 +10,7 @@
         jcr:lastModified="{Date}2025-02-25T15:32:17.736Z"
         jcr:lastModifiedBy="Shyamlal.Saroj@destpet.com"
         jcr:primaryType="cq:PageContent"
-        jcr:title="Pet Preventative Care | Story Road Animal Hospital"
+        jcr:title="Pet Preventative Care"
         sling:resourceType="destpet/components/structure/page"
         clientlibsTheme="theme-story-road-animal-hospital"
         disablePopup="true"

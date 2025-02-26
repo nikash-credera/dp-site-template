@@ -10,7 +10,7 @@
         jcr:lastModified="{Date}2024-07-18T05:45:35.583+05:30"
         jcr:lastModifiedBy="admin"
         jcr:primaryType="cq:PageContent"
-        jcr:title="Wellness Care | Story Road Animal Hospital"
+        jcr:title="Wellness Care"
         sling:resourceType="destpet/components/structure/page"
         clientlibsTheme="theme-story-road-animal-hospital"
         disablePopup="true"
