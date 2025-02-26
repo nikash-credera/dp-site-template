@@ -33,7 +33,7 @@
         isProfile="false"
         megamenuView="false"
         ogTags="false"
-        pageTitle="In House Diagnostics"
+        pageTitle="Diagnostics"
         pwaCachestrategy="staleWhileRevalidate"
         pwaDisplay="standalone"
         pwaOrientation="any"

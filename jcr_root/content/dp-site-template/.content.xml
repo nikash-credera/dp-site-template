@@ -3,7 +3,7 @@
     jcr:primaryType="cq:Page">
     <jcr:content
         cq:allowedTemplates="/conf/destpet/settings/wcm/templates/page"
-        cq:conf="/conf/destpet"
+        cq:conf="/conf/brands"
         cq:isDelivered="{Boolean}false"
         cq:lastModified="{Date}2024-07-18T06:25:15.963+05:30"
         cq:lastModifiedBy="admin"
